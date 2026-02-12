@@ -1,31 +1,27 @@
-# Video-Game-Sales-Analysis
-Data Analytics project using Python EDA, SQL and Power BI to analyze video game sales and engagement trends.
+# 🎮 Video Game Sales & Engagement Analysis
 
-# Video Game Sales & Engagement Analysis
+## 📊 Project Overview
+This project analyzes global video game sales and engagement metrics using Python EDA and Power BI dashboards.
 
-## Tools Used:
-- Python (Pandas, Seaborn, Matplotlib)
+## 🛠 Tools Used
+- Python (Pandas, Matplotlib, Seaborn)
 - SQL
 - Power BI
 
-## Project Overview:
-This project analyzes global video game sales and engagement metrics to identify trends in platforms, genres, and regional markets.
-
-## Key Insights:
-- Action genre dominates global sales.
-- Western markets generate majority revenue.
-- Wishlist metrics help predict demand.
-
-## Files Included:
-- Python EDA notebook
-- Power BI dashboard
-- Business insights report
-- Presentation script
-
-# 🎮 Video Game Sales & Engagement Analysis
-
-## 🎥 Project Presentation Video
-
-Watch full explanation here:
-
+## 🎥 Presentation Video
 https://drive.google.com/file/d/1usCDr_yciQPUzXiPToJWZIXfCL9Fv842/view?usp=drive_link
+
+## 📈 Dashboard Pages
+- Executive Overview
+- Market Performance Analysis
+- User Engagement Insights
+
+## 🔍 Key Insights
+- Action genre dominates global sales.
+- Western markets contribute majority revenue.
+- Engagement metrics help understand player behavior.
+
+## 📁 Project Structure
+- notebooks → Python EDA
+- dashboard → Power BI file
+- reports → Insights & presentation
