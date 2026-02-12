@@ -1,0 +1,1345 @@
+title,platform,publisher,sales_genre,release_year,rating,na_sales,eu_sales,jp_sales,other_sales,global_sales,plays,playing,backlogs,wishlist,num_reviews,sales_per_review,engagement_ratio
+Minecraft,X360,Microsoft Game Studios,Misc,2011,4.3,5.58,2.83,0.02,0.77,9.2,33000.0,1800.0,1100.0,230.0,2300.0,0.004,0.0545
+Minecraft,PS3,Sony Computer Entertainment,Misc,2011,4.3,1.97,2.51,0.0,0.94,5.42,33000.0,1800.0,1100.0,230.0,2300.0,0.0024,0.0545
+Minecraft,PS4,Sony Computer Entertainment Europe,Misc,2011,4.3,1.38,1.87,0.12,0.65,4.02,33000.0,1800.0,1100.0,230.0,2300.0,0.0017,0.0545
+Minecraft,XOne,Microsoft Game Studios,Misc,2011,4.3,1.43,0.76,0.0,0.22,2.41,33000.0,1800.0,1100.0,230.0,2300.0,0.001,0.0545
+Minecraft,PSV,Sony Computer Entertainment Europe,Misc,2011,4.3,0.28,0.79,0.87,0.32,2.25,33000.0,1800.0,1100.0,230.0,2300.0,0.001,0.0545
+Minecraft,WiiU,Microsoft Game Studios,Misc,2011,4.3,0.18,0.09,0.14,0.03,0.43,33000.0,1800.0,1100.0,230.0,2300.0,0.0002,0.0545
+God of War,PS2,Sony Computer Entertainment,Action,2018,4.2,2.71,1.29,0.02,0.43,4.45,21000.0,1100.0,4800.0,2600.0,2900.0,0.0015,0.0524
+Portal 2,X360,Valve Software,Shooter,2011,4.4,1.41,0.51,0.01,0.17,2.1,29000.0,471.0,3900.0,1200.0,2900.0,0.0007,0.0162
+Portal 2,PS3,Valve,Shooter,2011,4.4,0.83,0.63,0.02,0.25,1.74,29000.0,471.0,3900.0,1200.0,2900.0,0.0006,0.0162
+Portal 2,PC,Valve Software,Shooter,2011,4.4,0.33,0.32,0.0,0.11,0.76,29000.0,471.0,3900.0,1200.0,2900.0,0.0003,0.0162
+Bloodborne,PS4,Sony Computer Entertainment,Action,2015,4.5,1.0,0.76,0.26,0.36,2.38,17000.0,1100.0,5600.0,3300.0,3400.0,0.0007,0.0647
+Metal Gear Rising: Revengeance,PS3,Konami Digital Entertainment,Action,2013,4.1,0.45,0.4,0.44,0.18,1.47,14000.0,492.0,4200.0,2000.0,2100.0,0.0007,0.0351
+Metal Gear Rising: Revengeance,X360,Konami Digital Entertainment,Action,2013,4.1,0.29,0.16,0.0,0.04,0.5,14000.0,492.0,4200.0,2000.0,2100.0,0.0002,0.0351
+Grand Theft Auto V,PS3,Take-Two Interactive,Action,2013,3.8,7.01,9.27,0.97,4.14,21.4,30000.0,829.0,3200.0,664.0,2100.0,0.0102,0.0276
+Grand Theft Auto V,X360,Take-Two Interactive,Action,2013,3.8,9.63,5.31,0.06,1.38,16.38,30000.0,829.0,3200.0,664.0,2100.0,0.0078,0.0276
+Grand Theft Auto V,PS4,Take-Two Interactive,Action,2013,3.8,3.8,5.81,0.36,2.02,11.98,30000.0,829.0,3200.0,664.0,2100.0,0.0057,0.0276
+Grand Theft Auto V,XOne,Take-Two Interactive,Action,2013,3.8,2.66,2.01,0.0,0.41,5.08,30000.0,829.0,3200.0,664.0,2100.0,0.0024,0.0276
+Grand Theft Auto V,PC,Take-Two Interactive,Action,2013,3.8,0.36,0.64,0.0,0.08,1.08,30000.0,829.0,3200.0,664.0,2100.0,0.0005,0.0276
+Dark Souls III,PS4,Namco Bandai Games,Role-Playing,2016,4.2,0.58,0.44,0.33,0.21,1.56,19000.0,851.0,4300.0,2200.0,2400.0,0.0006,0.0448
+Dark Souls III,XOne,Namco Bandai Games,Role-Playing,2016,4.2,0.23,0.09,0.0,0.03,0.35,19000.0,851.0,4300.0,2200.0,2400.0,0.0001,0.0448
+Dark Souls III,PC,Namco Bandai Games,Role-Playing,2016,4.2,0.0,0.05,0.0,0.0,0.05,19000.0,851.0,4300.0,2200.0,2400.0,0.0,0.0448
+Super Mario 64,N64,Nintendo,Platform,1996,4.1,6.91,2.85,1.91,0.23,11.89,21000.0,463.0,2500.0,775.0,2600.0,0.0046,0.022
+Super Mario 64,DS,Nintendo,Platform,1996,4.1,5.08,3.11,1.25,0.98,10.42,21000.0,463.0,2500.0,775.0,2600.0,0.004,0.022
+Final Fantasy VII,PS,Sony Computer Entertainment,Role-Playing,1997,4.2,3.01,2.47,3.28,0.96,9.72,15000.0,1100.0,5000.0,1500.0,2900.0,0.0034,0.0733
+Super Mario Galaxy,Wii,Nintendo,Platform,2007,4.3,6.16,3.4,1.2,0.76,11.52,21000.0,468.0,3100.0,1200.0,2700.0,0.0043,0.0223
+Fallout: New Vegas,X360,Bethesda Softworks,Role-Playing,2010,4.3,2.65,1.06,0.04,0.33,4.08,16000.0,756.0,5000.0,1400.0,2000.0,0.002,0.0472
+Fallout: New Vegas,PS3,Bethesda Softworks,Role-Playing,2010,4.3,1.52,1.08,0.1,0.47,3.17,16000.0,756.0,5000.0,1400.0,2000.0,0.0016,0.0472
+Fallout: New Vegas,PC,Bethesda Softworks,Role-Playing,2010,4.3,0.58,0.45,0.0,0.14,1.16,16000.0,756.0,5000.0,1400.0,2000.0,0.0006,0.0472
+Resident Evil 2,PS,Virgin Interactive,Action,2019,4.3,1.88,1.47,2.02,0.45,5.82,15000.0,585.0,3600.0,1900.0,2500.0,0.0023,0.039
+Resident Evil 2,N64,Virgin Interactive,Action,2019,4.3,0.39,0.09,0.07,0.01,0.56,15000.0,585.0,3600.0,1900.0,2500.0,0.0002,0.039
+Resident Evil 2,GC,Capcom,Action,2019,4.3,0.04,0.01,0.0,0.0,0.06,15000.0,585.0,3600.0,1900.0,2500.0,0.0,0.039
+Doom,PS,Infogrames,Shooter,2016,4.0,0.43,0.3,0.0,0.05,0.78,18000.0,541.0,4000.0,1400.0,1800.0,0.0004,0.0301
+Doom,GBA,Activision,Shooter,2016,4.0,0.1,0.04,0.0,0.0,0.14,18000.0,541.0,4000.0,1400.0,1800.0,0.0001,0.0301
+Doom,PC,id Software,Shooter,2016,4.0,0.02,0.0,0.0,0.0,0.03,18000.0,541.0,4000.0,1400.0,1800.0,0.0,0.0301
+Bayonetta,PS3,Sega,Action,2009,3.9,0.44,0.41,0.21,0.17,1.23,13000.0,614.0,5000.0,2300.0,1700.0,0.0007,0.0472
+Bayonetta,X360,Sega,Action,2009,3.9,0.51,0.26,0.09,0.08,0.94,13000.0,614.0,5000.0,2300.0,1700.0,0.0006,0.0472
+Silent Hill 2,PS2,Konami Digital Entertainment,Action,2001,4.5,0.62,0.49,0.0,0.16,1.28,8600.0,282.0,2900.0,2100.0,2200.0,0.0006,0.0328
+The Witcher 3: Wild Hunt,PS4,Namco Bandai Games,Role-Playing,2015,4.3,0.96,2.0,0.21,0.56,3.73,17000.0,1200.0,6100.0,1600.0,2000.0,0.0019,0.0706
+The Witcher 3: Wild Hunt,XOne,Namco Bandai Games,Role-Playing,2015,4.3,0.66,0.47,0.0,0.11,1.24,17000.0,1200.0,6100.0,1600.0,2000.0,0.0006,0.0706
+The Witcher 3: Wild Hunt,PC,Namco Bandai Games,Role-Playing,2015,4.3,0.2,0.42,0.0,0.05,0.67,17000.0,1200.0,6100.0,1600.0,2000.0,0.0003,0.0706
+Persona 5,PS4,Atlus,Role-Playing,2016,4.1,0.0,0.0,0.34,0.0,0.34,16000.0,630.0,2800.0,1700.0,1800.0,0.0002,0.0394
+Persona 5,PS3,Unknown,Role-Playing,2016,4.1,0.0,0.0,0.1,0.0,0.1,16000.0,630.0,2800.0,1700.0,1800.0,0.0001,0.0394
+The Elder Scrolls V: Skyrim,X360,Bethesda Softworks,Role-Playing,2011,3.7,5.03,2.86,0.1,0.85,8.84,22000.0,589.0,3000.0,1000.0,1700.0,0.0052,0.0268
+The Elder Scrolls V: Skyrim,PS3,Bethesda Softworks,Role-Playing,2011,3.7,2.55,2.71,0.25,1.05,6.56,22000.0,589.0,3000.0,1000.0,1700.0,0.0039,0.0268
+The Elder Scrolls V: Skyrim,PC,Bethesda Softworks,Role-Playing,2011,3.7,1.15,2.09,0.0,0.64,3.88,22000.0,589.0,3000.0,1000.0,1700.0,0.0023,0.0268
+Resident Evil 4,PS2,Capcom,Action,2005,4.3,2.08,0.83,0.46,0.25,3.62,14000.0,360.0,3000.0,1200.0,2300.0,0.0016,0.0257
+Resident Evil 4,Wii,Capcom,Action,2005,4.3,1.34,0.57,0.14,0.21,2.26,14000.0,360.0,3000.0,1200.0,2300.0,0.001,0.0257
+Resident Evil 4,GC,Capcom,Action,2005,4.3,0.98,0.42,0.22,0.06,1.69,14000.0,360.0,3000.0,1200.0,2300.0,0.0007,0.0257
+Resident Evil 4,PC,Ubisoft,Action,2005,4.3,0.0,0.02,0.0,0.01,0.03,14000.0,360.0,3000.0,1200.0,2300.0,0.0,0.0257
+Dark Souls,PS3,Namco Bandai Games,Role-Playing,2011,4.3,0.75,0.54,0.54,0.23,2.07,14000.0,447.0,2500.0,1400.0,2100.0,0.001,0.0319
+Dark Souls,X360,Namco Bandai Games,Role-Playing,2011,4.3,0.64,0.28,0.0,0.08,1.0,14000.0,447.0,2500.0,1400.0,2100.0,0.0005,0.0319
+Dark Souls,PC,Namco Bandai Games,Role-Playing,2011,4.3,0.0,0.06,0.0,0.01,0.07,14000.0,447.0,2500.0,1400.0,2100.0,0.0,0.0319
+The Legend of Zelda: Ocarina of Time,N64,Nintendo,Action,1998,4.3,4.1,1.89,1.45,0.16,7.6,17000.0,433.0,3000.0,1400.0,2200.0,0.0035,0.0255
+The Legend of Zelda: Ocarina of Time,3DS,Nintendo,Action,1998,4.3,2.03,1.27,0.62,0.3,4.21,17000.0,433.0,3000.0,1400.0,2200.0,0.0019,0.0255
+Chrono Trigger,SNES,SquareSoft,Role-Playing,1995,4.5,0.28,0.0,2.02,0.01,2.31,9100.0,518.0,4900.0,2200.0,1900.0,0.0012,0.0569
+Chrono Trigger,DS,Square Enix,Role-Playing,1995,4.5,0.69,0.2,0.49,0.09,1.47,9100.0,518.0,4900.0,2200.0,1900.0,0.0008,0.0569
+Metal Gear Solid 2: Sons of Liberty,PS2,Konami Digital Entertainment,Action,2001,4.4,2.45,2.01,0.87,0.72,6.05,10000.0,161.0,2600.0,1400.0,1800.0,0.0034,0.0161
+Super Mario World,SNES,Nintendo,Platform,1990,4.2,12.78,3.75,3.54,0.55,20.61,18000.0,218.0,1700.0,460.0,2100.0,0.0098,0.0121
+Super Mario World,GBA,Nintendo,Platform,1990,4.2,3.21,1.11,0.95,0.2,5.46,18000.0,218.0,1700.0,460.0,2100.0,0.0026,0.0121
+EarthBound,SNES,Nintendo,Role-Playing,1994,4.2,0.0,0.0,0.81,0.0,0.81,9000.0,600.0,4800.0,1800.0,1900.0,0.0004,0.0667
+Castlevania: Symphony of the Night,PS,Konami Digital Entertainment,Platform,1997,4.4,0.58,0.4,0.21,0.08,1.27,9100.0,316.0,3400.0,1700.0,1900.0,0.0007,0.0347
+Super Metroid,SNES,Nintendo,Action,1994,4.3,0.57,0.12,0.71,0.02,1.42,11000.0,309.0,3000.0,907.0,2200.0,0.0006,0.0281
+Super Mario Bros.,NES,Nintendo,Platform,1985,3.5,29.08,3.58,6.81,0.77,40.24,18000.0,59.0,733.0,237.0,1500.0,0.0268,0.0033
+Super Mario Bros.,GB,Nintendo,Platform,1985,3.5,3.4,1.3,0.15,0.22,5.07,18000.0,59.0,733.0,237.0,1500.0,0.0034,0.0033
+The Legend of Zelda: Majora's Mask,N64,Nintendo,Action,2000,4.4,1.9,0.67,0.73,0.06,3.36,13000.0,347.0,3900.0,1800.0,2200.0,0.0015,0.0267
+The Last of Us,PS3,Sony Computer Entertainment Europe,Action,2013,4.2,2.41,2.28,0.28,1.01,5.99,17000.0,205.0,2000.0,1400.0,2000.0,0.003,0.0121
+The Last of Us,PS4,Sony Computer Entertainment,Action,2013,4.2,1.78,1.87,0.07,0.82,4.55,17000.0,205.0,2000.0,1400.0,2000.0,0.0023,0.0121
+Terraria,X360,505 Games,Action,2011,4.0,0.35,0.31,0.0,0.06,0.72,18000.0,673.0,2200.0,593.0,1300.0,0.0006,0.0374
+Terraria,PS3,505 Games,Action,2011,4.0,0.07,0.26,0.09,0.07,0.49,18000.0,673.0,2200.0,593.0,1300.0,0.0004,0.0374
+Terraria,PC,Unknown,Action,2011,4.0,0.0,0.13,0.0,0.02,0.15,18000.0,673.0,2200.0,593.0,1300.0,0.0001,0.0374
+Terraria,PSV,Screenlife,Action,2011,4.0,0.0,0.01,0.09,0.0,0.11,18000.0,673.0,2200.0,593.0,1300.0,0.0001,0.0374
+Terraria,3DS,505 Games,Action,2011,4.0,0.0,0.03,0.04,0.0,0.08,18000.0,673.0,2200.0,593.0,1300.0,0.0001,0.0374
+Terraria,PS4,505 Games,Action,2011,4.0,0.0,0.05,0.01,0.01,0.06,18000.0,673.0,2200.0,593.0,1300.0,0.0,0.0374
+Terraria,XOne,505 Games,Action,2011,4.0,0.0,0.04,0.0,0.0,0.04,18000.0,673.0,2200.0,593.0,1300.0,0.0,0.0374
+Terraria,WiiU,505 Games,Action,2011,4.0,0.0,0.02,0.0,0.0,0.03,18000.0,673.0,2200.0,593.0,1300.0,0.0,0.0374
+Metal Gear Solid V: The Phantom Pain,PS4,Konami Digital Entertainment,Action,2015,3.8,1.08,1.35,0.48,0.47,3.38,14000.0,503.0,4500.0,1200.0,1500.0,0.0023,0.0359
+Metal Gear Solid V: The Phantom Pain,XOne,Konami Digital Entertainment,Action,2015,3.8,0.37,0.26,0.01,0.06,0.71,14000.0,503.0,4500.0,1200.0,1500.0,0.0005,0.0359
+Metal Gear Solid V: The Phantom Pain,PS3,Konami Digital Entertainment,Action,2015,3.8,0.21,0.18,0.22,0.08,0.7,14000.0,503.0,4500.0,1200.0,1500.0,0.0005,0.0359
+Metal Gear Solid V: The Phantom Pain,X360,Konami Digital Entertainment,Action,2015,3.8,0.12,0.08,0.0,0.02,0.21,14000.0,503.0,4500.0,1200.0,1500.0,0.0001,0.0359
+Metal Gear Solid V: The Phantom Pain,PC,Konami Digital Entertainment,Action,2015,3.8,0.0,0.07,0.0,0.0,0.08,14000.0,503.0,4500.0,1200.0,1500.0,0.0001,0.0359
+Overwatch,PS4,Activision,Shooter,2016,3.2,0.64,0.68,0.14,0.26,1.73,19000.0,436.0,411.0,214.0,957.0,0.0018,0.0229
+Overwatch,XOne,Activision,Shooter,2016,3.2,0.52,0.25,0.0,0.08,0.85,19000.0,436.0,411.0,214.0,957.0,0.0009,0.0229
+Overwatch,PC,Activision,Shooter,2016,3.2,0.22,0.18,0.0,0.04,0.43,19000.0,436.0,411.0,214.0,957.0,0.0004,0.0229
+Half-Life 2,PC,Vivendi Games,Shooter,2004,4.2,2.28,0.02,0.08,0.0,2.37,15000.0,257.0,3500.0,1000.0,1700.0,0.0014,0.0171
+Half-Life 2,XB,Electronic Arts,Shooter,2004,4.2,0.37,0.21,0.0,0.03,0.61,15000.0,257.0,3500.0,1000.0,1700.0,0.0004,0.0171
+Grand Theft Auto: San Andreas,PS2,Take-Two Interactive,Action,2004,4.1,9.43,0.4,0.41,10.57,20.81,19000.0,270.0,2400.0,742.0,1500.0,0.0139,0.0142
+Grand Theft Auto: San Andreas,XB,Take-Two Interactive,Action,2004,4.1,1.26,0.61,0.0,0.09,1.95,19000.0,270.0,2400.0,742.0,1500.0,0.0013,0.0142
+Grand Theft Auto: San Andreas,PC,Take-Two Interactive,Action,2004,4.1,0.0,0.92,0.0,0.05,0.98,19000.0,270.0,2400.0,742.0,1500.0,0.0007,0.0142
+Grand Theft Auto: San Andreas,X360,Take-Two Interactive,Action,2004,4.1,0.08,0.03,0.0,0.01,0.12,19000.0,270.0,2400.0,742.0,1500.0,0.0001,0.0142
+Devil May Cry,PS2,Capcom,Action,2001,3.5,1.36,0.86,0.64,0.13,2.99,10000.0,286.0,2500.0,1100.0,1200.0,0.0025,0.0286
+Batman: Arkham Asylum,PS3,Eidos Interactive,Action,2009,3.9,2.23,1.34,0.07,0.61,4.25,17000.0,232.0,2300.0,672.0,1400.0,0.003,0.0136
+Batman: Arkham Asylum,X360,Eidos Interactive,Action,2009,3.9,2.2,0.97,0.02,0.31,3.5,17000.0,232.0,2300.0,672.0,1400.0,0.0025,0.0136
+Batman: Arkham Asylum,PC,Eidos Interactive,Action,2009,3.9,0.0,0.27,0.0,0.05,0.32,17000.0,232.0,2300.0,672.0,1400.0,0.0002,0.0136
+Super Mario Sunshine,GC,Nintendo,Platform,2002,3.7,4.01,1.26,0.87,0.17,6.31,14000.0,403.0,3300.0,1000.0,1700.0,0.0037,0.0288
+Mother 3,GBA,Nintendo,Role-Playing,2006,4.5,0.0,0.0,0.39,0.01,0.4,5700.0,287.0,3600.0,1900.0,1600.0,0.0002,0.0504
+Half-Life,PC,Vivendi Games,Shooter,1998,4.0,4.03,0.0,0.09,0.0,4.12,13000.0,322.0,2900.0,892.0,1300.0,0.0032,0.0248
+Half-Life,PS2,Vivendi Games,Shooter,1998,4.0,0.29,0.23,0.0,0.08,0.6,13000.0,322.0,2900.0,892.0,1300.0,0.0005,0.0248
+Danganronpa: Trigger Happy Havoc,PSV,Nippon Ichi Software,Misc,2010,3.5,0.14,0.07,0.15,0.06,0.41,12000.0,311.0,1900.0,716.0,1000.0,0.0004,0.0259
+Danganronpa: Trigger Happy Havoc,PSP,Unknown,Misc,2010,3.5,0.0,0.0,0.24,0.0,0.24,12000.0,311.0,1900.0,716.0,1000.0,0.0002,0.0259
+Left 4 Dead 2,X360,Electronic Arts,Shooter,2009,3.9,2.67,0.89,0.05,0.37,3.99,19000.0,279.0,1500.0,358.0,1100.0,0.0036,0.0147
+Left 4 Dead 2,PC,Valve Software,Shooter,2009,3.9,0.0,0.32,0.0,0.04,0.37,19000.0,279.0,1500.0,358.0,1100.0,0.0003,0.0147
+Batman: Arkham City,PS3,Warner Bros. Interactive Entertainment,Action,2011,4.1,2.7,1.91,0.11,0.8,5.53,16000.0,192.0,2700.0,651.0,1600.0,0.0035,0.012
+Batman: Arkham City,X360,Warner Bros. Interactive Entertainment,Action,2011,4.1,2.99,1.31,0.04,0.41,4.76,16000.0,192.0,2700.0,651.0,1600.0,0.003,0.012
+Batman: Arkham City,PC,Warner Bros. Interactive Entertainment,Action,2011,4.1,0.16,0.28,0.0,0.09,0.53,16000.0,192.0,2700.0,651.0,1600.0,0.0003,0.012
+Batman: Arkham City,WiiU,Warner Bros. Interactive Entertainment,Action,2011,4.1,0.17,0.18,0.0,0.03,0.38,16000.0,192.0,2700.0,651.0,1600.0,0.0002,0.012
+Yakuza Kiwami,PS4,Sega,Adventure,2016,3.7,0.0,0.0,0.16,0.0,0.16,9700.0,439.0,3400.0,1000.0,1200.0,0.0001,0.0453
+Yakuza Kiwami,PS3,Sega,Adventure,2016,3.7,0.0,0.0,0.12,0.0,0.12,9700.0,439.0,3400.0,1000.0,1200.0,0.0001,0.0453
+Phoenix Wright: Ace Attorney,DS,Capcom,Adventure,2005,4.1,0.49,0.07,0.39,0.05,0.99,12000.0,418.0,1900.0,1000.0,1300.0,0.0008,0.0348
+Life is Strange,PS4,Square Enix,Adventure,2015,3.4,0.14,0.15,0.03,0.06,0.37,15000.0,209.0,2100.0,817.0,1400.0,0.0003,0.0139
+Life is Strange,XOne,Square Enix,Adventure,2015,3.4,0.08,0.02,0.0,0.01,0.11,15000.0,209.0,2100.0,817.0,1400.0,0.0001,0.0139
+Life is Strange,PC,Square Enix,Adventure,2015,3.4,0.01,0.03,0.0,0.0,0.04,15000.0,209.0,2100.0,817.0,1400.0,0.0,0.0139
+Shadow of the Colossus,PS2,Sony Computer Entertainment,Action,2005,4.4,0.78,0.03,0.2,0.13,1.14,10000.0,134.0,2900.0,1700.0,1500.0,0.0008,0.0134
+Shadow of the Colossus,PS3,Sony Computer Entertainment,Action,2005,4.4,0.0,0.0,0.04,0.0,0.04,10000.0,134.0,2900.0,1700.0,1500.0,0.0,0.0134
+Super Mario Bros. 3,NES,Nintendo,Platform,1988,4.0,9.54,3.44,3.84,0.46,17.28,14000.0,109.0,1400.0,362.0,1600.0,0.0108,0.0078
+Super Mario Bros. 3,GBA,Nintendo,Platform,1988,4.0,2.93,1.25,0.83,0.2,5.2,14000.0,109.0,1400.0,362.0,1600.0,0.0032,0.0078
+Dishonored,X360,Bethesda Softworks,Action,2012,3.9,1.06,0.52,0.01,0.14,1.73,14000.0,268.0,3100.0,866.0,1100.0,0.0016,0.0191
+Dishonored,PS3,Bethesda Softworks,Action,2012,3.9,0.72,0.54,0.04,0.25,1.55,14000.0,268.0,3100.0,866.0,1100.0,0.0014,0.0191
+Dishonored,PC,Bethesda Softworks,Action,2012,3.9,0.26,0.19,0.0,0.06,0.51,14000.0,268.0,3100.0,866.0,1100.0,0.0005,0.0191
+Dishonored,PS4,Bethesda Softworks,Action,2012,3.9,0.11,0.18,0.02,0.06,0.37,14000.0,268.0,3100.0,866.0,1100.0,0.0003,0.0191
+Dishonored,XOne,Bethesda Softworks,Action,2012,3.9,0.08,0.05,0.0,0.01,0.14,14000.0,268.0,3100.0,866.0,1100.0,0.0001,0.0191
+Metal Gear Solid 3: Snake Eater,PS2,Konami Digital Entertainment,Action,2004,4.5,1.46,0.0,0.83,1.93,4.23,9200.0,118.0,2400.0,1300.0,1500.0,0.0028,0.0128
+Journey,PS3,Sony Computer Entertainment Europe,Adventure,2012,3.9,0.04,0.15,0.0,0.06,0.25,12000.0,94.0,2700.0,1700.0,1500.0,0.0002,0.0078
+Kingdom Hearts,PS2,Sony Computer Entertainment,Role-Playing,2002,3.6,3.64,1.2,1.49,0.07,6.4,12000.0,266.0,2100.0,1000.0,1300.0,0.0049,0.0222
+Kingdom Hearts,PS3,Square Enix,Role-Playing,2002,3.6,0.9,0.37,0.25,0.24,1.75,12000.0,266.0,2100.0,1000.0,1300.0,0.0013,0.0222
+Doom,PS,Infogrames,Shooter,1993,4.0,0.43,0.3,0.0,0.05,0.78,11000.0,203.0,1500.0,514.0,1400.0,0.0006,0.0185
+Doom,GBA,Activision,Shooter,1993,4.0,0.1,0.04,0.0,0.0,0.14,11000.0,203.0,1500.0,514.0,1400.0,0.0001,0.0185
+Doom,PC,id Software,Shooter,1993,4.0,0.02,0.0,0.0,0.0,0.03,11000.0,203.0,1500.0,514.0,1400.0,0.0,0.0185
+Live A Live,SNES,SquareSoft,Role-Playing,2022,4.1,0.0,0.0,0.32,0.0,0.32,1100.0,235.0,1700.0,1900.0,555.0,0.0006,0.2136
+Sonic the Hedgehog,GEN,Sega,Platform,1991,3.1,3.03,0.91,0.26,0.13,4.34,12000.0,60.0,804.0,243.0,1100.0,0.0039,0.005
+Sonic the Hedgehog,PS3,Sega,Platform,1991,3.1,0.41,0.07,0.04,0.66,1.18,12000.0,60.0,804.0,243.0,1100.0,0.0011,0.005
+Sonic the Hedgehog,X360,Sega,Platform,1991,3.1,0.44,0.49,0.0,0.11,1.05,12000.0,60.0,804.0,243.0,1100.0,0.001,0.005
+Sonic the Hedgehog,PS3,Unknown,Platform,1991,3.1,0.0,0.48,0.0,0.0,0.48,12000.0,60.0,804.0,243.0,1100.0,0.0004,0.005
+Rocket League,PS4,505 Games,Sports,2015,3.4,0.02,0.14,0.0,0.07,0.23,17000.0,564.0,698.0,113.0,917.0,0.0003,0.0332
+Rocket League,XOne,505 Games,Sports,2015,3.4,0.03,0.09,0.0,0.01,0.12,17000.0,564.0,698.0,113.0,917.0,0.0001,0.0332
+Rocket League,PC,505 Games,Sports,2015,3.4,0.01,0.01,0.0,0.0,0.02,17000.0,564.0,698.0,113.0,917.0,0.0,0.0332
+Batman: Arkham Knight,PS4,Warner Bros. Interactive Entertainment,Action,2015,3.7,1.49,1.58,0.1,0.61,3.79,13000.0,279.0,3400.0,757.0,1200.0,0.0032,0.0215
+Batman: Arkham Knight,XOne,Warner Bros. Interactive Entertainment,Action,2015,3.7,0.86,0.46,0.0,0.13,1.45,13000.0,279.0,3400.0,757.0,1200.0,0.0012,0.0215
+Batman: Arkham Knight,PC,Warner Bros. Interactive Entertainment,Action,2015,3.7,0.08,0.03,0.0,0.01,0.13,13000.0,279.0,3400.0,757.0,1200.0,0.0001,0.0215
+Wii Sports,Wii,Nintendo,Sports,2006,3.7,41.49,29.02,3.77,8.46,82.74,18000.0,39.0,320.0,93.0,775.0,0.1068,0.0022
+Mario Kart Wii,Wii,Nintendo,Racing,2008,3.9,15.85,12.88,3.79,3.31,35.82,19000.0,88.0,461.0,168.0,1000.0,0.0358,0.0046
+Red Dead Redemption,PS3,Take-Two Interactive,Action,2010,4.2,2.79,2.61,0.17,1.03,6.6,13000.0,218.0,2400.0,1600.0,1500.0,0.0044,0.0168
+Red Dead Redemption,X360,Take-Two Interactive,Action,2010,4.2,3.7,1.97,0.09,0.57,6.34,13000.0,218.0,2400.0,1600.0,1500.0,0.0042,0.0168
+Dead Space,PS3,Electronic Arts,Action,2023,4.3,1.05,0.67,0.0,0.3,2.02,1300.0,248.0,985.0,1900.0,501.0,0.004,0.1908
+Dead Space,X360,Electronic Arts,Action,2023,4.3,0.89,0.4,0.0,0.13,1.42,1300.0,248.0,985.0,1900.0,501.0,0.0028,0.1908
+Dead Space,PC,Electronic Arts,Action,2023,4.3,0.0,0.53,0.0,0.06,0.59,1300.0,248.0,985.0,1900.0,501.0,0.0012,0.1908
+Tomb Raider,PS,Eidos Interactive,Action,2013,3.5,2.29,1.97,0.13,0.24,4.63,15000.0,175.0,2700.0,508.0,896.0,0.0052,0.0117
+Tomb Raider,PC,Eidos Interactive,Action,2013,3.5,0.96,0.07,0.0,0.0,1.03,15000.0,175.0,2700.0,508.0,896.0,0.0011,0.0117
+Super Mario Galaxy 2,Wii,Nintendo,Platform,2010,4.3,3.66,2.42,0.98,0.64,7.69,13000.0,123.0,2500.0,1300.0,1800.0,0.0043,0.0095
+Donkey Kong Country,SNES,Nintendo,Platform,1994,3.9,4.36,1.71,3.0,0.23,9.3,11000.0,186.0,1900.0,514.0,1300.0,0.0072,0.0169
+Donkey Kong Country,GB,Nintendo,Platform,1994,3.9,1.04,0.72,0.3,0.13,2.19,11000.0,186.0,1900.0,514.0,1300.0,0.0017,0.0169
+Donkey Kong Country,GBA,Nintendo,Platform,1994,3.9,1.2,0.48,0.29,0.07,2.04,11000.0,186.0,1900.0,514.0,1300.0,0.0016,0.0169
+Assassin's Creed II,PS3,Ubisoft,Action,2009,3.8,2.54,1.95,0.21,0.87,5.57,16000.0,140.0,1500.0,521.0,1300.0,0.0043,0.0088
+Assassin's Creed II,X360,Ubisoft,Action,2009,3.8,3.1,1.56,0.08,0.51,5.27,16000.0,140.0,1500.0,521.0,1300.0,0.0041,0.0088
+Assassin's Creed II,PC,Ubisoft,Action,2009,3.8,0.01,0.45,0.0,0.11,0.57,16000.0,140.0,1500.0,521.0,1300.0,0.0004,0.0088
+Dead Space,PS3,Electronic Arts,Action,2008,4.0,1.05,0.67,0.0,0.3,2.02,9600.0,302.0,2700.0,1100.0,1200.0,0.0017,0.0315
+Dead Space,X360,Electronic Arts,Action,2008,4.0,0.89,0.4,0.0,0.13,1.42,9600.0,302.0,2700.0,1100.0,1200.0,0.0012,0.0315
+Dead Space,PC,Electronic Arts,Action,2008,4.0,0.0,0.53,0.0,0.06,0.59,9600.0,302.0,2700.0,1100.0,1200.0,0.0005,0.0315
+New Super Mario Bros.,DS,Nintendo,Platform,2006,3.5,11.38,9.23,6.5,2.9,30.01,16000.0,108.0,824.0,287.0,991.0,0.0303,0.0068
+Shadow of the Colossus,PS2,Sony Computer Entertainment,Action,2018,4.1,0.78,0.03,0.2,0.13,1.14,7800.0,242.0,3200.0,1600.0,1100.0,0.001,0.031
+Shadow of the Colossus,PS3,Sony Computer Entertainment,Action,2018,4.1,0.0,0.0,0.04,0.0,0.04,7800.0,242.0,3200.0,1600.0,1100.0,0.0,0.031
+God of War,PS2,Sony Computer Entertainment,Action,2005,3.6,2.71,1.29,0.02,0.43,4.45,11000.0,158.0,1500.0,896.0,981.0,0.0045,0.0144
+Killer7,GC,Capcom,Action,2005,4.3,0.12,0.03,0.0,0.0,0.15,2800.0,237.0,2500.0,1300.0,1200.0,0.0001,0.0846
+Killer7,PS2,Capcom,Action,2005,4.3,0.04,0.03,0.0,0.01,0.09,2800.0,237.0,2500.0,1300.0,1200.0,0.0001,0.0846
+Grand Theft Auto IV,X360,Take-Two Interactive,Action,2008,3.8,6.76,3.1,0.14,1.03,11.02,14000.0,258.0,1900.0,721.0,1100.0,0.01,0.0184
+Grand Theft Auto IV,PS3,Take-Two Interactive,Action,2008,3.8,4.76,3.76,0.44,1.62,10.57,14000.0,258.0,1900.0,721.0,1100.0,0.0096,0.0184
+Grand Theft Auto IV,PC,Take-Two Interactive,Action,2008,3.8,0.01,0.79,0.0,0.08,0.88,14000.0,258.0,1900.0,721.0,1100.0,0.0008,0.0184
+Metroid: Zero Mission,GBA,Nintendo,Adventure,2004,4.0,0.6,0.22,0.0,0.01,0.84,7500.0,148.0,1500.0,700.0,1200.0,0.0007,0.0197
+Final Fantasy X,PS2,Sony Computer Entertainment,Role-Playing,2001,4.1,2.91,2.07,2.73,0.33,8.05,8500.0,330.0,2900.0,990.0,1500.0,0.0054,0.0388
+Danganronpa 2: Goodbye Despair,PSV,Nippon Ichi Software,Misc,2012,3.9,0.13,0.07,0.0,0.06,0.26,9900.0,288.0,1800.0,605.0,972.0,0.0003,0.0291
+Danganronpa 2: Goodbye Despair,PSP,Spike,Misc,2012,3.9,0.0,0.0,0.19,0.0,0.19,9900.0,288.0,1800.0,605.0,972.0,0.0002,0.0291
+Final Fantasy IX,PS,SquareSoft,Role-Playing,2000,4.3,1.62,0.77,2.78,0.14,5.3,6800.0,350.0,3600.0,1200.0,1600.0,0.0033,0.0515
+Halo 3,X360,Microsoft Game Studios,Shooter,2007,4.2,7.97,2.83,0.13,1.21,12.14,12000.0,101.0,1500.0,528.0,1600.0,0.0076,0.0084
+Metroid Fusion,GBA,Nintendo,Action,2002,4.0,1.18,0.27,0.17,0.06,1.68,7900.0,146.0,2000.0,799.0,1300.0,0.0013,0.0185
+Final Fantasy VI,PS,Sony Computer Entertainment,Role-Playing,1994,4.4,0.0,0.0,0.08,0.01,0.08,6100.0,312.0,3300.0,1300.0,1600.0,0.0,0.0511
+Far Cry 3,PS3,Ubisoft,Shooter,2012,3.7,0.88,1.75,0.1,0.72,3.45,14000.0,188.0,1900.0,660.0,983.0,0.0035,0.0134
+Far Cry 3,X360,Ubisoft,Shooter,2012,3.7,1.38,1.35,0.02,0.28,3.04,14000.0,188.0,1900.0,660.0,983.0,0.0031,0.0134
+Far Cry 3,PC,Ubisoft,Shooter,2012,3.7,0.21,0.62,0.0,0.14,0.98,14000.0,188.0,1900.0,660.0,983.0,0.001,0.0134
+Plants vs. Zombies,DS,Mastertronic,Strategy,2009,3.7,0.95,0.15,0.0,0.08,1.18,14000.0,117.0,493.0,82.0,719.0,0.0016,0.0084
+Plants vs. Zombies,X360,PopCap Games,Strategy,2009,3.7,0.24,0.0,0.0,0.02,0.26,14000.0,117.0,493.0,82.0,719.0,0.0004,0.0084
+Plants vs. Zombies,PS3,PopCap Games,Strategy,2009,3.7,0.18,0.0,0.0,0.01,0.19,14000.0,117.0,493.0,82.0,719.0,0.0003,0.0084
+Plants vs. Zombies,PC,PopCap Games,Strategy,2009,3.7,0.0,0.04,0.0,0.01,0.05,14000.0,117.0,493.0,82.0,719.0,0.0001,0.0084
+Demon's Souls,PS3,Namco Bandai Games,Role-Playing,2020,3.9,0.97,0.34,0.35,0.18,1.84,4100.0,403.0,2400.0,2100.0,880.0,0.0021,0.0983
+The Legend of Zelda: Link's Awakening,GB,Nintendo,Action,2019,3.9,2.21,0.96,0.54,0.13,3.83,7600.0,387.0,2800.0,2000.0,1100.0,0.0035,0.0509
+Assassin's Creed,X360,Ubisoft,Adventure,2007,2.9,3.28,1.65,0.07,0.55,5.55,13000.0,118.0,1200.0,496.0,801.0,0.0069,0.0091
+Assassin's Creed,PS3,Ubisoft,Adventure,2007,2.9,1.91,2.0,0.09,0.83,4.83,13000.0,118.0,1200.0,496.0,801.0,0.006,0.0091
+Assassin's Creed,PC,Ubisoft,Adventure,2007,2.9,0.01,0.83,0.0,0.08,0.92,13000.0,118.0,1200.0,496.0,801.0,0.0011,0.0091
+Call of Duty: Black Ops,X360,Activision,Shooter,2010,3.7,9.67,3.73,0.11,1.13,14.64,14000.0,44.0,611.0,318.0,920.0,0.0159,0.0031
+Call of Duty: Black Ops,PS3,Activision,Shooter,2010,3.7,5.98,4.44,0.48,1.83,12.73,14000.0,44.0,611.0,318.0,920.0,0.0138,0.0031
+Call of Duty: Black Ops,PC,Activision,Shooter,2010,3.7,0.58,0.81,0.0,0.24,1.63,14000.0,44.0,611.0,318.0,920.0,0.0018,0.0031
+Call of Duty: Black Ops,Wii,Activision,Shooter,2010,3.7,0.82,0.47,0.0,0.12,1.4,14000.0,44.0,611.0,318.0,920.0,0.0015,0.0031
+Call of Duty: Black Ops,DS,Activision,Shooter,2010,3.7,0.54,0.05,0.0,0.04,0.63,14000.0,44.0,611.0,318.0,920.0,0.0007,0.0031
+The Legend of Zelda,NES,Nintendo,Action,1986,3.2,3.74,0.93,1.69,0.14,6.51,9300.0,132.0,1500.0,463.0,1200.0,0.0054,0.0142
+Ghost Trick: Phantom Detective,DS,Capcom,Adventure,2010,4.4,0.2,0.08,0.12,0.03,0.42,3600.0,149.0,1800.0,1200.0,830.0,0.0005,0.0414
+Paper Mario: The Thousand-Year Door,GC,Nintendo,Role-Playing,2004,4.4,1.48,0.25,0.46,0.06,2.25,6700.0,187.0,2900.0,1500.0,1300.0,0.0017,0.0279
+God of War II,PS2,Sony Computer Entertainment,Action,2007,4.0,2.32,0.04,0.04,1.67,4.07,9300.0,89.0,1300.0,687.0,936.0,0.0043,0.0096
+Mass Effect 2,X360,Electronic Arts,Role-Playing,2010,4.3,1.99,0.82,0.03,0.27,3.11,9600.0,107.0,1900.0,645.0,1300.0,0.0024,0.0111
+Mass Effect 2,PS3,Electronic Arts,Role-Playing,2010,4.3,0.78,0.47,0.03,0.2,1.48,9600.0,107.0,1900.0,645.0,1300.0,0.0011,0.0111
+Mass Effect 2,PC,Electronic Arts,Role-Playing,2010,4.3,0.01,0.32,0.0,0.07,0.4,9600.0,107.0,1900.0,645.0,1300.0,0.0003,0.0111
+Metal Gear Solid V: Ground Zeroes,PS4,Konami Digital Entertainment,Action,2014,3.3,0.45,0.46,0.17,0.2,1.28,9500.0,53.0,1700.0,549.0,650.0,0.002,0.0056
+Metal Gear Solid V: Ground Zeroes,PS3,Konami Digital Entertainment,Action,2014,3.3,0.14,0.14,0.27,0.06,0.62,9500.0,53.0,1700.0,549.0,650.0,0.001,0.0056
+Metal Gear Solid V: Ground Zeroes,XOne,Konami Digital Entertainment,Action,2014,3.3,0.15,0.11,0.0,0.02,0.28,9500.0,53.0,1700.0,549.0,650.0,0.0004,0.0056
+Metal Gear Solid V: Ground Zeroes,X360,Konami Digital Entertainment,Action,2014,3.3,0.07,0.06,0.01,0.01,0.15,9500.0,53.0,1700.0,549.0,650.0,0.0002,0.0056
+Banjo-Kazooie,N64,Nintendo,Platform,1998,4.0,1.87,1.13,0.55,0.1,3.65,7400.0,205.0,2100.0,765.0,1200.0,0.003,0.0277
+Banjo-Kazooie,X360,Microsoft Game Studios,Platform,1998,4.0,0.0,0.01,0.0,0.0,0.01,7400.0,205.0,2100.0,765.0,1200.0,0.0,0.0277
+Call of Duty: Black Ops II,PS3,Activision,Shooter,2012,3.8,4.99,5.88,0.65,2.52,14.03,13000.0,57.0,626.0,286.0,903.0,0.0155,0.0044
+Call of Duty: Black Ops II,X360,Activision,Shooter,2012,3.8,8.25,4.3,0.07,1.12,13.73,13000.0,57.0,626.0,286.0,903.0,0.0152,0.0044
+Call of Duty: Black Ops II,PC,Activision,Shooter,2012,3.8,0.63,0.69,0.0,0.21,1.53,13000.0,57.0,626.0,286.0,903.0,0.0017,0.0044
+Call of Duty: Black Ops II,WiiU,Activision,Shooter,2012,3.8,0.21,0.18,0.0,0.03,0.43,13000.0,57.0,626.0,286.0,903.0,0.0005,0.0044
+Mega Man X,SNES,Capcom,Platform,1993,4.1,0.57,0.08,0.5,0.01,1.16,6900.0,76.0,1100.0,385.0,1200.0,0.001,0.011
+New Super Mario Bros. Wii,Wii,Nintendo,Platform,2009,3.5,14.59,7.06,4.7,2.26,28.62,13000.0,85.0,696.0,241.0,859.0,0.0333,0.0065
+Wolfenstein: The New Order,PS4,Bethesda Softworks,Shooter,2014,3.6,0.47,0.8,0.03,0.29,1.58,8400.0,149.0,2200.0,722.0,794.0,0.002,0.0177
+Wolfenstein: The New Order,XOne,Bethesda Softworks,Shooter,2014,3.6,0.33,0.28,0.0,0.06,0.67,8400.0,149.0,2200.0,722.0,794.0,0.0008,0.0177
+Wolfenstein: The New Order,PS3,Bethesda Softworks,Shooter,2014,3.6,0.14,0.25,0.02,0.09,0.51,8400.0,149.0,2200.0,722.0,794.0,0.0006,0.0177
+Wolfenstein: The New Order,PC,Bethesda Softworks,Shooter,2014,3.6,0.12,0.29,0.0,0.05,0.46,8400.0,149.0,2200.0,722.0,794.0,0.0006,0.0177
+Wolfenstein: The New Order,X360,Bethesda Softworks,Shooter,2014,3.6,0.18,0.19,0.0,0.04,0.41,8400.0,149.0,2200.0,722.0,794.0,0.0005,0.0177
+Deus Ex,PC,Eidos Interactive,Role-Playing,2000,4.4,0.0,0.01,0.0,0.0,0.01,3800.0,189.0,2700.0,958.0,899.0,0.0,0.0497
+BioShock 2,X360,Take-Two Interactive,Shooter,2010,3.6,1.45,0.55,0.02,0.19,2.21,9100.0,103.0,3300.0,691.0,687.0,0.0032,0.0113
+BioShock 2,PS3,Take-Two Interactive,Shooter,2010,3.6,0.85,0.47,0.02,0.22,1.55,9100.0,103.0,3300.0,691.0,687.0,0.0023,0.0113
+BioShock 2,PC,Take-Two Interactive,Shooter,2010,3.6,0.02,0.19,0.0,0.04,0.24,9100.0,103.0,3300.0,691.0,687.0,0.0003,0.0113
+Shovel Knight,3DS,Yacht Club Games,Platform,2014,4.0,0.07,0.04,0.01,0.01,0.13,8500.0,135.0,1900.0,1200.0,761.0,0.0002,0.0159
+Shovel Knight,WiiU,Yacht Club Games,Platform,2014,4.0,0.06,0.04,0.0,0.01,0.11,8500.0,135.0,1900.0,1200.0,761.0,0.0001,0.0159
+Shovel Knight,PS4,Yacht Club Games,Platform,2014,4.0,0.03,0.03,0.0,0.01,0.08,8500.0,135.0,1900.0,1200.0,761.0,0.0001,0.0159
+Dark Souls II,PS3,Namco Bandai Games,Role-Playing,2014,3.3,0.4,0.36,0.4,0.17,1.32,6700.0,128.0,1400.0,834.0,815.0,0.0016,0.0191
+Dark Souls II,X360,Namco Bandai Games,Role-Playing,2014,3.3,0.48,0.2,0.01,0.06,0.76,6700.0,128.0,1400.0,834.0,815.0,0.0009,0.0191
+Dark Souls II,PS4,Namco Bandai Games,Role-Playing,2014,3.3,0.2,0.22,0.08,0.08,0.59,6700.0,128.0,1400.0,834.0,815.0,0.0007,0.0191
+Dark Souls II,XOne,Namco Bandai Games,Role-Playing,2014,3.3,0.13,0.07,0.0,0.02,0.22,6700.0,128.0,1400.0,834.0,815.0,0.0003,0.0191
+Dark Souls II,PC,Namco Bandai Games,Role-Playing,2014,3.3,0.08,0.08,0.0,0.02,0.18,6700.0,128.0,1400.0,834.0,815.0,0.0002,0.0191
+Resident Evil 6,PS3,Capcom,Shooter,2012,2.5,0.88,0.97,0.88,0.42,3.15,7800.0,189.0,1800.0,552.0,888.0,0.0035,0.0242
+Resident Evil 6,X360,Capcom,Shooter,2012,2.5,1.11,0.63,0.07,0.16,1.98,7800.0,189.0,1800.0,552.0,888.0,0.0022,0.0242
+Resident Evil 6,PS4,Capcom,Shooter,2012,2.5,0.05,0.0,0.0,0.01,0.07,7800.0,189.0,1800.0,552.0,888.0,0.0001,0.0242
+Resident Evil 6,PC,Capcom,Shooter,2012,2.5,0.0,0.04,0.0,0.01,0.04,7800.0,189.0,1800.0,552.0,888.0,0.0,0.0242
+Resident Evil 6,XOne,Capcom,Shooter,2012,2.5,0.03,0.0,0.0,0.0,0.04,7800.0,189.0,1800.0,552.0,888.0,0.0,0.0242
+Devil May Cry 3: Dante's Awakening,PS2,Capcom,Action,2005,4.2,0.99,0.63,0.29,0.19,2.09,6100.0,116.0,1600.0,648.0,909.0,0.0023,0.019
+Tetris,GB,Nintendo,Puzzle,1989,4.1,23.2,2.26,4.22,0.58,30.26,9600.0,54.0,175.0,66.0,688.0,0.044,0.0056
+Tetris,NES,Nintendo,Puzzle,1989,4.1,2.97,0.69,1.81,0.11,5.58,9600.0,54.0,175.0,66.0,688.0,0.0081,0.0056
+Super Mario 3D World,WiiU,Nintendo,Platform,2013,3.9,2.11,1.11,0.72,0.3,4.25,9600.0,93.0,787.0,432.0,1100.0,0.0039,0.0097
+Uncharted 3: Drake's Deception,PS3,Sony Computer Entertainment,Action,2011,3.6,2.77,2.8,0.19,1.06,6.83,11000.0,60.0,1500.0,477.0,941.0,0.0073,0.0055
+Phoenix Wright: Ace Attorney - Trials and Tribulations,DS,Capcom,Adventure,2006,4.4,0.33,0.05,0.25,0.04,0.67,6600.0,172.0,1600.0,623.0,995.0,0.0007,0.0261
+Max Payne,PS2,Take-Two Interactive,Shooter,2001,3.9,1.99,1.05,0.05,0.22,3.31,6300.0,102.0,1500.0,742.0,786.0,0.0042,0.0162
+Max Payne,XB,Take-Two Interactive,Shooter,2001,3.9,0.98,0.19,0.0,0.05,1.22,6300.0,102.0,1500.0,742.0,786.0,0.0016,0.0162
+Max Payne,GBA,Take-Two Interactive,Shooter,2001,3.9,0.02,0.01,0.0,0.0,0.03,6300.0,102.0,1500.0,742.0,786.0,0.0,0.0162
+Max Payne,PC,Take-Two Interactive,Shooter,2001,3.9,0.0,0.02,0.0,0.0,0.02,6300.0,102.0,1500.0,742.0,786.0,0.0,0.0162
+Donkey Kong Country 2: Diddy's Kong Quest,SNES,Nintendo,Platform,1995,4.2,2.1,0.74,2.2,0.11,5.15,6600.0,115.0,1600.0,455.0,1200.0,0.0043,0.0174
+Kirby's Adventure,NES,Nintendo,Platform,1993,3.6,0.79,0.14,0.8,0.02,1.75,6000.0,61.0,690.0,217.0,718.0,0.0024,0.0102
+The Sims 4,PC,Electronic Arts,Simulation,2014,3.0,0.96,1.72,0.0,0.29,2.97,8300.0,434.0,667.0,110.0,458.0,0.0065,0.0523
+Far Cry 4,PS4,Ubisoft,Shooter,2014,3.2,1.12,2.12,0.1,0.69,4.03,8500.0,90.0,1300.0,442.0,558.0,0.0072,0.0106
+Far Cry 4,XOne,Ubisoft,Shooter,2014,3.2,0.79,0.68,0.01,0.13,1.61,8500.0,90.0,1300.0,442.0,558.0,0.0029,0.0106
+Far Cry 4,PS3,Ubisoft,Shooter,2014,3.2,0.33,0.79,0.08,0.23,1.44,8500.0,90.0,1300.0,442.0,558.0,0.0026,0.0106
+Far Cry 4,X360,Ubisoft,Shooter,2014,3.2,0.45,0.44,0.0,0.08,0.98,8500.0,90.0,1300.0,442.0,558.0,0.0018,0.0106
+Far Cry 4,PC,Ubisoft,Shooter,2014,3.2,0.15,0.42,0.0,0.05,0.62,8500.0,90.0,1300.0,442.0,558.0,0.0011,0.0106
+Super Smash Bros.,N64,Nintendo,Fighting,1999,3.4,2.95,0.6,1.97,0.04,5.55,9800.0,20.0,279.0,207.0,688.0,0.0081,0.002
+Halo 4,X360,Microsoft Game Studios,Shooter,2012,3.0,6.63,2.36,0.04,0.73,9.76,7600.0,57.0,1200.0,277.0,674.0,0.0145,0.0075
+Mega Man 2,NES,Capcom,Action,1989,3.6,0.93,0.15,0.42,0.01,1.51,6100.0,34.0,542.0,163.0,857.0,0.0018,0.0056
+Phoenix Wright: Ace Attorney Trilogy,3DS,Capcom,Adventure,2014,4.3,0.0,0.0,0.02,0.0,0.02,4000.0,644.0,1900.0,779.0,516.0,0.0,0.161
+Star Wars: Knights of the Old Republic,XB,Activision,Role-Playing,2003,4.2,1.68,0.44,0.0,0.08,2.19,5300.0,180.0,2300.0,705.0,839.0,0.0026,0.034
+Star Wars: Knights of the Old Republic,PC,LucasArts,Role-Playing,2003,4.2,0.01,0.1,0.0,0.02,0.14,5300.0,180.0,2300.0,705.0,839.0,0.0002,0.034
+No More Heroes 2: Desperate Struggle,Wii,Rising Star Games,Action,2010,3.5,0.21,0.12,0.04,0.03,0.41,3200.0,68.0,1500.0,855.0,608.0,0.0007,0.0213
+Kirby Super Star Ultra,DS,Nintendo,Platform,2008,4.3,1.57,0.04,1.19,0.15,2.96,5800.0,47.0,773.0,427.0,743.0,0.004,0.0081
+"Flower, Sun, and Rain",DS,Rising Star Games,Adventure,2001,4.3,0.07,0.0,0.0,0.01,0.07,632.0,32.0,1000.0,1100.0,466.0,0.0002,0.0506
+Katamari Damacy,PS2,Namco Bandai Games,Puzzle,2004,4.2,0.47,0.02,0.17,0.08,0.73,4100.0,60.0,1000.0,761.0,939.0,0.0008,0.0146
+Borderlands,X360,Take-Two Interactive,Shooter,2009,3.1,2.39,0.73,0.03,0.29,3.44,9100.0,98.0,1200.0,450.0,484.0,0.0071,0.0108
+Borderlands,PS3,Take-Two Interactive,Shooter,2009,3.1,1.2,0.62,0.0,0.29,2.11,9100.0,98.0,1200.0,450.0,484.0,0.0044,0.0108
+Borderlands,PC,Take-Two Interactive,Shooter,2009,3.1,0.01,0.14,0.0,0.04,0.18,9100.0,98.0,1200.0,450.0,484.0,0.0004,0.0108
+Klonoa: Door to Phantomile,PS,Sony Computer Entertainment,Platform,1997,4.1,0.0,0.0,0.17,0.01,0.18,2200.0,63.0,877.0,590.0,648.0,0.0003,0.0286
+Mario & Luigi: Bowser's Inside Story,DS,Nintendo,Role-Playing,2009,4.2,2.26,0.48,0.81,0.27,3.83,6600.0,95.0,1500.0,629.0,837.0,0.0046,0.0144
+Mass Effect 3,X360,Electronic Arts,Role-Playing,2012,3.7,1.94,0.86,0.03,0.24,3.07,7300.0,79.0,1500.0,482.0,777.0,0.004,0.0108
+Mass Effect 3,PS3,Electronic Arts,Role-Playing,2012,3.7,0.63,0.59,0.03,0.21,1.46,7300.0,79.0,1500.0,482.0,777.0,0.0019,0.0108
+Mass Effect 3,PC,Electronic Arts,Role-Playing,2012,3.7,0.4,0.44,0.0,0.13,0.97,7300.0,79.0,1500.0,482.0,777.0,0.0012,0.0108
+Mass Effect 3,WiiU,Electronic Arts,Role-Playing,2012,3.7,0.14,0.11,0.0,0.02,0.28,7300.0,79.0,1500.0,482.0,777.0,0.0004,0.0108
+Goat Simulator,XOne,Koch Media,Simulation,2014,2.4,0.0,0.01,0.0,0.0,0.01,8400.0,22.0,492.0,125.0,337.0,0.0,0.0026
+Call of Duty: Modern Warfare 3,X360,Activision,Shooter,2011,3.2,9.03,4.28,0.13,1.32,14.76,10000.0,27.0,492.0,195.0,587.0,0.0251,0.0027
+Call of Duty: Modern Warfare 3,PS3,Activision,Shooter,2011,3.2,5.54,5.82,0.49,1.62,13.46,10000.0,27.0,492.0,195.0,587.0,0.0229,0.0027
+Call of Duty: Modern Warfare 3,PC,Activision,Shooter,2011,3.2,0.41,0.98,0.0,0.33,1.72,10000.0,27.0,492.0,195.0,587.0,0.0029,0.0027
+Call of Duty: Modern Warfare 3,Wii,Activision,Shooter,2011,3.2,0.6,0.21,0.0,0.08,0.89,10000.0,27.0,492.0,195.0,587.0,0.0015,0.0027
+The Legend of Zelda: Twilight Princess,Wii,Nintendo,Action,2006,4.1,3.83,2.19,0.6,0.7,7.31,6000.0,82.0,1100.0,466.0,642.0,0.0114,0.0137
+The Legend of Zelda: Twilight Princess,GC,Nintendo,Action,2006,4.1,1.15,0.36,0.04,0.04,1.59,6000.0,82.0,1100.0,466.0,642.0,0.0025,0.0137
+Super Mario RPG: Legend of the Seven Stars,SNES,Nintendo,Role-Playing,1996,4.0,0.66,0.0,1.45,0.03,2.14,4400.0,133.0,2300.0,858.0,832.0,0.0026,0.0302
+DmC: Devil May Cry,PS3,Capcom,Action,2013,3.0,0.24,0.28,0.19,0.12,0.82,6300.0,62.0,1200.0,448.0,432.0,0.0019,0.0098
+DmC: Devil May Cry,X360,Capcom,Action,2013,3.0,0.26,0.13,0.01,0.04,0.44,6300.0,62.0,1200.0,448.0,432.0,0.001,0.0098
+DmC: Devil May Cry,PS4,Capcom,Action,2013,3.0,0.12,0.13,0.0,0.05,0.3,6300.0,62.0,1200.0,448.0,432.0,0.0007,0.0098
+DmC: Devil May Cry,XOne,Capcom,Action,2013,3.0,0.08,0.04,0.0,0.01,0.13,6300.0,62.0,1200.0,448.0,432.0,0.0003,0.0098
+Dragon Age: Origins,X360,Electronic Arts,Role-Playing,2009,4.0,1.76,0.56,0.03,0.22,2.57,6100.0,148.0,1700.0,534.0,712.0,0.0036,0.0243
+Dragon Age: Origins,PS3,Electronic Arts,Role-Playing,2009,4.0,0.96,0.44,0.08,0.22,1.69,6100.0,148.0,1700.0,534.0,712.0,0.0024,0.0243
+Dragon Age: Origins,PC,Electronic Arts,Role-Playing,2009,4.0,0.0,0.46,0.0,0.06,0.51,6100.0,148.0,1700.0,534.0,712.0,0.0007,0.0243
+Vagrant Story,PS,Crave Entertainment,Role-Playing,2000,4.0,0.3,0.2,0.3,0.06,0.87,1000.0,59.0,1600.0,889.0,503.0,0.0017,0.059
+LEGO Marvel Super Heroes,X360,Warner Bros. Interactive Entertainment,Action,2013,3.6,1.24,0.85,0.0,0.21,2.3,6000.0,65.0,592.0,126.0,522.0,0.0044,0.0108
+LEGO Marvel Super Heroes,PS3,Warner Bros. Interactive Entertainment,Action,2013,3.6,0.77,0.85,0.01,0.37,2.0,6000.0,65.0,592.0,126.0,522.0,0.0038,0.0108
+LEGO Marvel Super Heroes,PS4,Warner Bros. Interactive Entertainment,Action,2013,3.6,0.59,0.75,0.01,0.21,1.56,6000.0,65.0,592.0,126.0,522.0,0.003,0.0108
+LEGO Marvel Super Heroes,XOne,Warner Bros. Interactive Entertainment,Action,2013,3.6,0.61,0.34,0.0,0.09,1.04,6000.0,65.0,592.0,126.0,522.0,0.002,0.0108
+LEGO Marvel Super Heroes,3DS,Warner Bros. Interactive Entertainment,Action,2013,3.6,0.42,0.36,0.04,0.07,0.89,6000.0,65.0,592.0,126.0,522.0,0.0017,0.0108
+LEGO Marvel Super Heroes,WiiU,Warner Bros. Interactive Entertainment,Action,2013,3.6,0.31,0.35,0.02,0.06,0.74,6000.0,65.0,592.0,126.0,522.0,0.0014,0.0108
+LEGO Marvel Super Heroes,PSV,Warner Bros. Interactive Entertainment,Action,2013,3.6,0.15,0.35,0.0,0.16,0.66,6000.0,65.0,592.0,126.0,522.0,0.0013,0.0108
+LEGO Marvel Super Heroes,DS,Warner Bros. Interactive Entertainment,Action,2013,3.6,0.28,0.17,0.0,0.04,0.49,6000.0,65.0,592.0,126.0,522.0,0.0009,0.0108
+LEGO Marvel Super Heroes,PC,Warner Bros. Interactive Entertainment,Action,2013,3.6,0.04,0.12,0.0,0.02,0.18,6000.0,65.0,592.0,126.0,522.0,0.0003,0.0108
+Sonic Colors,Wii,Sega,Platform,2010,3.4,0.96,0.61,0.01,0.16,1.74,5100.0,44.0,690.0,342.0,609.0,0.0029,0.0086
+Sonic Colors,DS,Sega,Platform,2010,3.4,0.74,0.5,0.01,0.13,1.37,5100.0,44.0,690.0,342.0,609.0,0.0022,0.0086
+Zelda II: The Adventure of Link,NES,Nintendo,Adventure,1987,2.6,2.19,0.5,1.61,0.08,4.38,4500.0,55.0,1100.0,290.0,756.0,0.0058,0.0122
+Battlefield 4,PS3,Electronic Arts,Shooter,2013,3.5,1.3,1.51,0.27,0.61,3.69,7100.0,72.0,506.0,124.0,431.0,0.0086,0.0101
+Battlefield 4,X360,Electronic Arts,Shooter,2013,3.5,2.14,1.08,0.02,0.29,3.53,7100.0,72.0,506.0,124.0,431.0,0.0082,0.0101
+Battlefield 4,PS4,Electronic Arts,Shooter,2013,3.5,1.34,1.54,0.17,0.38,3.43,7100.0,72.0,506.0,124.0,431.0,0.008,0.0101
+Battlefield 4,XOne,Electronic Arts,Shooter,2013,3.5,1.25,0.58,0.0,0.16,1.98,7100.0,72.0,506.0,124.0,431.0,0.0046,0.0101
+Battlefield 4,PC,Electronic Arts,Shooter,2013,3.5,0.38,0.86,0.0,0.16,1.4,7100.0,72.0,506.0,124.0,431.0,0.0032,0.0101
+Dragon Ball Z: Budokai Tenkaichi 3,PS2,Atari,Fighting,2007,3.9,1.15,0.0,0.76,1.09,3.0,6600.0,32.0,278.0,135.0,435.0,0.0069,0.0048
+Dragon Ball Z: Budokai Tenkaichi 3,Wii,Atari,Fighting,2007,3.9,0.33,0.37,0.26,0.09,1.04,6600.0,32.0,278.0,135.0,435.0,0.0024,0.0048
+Beyond: Two Souls,PS3,Sony Computer Entertainment,Adventure,2013,2.7,0.52,0.88,0.06,0.34,1.79,5400.0,52.0,1100.0,524.0,433.0,0.0041,0.0096
+Minecraft,X360,Microsoft Game Studios,Misc,2011,4.3,5.58,2.83,0.02,0.77,9.2,33000.0,1800.0,1100.0,230.0,2300.0,0.004,0.0545
+Minecraft,PS3,Sony Computer Entertainment,Misc,2011,4.3,1.97,2.51,0.0,0.94,5.42,33000.0,1800.0,1100.0,230.0,2300.0,0.0024,0.0545
+Minecraft,PS4,Sony Computer Entertainment Europe,Misc,2011,4.3,1.38,1.87,0.12,0.65,4.02,33000.0,1800.0,1100.0,230.0,2300.0,0.0017,0.0545
+Minecraft,XOne,Microsoft Game Studios,Misc,2011,4.3,1.43,0.76,0.0,0.22,2.41,33000.0,1800.0,1100.0,230.0,2300.0,0.001,0.0545
+Minecraft,PSV,Sony Computer Entertainment Europe,Misc,2011,4.3,0.28,0.79,0.87,0.32,2.25,33000.0,1800.0,1100.0,230.0,2300.0,0.001,0.0545
+Minecraft,WiiU,Microsoft Game Studios,Misc,2011,4.3,0.18,0.09,0.14,0.03,0.43,33000.0,1800.0,1100.0,230.0,2300.0,0.0002,0.0545
+God of War,PS2,Sony Computer Entertainment,Action,2018,4.2,2.71,1.29,0.02,0.43,4.45,21000.0,1100.0,4800.0,2600.0,2900.0,0.0015,0.0524
+Portal 2,X360,Valve Software,Shooter,2011,4.4,1.41,0.51,0.01,0.17,2.1,29000.0,471.0,3900.0,1200.0,2900.0,0.0007,0.0162
+Portal 2,PS3,Valve,Shooter,2011,4.4,0.83,0.63,0.02,0.25,1.74,29000.0,471.0,3900.0,1200.0,2900.0,0.0006,0.0162
+Portal 2,PC,Valve Software,Shooter,2011,4.4,0.33,0.32,0.0,0.11,0.76,29000.0,471.0,3900.0,1200.0,2900.0,0.0003,0.0162
+Bloodborne,PS4,Sony Computer Entertainment,Action,2015,4.5,1.0,0.76,0.26,0.36,2.38,17000.0,1100.0,5600.0,3300.0,3400.0,0.0007,0.0647
+Metal Gear Rising: Revengeance,PS3,Konami Digital Entertainment,Action,2013,4.1,0.45,0.4,0.44,0.18,1.47,14000.0,492.0,4200.0,2000.0,2100.0,0.0007,0.0351
+Metal Gear Rising: Revengeance,X360,Konami Digital Entertainment,Action,2013,4.1,0.29,0.16,0.0,0.04,0.5,14000.0,492.0,4200.0,2000.0,2100.0,0.0002,0.0351
+Grand Theft Auto V,PS3,Take-Two Interactive,Action,2013,3.8,7.01,9.27,0.97,4.14,21.4,30000.0,829.0,3200.0,664.0,2100.0,0.0102,0.0276
+Grand Theft Auto V,X360,Take-Two Interactive,Action,2013,3.8,9.63,5.31,0.06,1.38,16.38,30000.0,829.0,3200.0,664.0,2100.0,0.0078,0.0276
+Grand Theft Auto V,PS4,Take-Two Interactive,Action,2013,3.8,3.8,5.81,0.36,2.02,11.98,30000.0,829.0,3200.0,664.0,2100.0,0.0057,0.0276
+Grand Theft Auto V,XOne,Take-Two Interactive,Action,2013,3.8,2.66,2.01,0.0,0.41,5.08,30000.0,829.0,3200.0,664.0,2100.0,0.0024,0.0276
+Grand Theft Auto V,PC,Take-Two Interactive,Action,2013,3.8,0.36,0.64,0.0,0.08,1.08,30000.0,829.0,3200.0,664.0,2100.0,0.0005,0.0276
+Dark Souls III,PS4,Namco Bandai Games,Role-Playing,2016,4.2,0.58,0.44,0.33,0.21,1.56,19000.0,851.0,4300.0,2200.0,2400.0,0.0006,0.0448
+Dark Souls III,XOne,Namco Bandai Games,Role-Playing,2016,4.2,0.23,0.09,0.0,0.03,0.35,19000.0,851.0,4300.0,2200.0,2400.0,0.0001,0.0448
+Dark Souls III,PC,Namco Bandai Games,Role-Playing,2016,4.2,0.0,0.05,0.0,0.0,0.05,19000.0,851.0,4300.0,2200.0,2400.0,0.0,0.0448
+Super Mario 64,N64,Nintendo,Platform,1996,4.1,6.91,2.85,1.91,0.23,11.89,21000.0,463.0,2500.0,775.0,2600.0,0.0046,0.022
+Super Mario 64,DS,Nintendo,Platform,1996,4.1,5.08,3.11,1.25,0.98,10.42,21000.0,463.0,2500.0,775.0,2600.0,0.004,0.022
+Final Fantasy VII,PS,Sony Computer Entertainment,Role-Playing,1997,4.2,3.01,2.47,3.28,0.96,9.72,15000.0,1100.0,5000.0,1500.0,2900.0,0.0034,0.0733
+Super Mario Galaxy,Wii,Nintendo,Platform,2007,4.3,6.16,3.4,1.2,0.76,11.52,21000.0,468.0,3100.0,1200.0,2700.0,0.0043,0.0223
+Fallout: New Vegas,X360,Bethesda Softworks,Role-Playing,2010,4.3,2.65,1.06,0.04,0.33,4.08,16000.0,756.0,5000.0,1400.0,2000.0,0.002,0.0472
+Fallout: New Vegas,PS3,Bethesda Softworks,Role-Playing,2010,4.3,1.52,1.08,0.1,0.47,3.17,16000.0,756.0,5000.0,1400.0,2000.0,0.0016,0.0472
+Fallout: New Vegas,PC,Bethesda Softworks,Role-Playing,2010,4.3,0.58,0.45,0.0,0.14,1.16,16000.0,756.0,5000.0,1400.0,2000.0,0.0006,0.0472
+Resident Evil 2,PS,Virgin Interactive,Action,2019,4.3,1.88,1.47,2.02,0.45,5.82,15000.0,585.0,3600.0,1900.0,2500.0,0.0023,0.039
+Resident Evil 2,N64,Virgin Interactive,Action,2019,4.3,0.39,0.09,0.07,0.01,0.56,15000.0,585.0,3600.0,1900.0,2500.0,0.0002,0.039
+Resident Evil 2,GC,Capcom,Action,2019,4.3,0.04,0.01,0.0,0.0,0.06,15000.0,585.0,3600.0,1900.0,2500.0,0.0,0.039
+Doom,PS,Infogrames,Shooter,2016,4.0,0.43,0.3,0.0,0.05,0.78,18000.0,541.0,4000.0,1400.0,1800.0,0.0004,0.0301
+Doom,GBA,Activision,Shooter,2016,4.0,0.1,0.04,0.0,0.0,0.14,18000.0,541.0,4000.0,1400.0,1800.0,0.0001,0.0301
+Doom,PC,id Software,Shooter,2016,4.0,0.02,0.0,0.0,0.0,0.03,18000.0,541.0,4000.0,1400.0,1800.0,0.0,0.0301
+Bayonetta,PS3,Sega,Action,2009,3.9,0.44,0.41,0.21,0.17,1.23,13000.0,614.0,5000.0,2300.0,1700.0,0.0007,0.0472
+Bayonetta,X360,Sega,Action,2009,3.9,0.51,0.26,0.09,0.08,0.94,13000.0,614.0,5000.0,2300.0,1700.0,0.0006,0.0472
+Silent Hill 2,PS2,Konami Digital Entertainment,Action,2001,4.5,0.62,0.49,0.0,0.16,1.28,8600.0,282.0,2900.0,2100.0,2200.0,0.0006,0.0328
+The Witcher 3: Wild Hunt,PS4,Namco Bandai Games,Role-Playing,2015,4.3,0.96,2.0,0.21,0.56,3.73,17000.0,1200.0,6100.0,1600.0,2000.0,0.0019,0.0706
+The Witcher 3: Wild Hunt,XOne,Namco Bandai Games,Role-Playing,2015,4.3,0.66,0.47,0.0,0.11,1.24,17000.0,1200.0,6100.0,1600.0,2000.0,0.0006,0.0706
+The Witcher 3: Wild Hunt,PC,Namco Bandai Games,Role-Playing,2015,4.3,0.2,0.42,0.0,0.05,0.67,17000.0,1200.0,6100.0,1600.0,2000.0,0.0003,0.0706
+Persona 5,PS4,Atlus,Role-Playing,2016,4.1,0.0,0.0,0.34,0.0,0.34,16000.0,630.0,2800.0,1700.0,1800.0,0.0002,0.0394
+Persona 5,PS3,Unknown,Role-Playing,2016,4.1,0.0,0.0,0.1,0.0,0.1,16000.0,630.0,2800.0,1700.0,1800.0,0.0001,0.0394
+The Elder Scrolls V: Skyrim,X360,Bethesda Softworks,Role-Playing,2011,3.7,5.03,2.86,0.1,0.85,8.84,22000.0,589.0,3000.0,1000.0,1700.0,0.0052,0.0268
+The Elder Scrolls V: Skyrim,PS3,Bethesda Softworks,Role-Playing,2011,3.7,2.55,2.71,0.25,1.05,6.56,22000.0,589.0,3000.0,1000.0,1700.0,0.0039,0.0268
+The Elder Scrolls V: Skyrim,PC,Bethesda Softworks,Role-Playing,2011,3.7,1.15,2.09,0.0,0.64,3.88,22000.0,589.0,3000.0,1000.0,1700.0,0.0023,0.0268
+Resident Evil 4,PS2,Capcom,Action,2005,4.3,2.08,0.83,0.46,0.25,3.62,14000.0,360.0,3000.0,1200.0,2300.0,0.0016,0.0257
+Resident Evil 4,Wii,Capcom,Action,2005,4.3,1.34,0.57,0.14,0.21,2.26,14000.0,360.0,3000.0,1200.0,2300.0,0.001,0.0257
+Resident Evil 4,GC,Capcom,Action,2005,4.3,0.98,0.42,0.22,0.06,1.69,14000.0,360.0,3000.0,1200.0,2300.0,0.0007,0.0257
+Resident Evil 4,PC,Ubisoft,Action,2005,4.3,0.0,0.02,0.0,0.01,0.03,14000.0,360.0,3000.0,1200.0,2300.0,0.0,0.0257
+Dark Souls,PS3,Namco Bandai Games,Role-Playing,2011,4.3,0.75,0.54,0.54,0.23,2.07,14000.0,447.0,2500.0,1400.0,2100.0,0.001,0.0319
+Dark Souls,X360,Namco Bandai Games,Role-Playing,2011,4.3,0.64,0.28,0.0,0.08,1.0,14000.0,447.0,2500.0,1400.0,2100.0,0.0005,0.0319
+Dark Souls,PC,Namco Bandai Games,Role-Playing,2011,4.3,0.0,0.06,0.0,0.01,0.07,14000.0,447.0,2500.0,1400.0,2100.0,0.0,0.0319
+The Legend of Zelda: Ocarina of Time,N64,Nintendo,Action,1998,4.3,4.1,1.89,1.45,0.16,7.6,17000.0,433.0,3000.0,1400.0,2200.0,0.0035,0.0255
+The Legend of Zelda: Ocarina of Time,3DS,Nintendo,Action,1998,4.3,2.03,1.27,0.62,0.3,4.21,17000.0,433.0,3000.0,1400.0,2200.0,0.0019,0.0255
+Batman: Arkham City,PS3,Warner Bros. Interactive Entertainment,Action,2011,4.1,2.7,1.91,0.11,0.8,5.53,16000.0,192.0,2700.0,651.0,1600.0,0.0035,0.012
+Batman: Arkham City,X360,Warner Bros. Interactive Entertainment,Action,2011,4.1,2.99,1.31,0.04,0.41,4.76,16000.0,192.0,2700.0,651.0,1600.0,0.003,0.012
+Batman: Arkham City,PC,Warner Bros. Interactive Entertainment,Action,2011,4.1,0.16,0.28,0.0,0.09,0.53,16000.0,192.0,2700.0,651.0,1600.0,0.0003,0.012
+Batman: Arkham City,WiiU,Warner Bros. Interactive Entertainment,Action,2011,4.1,0.17,0.18,0.0,0.03,0.38,16000.0,192.0,2700.0,651.0,1600.0,0.0002,0.012
+Yakuza Kiwami,PS4,Sega,Adventure,2016,3.7,0.0,0.0,0.16,0.0,0.16,9700.0,439.0,3400.0,1000.0,1200.0,0.0001,0.0453
+Yakuza Kiwami,PS3,Sega,Adventure,2016,3.7,0.0,0.0,0.12,0.0,0.12,9700.0,439.0,3400.0,1000.0,1200.0,0.0001,0.0453
+Phoenix Wright: Ace Attorney,DS,Capcom,Adventure,2005,4.1,0.49,0.07,0.39,0.05,0.99,12000.0,418.0,1900.0,1000.0,1300.0,0.0008,0.0348
+Life is Strange,PS4,Square Enix,Adventure,2015,3.4,0.14,0.15,0.03,0.06,0.37,15000.0,209.0,2100.0,817.0,1400.0,0.0003,0.0139
+Life is Strange,XOne,Square Enix,Adventure,2015,3.4,0.08,0.02,0.0,0.01,0.11,15000.0,209.0,2100.0,817.0,1400.0,0.0001,0.0139
+Life is Strange,PC,Square Enix,Adventure,2015,3.4,0.01,0.03,0.0,0.0,0.04,15000.0,209.0,2100.0,817.0,1400.0,0.0,0.0139
+Shadow of the Colossus,PS2,Sony Computer Entertainment,Action,2005,4.4,0.78,0.03,0.2,0.13,1.14,10000.0,134.0,2900.0,1700.0,1500.0,0.0008,0.0134
+Shadow of the Colossus,PS3,Sony Computer Entertainment,Action,2005,4.4,0.0,0.0,0.04,0.0,0.04,10000.0,134.0,2900.0,1700.0,1500.0,0.0,0.0134
+Psychonauts,XB,THQ,Platform,2005,4.0,0.09,0.03,0.0,0.0,0.12,7100.0,388.0,4200.0,1200.0,1200.0,0.0001,0.0546
+Psychonauts,PS2,Majesco Entertainment,Platform,2005,4.0,0.05,0.04,0.0,0.01,0.09,7100.0,388.0,4200.0,1200.0,1200.0,0.0001,0.0546
+Fallout 4,PS4,Bethesda Softworks,Role-Playing,2015,3.1,2.47,3.15,0.24,1.1,6.96,16000.0,407.0,2900.0,752.0,1000.0,0.007,0.0254
+Fallout 4,XOne,Bethesda Softworks,Role-Playing,2015,3.1,2.45,1.26,0.01,0.37,4.09,16000.0,407.0,2900.0,752.0,1000.0,0.0041,0.0254
+Fallout 4,PC,Bethesda Softworks,Role-Playing,2015,3.1,0.5,0.63,0.0,0.1,1.23,16000.0,407.0,2900.0,752.0,1000.0,0.0012,0.0254
+Uncharted 4: A Thief's End,PS4,Sony Computer Entertainment,Shooter,2016,4.1,1.3,2.07,0.18,0.65,4.2,14000.0,177.0,2700.0,1200.0,1800.0,0.0023,0.0126
+The Legend of Zelda: A Link to the Past,SNES,Nintendo,Action,1991,4.1,2.42,0.91,1.15,0.13,4.61,13000.0,360.0,3200.0,911.0,1700.0,0.0027,0.0277
+The Legend of Zelda: A Link to the Past,GBA,Nintendo,Action,1991,4.1,1.75,0.52,0.33,0.1,2.7,13000.0,360.0,3200.0,911.0,1700.0,0.0016,0.0277
+Silent Hill,PS,Konami Digital Entertainment,Action,1999,4.1,0.71,0.48,0.3,0.1,1.6,6800.0,272.0,2300.0,1600.0,1300.0,0.0012,0.04
+Super Smash Bros. Brawl,Wii,Nintendo,Fighting,2008,3.8,6.75,2.61,2.66,1.02,13.04,19000.0,51.0,511.0,250.0,1300.0,0.01,0.0027
+Borderlands 2,X360,Take-Two Interactive,Shooter,2012,3.5,1.89,0.91,0.04,0.24,3.07,16000.0,344.0,2700.0,494.0,1100.0,0.0028,0.0215
+Borderlands 2,PS3,Take-Two Interactive,Shooter,2012,3.5,1.05,0.77,0.1,0.36,2.28,16000.0,344.0,2700.0,494.0,1100.0,0.0021,0.0215
+Borderlands 2,PC,Take-Two Interactive,Shooter,2012,3.5,0.42,0.41,0.0,0.11,0.93,16000.0,344.0,2700.0,494.0,1100.0,0.0008,0.0215
+Borderlands 2,PSV,Take-Two Interactive,Shooter,2012,3.5,0.43,0.21,0.01,0.19,0.83,16000.0,344.0,2700.0,494.0,1100.0,0.0008,0.0215
+No More Heroes,Wii,Rising Star Games,Action,2007,4.0,0.3,0.17,0.04,0.05,0.57,5600.0,280.0,2600.0,1800.0,1200.0,0.0005,0.05
+Super Mario Bros. 3,NES,Nintendo,Platform,1988,4.0,9.54,3.44,3.84,0.46,17.28,14000.0,109.0,1400.0,362.0,1600.0,0.0108,0.0078
+Super Mario Bros. 3,GBA,Nintendo,Platform,1988,4.0,2.93,1.25,0.83,0.2,5.2,14000.0,109.0,1400.0,362.0,1600.0,0.0032,0.0078
+Dishonored,X360,Bethesda Softworks,Action,2012,3.9,1.06,0.52,0.01,0.14,1.73,14000.0,268.0,3100.0,866.0,1100.0,0.0016,0.0191
+Dishonored,PS3,Bethesda Softworks,Action,2012,3.9,0.72,0.54,0.04,0.25,1.55,14000.0,268.0,3100.0,866.0,1100.0,0.0014,0.0191
+Dishonored,PC,Bethesda Softworks,Action,2012,3.9,0.26,0.19,0.0,0.06,0.51,14000.0,268.0,3100.0,866.0,1100.0,0.0005,0.0191
+Dishonored,PS4,Bethesda Softworks,Action,2012,3.9,0.11,0.18,0.02,0.06,0.37,14000.0,268.0,3100.0,866.0,1100.0,0.0003,0.0191
+Dishonored,XOne,Bethesda Softworks,Action,2012,3.9,0.08,0.05,0.0,0.01,0.14,14000.0,268.0,3100.0,866.0,1100.0,0.0001,0.0191
+Metal Gear Solid 3: Snake Eater,PS2,Konami Digital Entertainment,Action,2004,4.5,1.46,0.0,0.83,1.93,4.23,9200.0,118.0,2400.0,1300.0,1500.0,0.0028,0.0128
+Journey,PS3,Sony Computer Entertainment Europe,Adventure,2012,3.9,0.04,0.15,0.0,0.06,0.25,12000.0,94.0,2700.0,1700.0,1500.0,0.0002,0.0078
+Kingdom Hearts,PS2,Sony Computer Entertainment,Role-Playing,2002,3.6,3.64,1.2,1.49,0.07,6.4,12000.0,266.0,2100.0,1000.0,1300.0,0.0049,0.0222
+Kingdom Hearts,PS3,Square Enix,Role-Playing,2002,3.6,0.9,0.37,0.25,0.24,1.75,12000.0,266.0,2100.0,1000.0,1300.0,0.0013,0.0222
+Doom,PS,Infogrames,Shooter,1993,4.0,0.43,0.3,0.0,0.05,0.78,11000.0,203.0,1500.0,514.0,1400.0,0.0006,0.0185
+Doom,GBA,Activision,Shooter,1993,4.0,0.1,0.04,0.0,0.0,0.14,11000.0,203.0,1500.0,514.0,1400.0,0.0001,0.0185
+Doom,PC,id Software,Shooter,1993,4.0,0.02,0.0,0.0,0.0,0.03,11000.0,203.0,1500.0,514.0,1400.0,0.0,0.0185
+Live A Live,SNES,SquareSoft,Role-Playing,2022,4.1,0.0,0.0,0.32,0.0,0.32,1100.0,235.0,1700.0,1900.0,555.0,0.0006,0.2136
+Sonic the Hedgehog,GEN,Sega,Platform,1991,3.1,3.03,0.91,0.26,0.13,4.34,12000.0,60.0,804.0,243.0,1100.0,0.0039,0.005
+Sonic the Hedgehog,PS3,Sega,Platform,1991,3.1,0.41,0.07,0.04,0.66,1.18,12000.0,60.0,804.0,243.0,1100.0,0.0011,0.005
+Sonic the Hedgehog,X360,Sega,Platform,1991,3.1,0.44,0.49,0.0,0.11,1.05,12000.0,60.0,804.0,243.0,1100.0,0.001,0.005
+Sonic the Hedgehog,PS3,Unknown,Platform,1991,3.1,0.0,0.48,0.0,0.0,0.48,12000.0,60.0,804.0,243.0,1100.0,0.0004,0.005
+Rocket League,PS4,505 Games,Sports,2015,3.4,0.02,0.14,0.0,0.07,0.23,17000.0,564.0,698.0,113.0,917.0,0.0003,0.0332
+Rocket League,XOne,505 Games,Sports,2015,3.4,0.03,0.09,0.0,0.01,0.12,17000.0,564.0,698.0,113.0,917.0,0.0001,0.0332
+Rocket League,PC,505 Games,Sports,2015,3.4,0.01,0.01,0.0,0.0,0.02,17000.0,564.0,698.0,113.0,917.0,0.0,0.0332
+Batman: Arkham Knight,PS4,Warner Bros. Interactive Entertainment,Action,2015,3.7,1.49,1.58,0.1,0.61,3.79,13000.0,279.0,3400.0,757.0,1200.0,0.0032,0.0215
+Batman: Arkham Knight,XOne,Warner Bros. Interactive Entertainment,Action,2015,3.7,0.86,0.46,0.0,0.13,1.45,13000.0,279.0,3400.0,757.0,1200.0,0.0012,0.0215
+Batman: Arkham Knight,PC,Warner Bros. Interactive Entertainment,Action,2015,3.7,0.08,0.03,0.0,0.01,0.13,13000.0,279.0,3400.0,757.0,1200.0,0.0001,0.0215
+Wii Sports,Wii,Nintendo,Sports,2006,3.7,41.49,29.02,3.77,8.46,82.74,18000.0,39.0,320.0,93.0,775.0,0.1068,0.0022
+Mario Kart Wii,Wii,Nintendo,Racing,2008,3.9,15.85,12.88,3.79,3.31,35.82,19000.0,88.0,461.0,168.0,1000.0,0.0358,0.0046
+Red Dead Redemption,PS3,Take-Two Interactive,Action,2010,4.2,2.79,2.61,0.17,1.03,6.6,13000.0,218.0,2400.0,1600.0,1500.0,0.0044,0.0168
+Red Dead Redemption,X360,Take-Two Interactive,Action,2010,4.2,3.7,1.97,0.09,0.57,6.34,13000.0,218.0,2400.0,1600.0,1500.0,0.0042,0.0168
+Dead Space,PS3,Electronic Arts,Action,2023,4.3,1.05,0.67,0.0,0.3,2.02,1300.0,248.0,985.0,1900.0,501.0,0.004,0.1908
+Dead Space,X360,Electronic Arts,Action,2023,4.3,0.89,0.4,0.0,0.13,1.42,1300.0,248.0,985.0,1900.0,501.0,0.0028,0.1908
+Dead Space,PC,Electronic Arts,Action,2023,4.3,0.0,0.53,0.0,0.06,0.59,1300.0,248.0,985.0,1900.0,501.0,0.0012,0.1908
+Tomb Raider,PS,Eidos Interactive,Action,2013,3.5,2.29,1.97,0.13,0.24,4.63,15000.0,175.0,2700.0,508.0,896.0,0.0052,0.0117
+Tomb Raider,PC,Eidos Interactive,Action,2013,3.5,0.96,0.07,0.0,0.0,1.03,15000.0,175.0,2700.0,508.0,896.0,0.0011,0.0117
+Super Mario Galaxy 2,Wii,Nintendo,Platform,2010,4.3,3.66,2.42,0.98,0.64,7.69,13000.0,123.0,2500.0,1300.0,1800.0,0.0043,0.0095
+Donkey Kong Country,SNES,Nintendo,Platform,1994,3.9,4.36,1.71,3.0,0.23,9.3,11000.0,186.0,1900.0,514.0,1300.0,0.0072,0.0169
+Donkey Kong Country,GB,Nintendo,Platform,1994,3.9,1.04,0.72,0.3,0.13,2.19,11000.0,186.0,1900.0,514.0,1300.0,0.0017,0.0169
+Donkey Kong Country,GBA,Nintendo,Platform,1994,3.9,1.2,0.48,0.29,0.07,2.04,11000.0,186.0,1900.0,514.0,1300.0,0.0016,0.0169
+Assassin's Creed II,PS3,Ubisoft,Action,2009,3.8,2.54,1.95,0.21,0.87,5.57,16000.0,140.0,1500.0,521.0,1300.0,0.0043,0.0088
+Assassin's Creed II,X360,Ubisoft,Action,2009,3.8,3.1,1.56,0.08,0.51,5.27,16000.0,140.0,1500.0,521.0,1300.0,0.0041,0.0088
+Assassin's Creed II,PC,Ubisoft,Action,2009,3.8,0.01,0.45,0.0,0.11,0.57,16000.0,140.0,1500.0,521.0,1300.0,0.0004,0.0088
+Dead Space,PS3,Electronic Arts,Action,2008,4.0,1.05,0.67,0.0,0.3,2.02,9600.0,302.0,2700.0,1100.0,1200.0,0.0017,0.0315
+Dead Space,X360,Electronic Arts,Action,2008,4.0,0.89,0.4,0.0,0.13,1.42,9600.0,302.0,2700.0,1100.0,1200.0,0.0012,0.0315
+Dead Space,PC,Electronic Arts,Action,2008,4.0,0.0,0.53,0.0,0.06,0.59,9600.0,302.0,2700.0,1100.0,1200.0,0.0005,0.0315
+New Super Mario Bros.,DS,Nintendo,Platform,2006,3.5,11.38,9.23,6.5,2.9,30.01,16000.0,108.0,824.0,287.0,991.0,0.0303,0.0068
+Shadow of the Colossus,PS2,Sony Computer Entertainment,Action,2018,4.1,0.78,0.03,0.2,0.13,1.14,7800.0,242.0,3200.0,1600.0,1100.0,0.001,0.031
+Shadow of the Colossus,PS3,Sony Computer Entertainment,Action,2018,4.1,0.0,0.0,0.04,0.0,0.04,7800.0,242.0,3200.0,1600.0,1100.0,0.0,0.031
+Demon's Souls,PS3,Namco Bandai Games,Role-Playing,2020,3.9,0.97,0.34,0.35,0.18,1.84,4100.0,403.0,2400.0,2100.0,880.0,0.0021,0.0983
+The Legend of Zelda: Link's Awakening,GB,Nintendo,Action,2019,3.9,2.21,0.96,0.54,0.13,3.83,7600.0,387.0,2800.0,2000.0,1100.0,0.0035,0.0509
+Assassin's Creed,X360,Ubisoft,Adventure,2007,2.9,3.28,1.65,0.07,0.55,5.55,13000.0,118.0,1200.0,496.0,801.0,0.0069,0.0091
+Assassin's Creed,PS3,Ubisoft,Adventure,2007,2.9,1.91,2.0,0.09,0.83,4.83,13000.0,118.0,1200.0,496.0,801.0,0.006,0.0091
+Assassin's Creed,PC,Ubisoft,Adventure,2007,2.9,0.01,0.83,0.0,0.08,0.92,13000.0,118.0,1200.0,496.0,801.0,0.0011,0.0091
+Call of Duty: Black Ops,X360,Activision,Shooter,2010,3.7,9.67,3.73,0.11,1.13,14.64,14000.0,44.0,611.0,318.0,920.0,0.0159,0.0031
+Call of Duty: Black Ops,PS3,Activision,Shooter,2010,3.7,5.98,4.44,0.48,1.83,12.73,14000.0,44.0,611.0,318.0,920.0,0.0138,0.0031
+Call of Duty: Black Ops,PC,Activision,Shooter,2010,3.7,0.58,0.81,0.0,0.24,1.63,14000.0,44.0,611.0,318.0,920.0,0.0018,0.0031
+Call of Duty: Black Ops,Wii,Activision,Shooter,2010,3.7,0.82,0.47,0.0,0.12,1.4,14000.0,44.0,611.0,318.0,920.0,0.0015,0.0031
+Call of Duty: Black Ops,DS,Activision,Shooter,2010,3.7,0.54,0.05,0.0,0.04,0.63,14000.0,44.0,611.0,318.0,920.0,0.0007,0.0031
+The Legend of Zelda,NES,Nintendo,Action,1986,3.2,3.74,0.93,1.69,0.14,6.51,9300.0,132.0,1500.0,463.0,1200.0,0.0054,0.0142
+Ghost Trick: Phantom Detective,DS,Capcom,Adventure,2010,4.4,0.2,0.08,0.12,0.03,0.42,3600.0,149.0,1800.0,1200.0,830.0,0.0005,0.0414
+Paper Mario: The Thousand-Year Door,GC,Nintendo,Role-Playing,2004,4.4,1.48,0.25,0.46,0.06,2.25,6700.0,187.0,2900.0,1500.0,1300.0,0.0017,0.0279
+God of War II,PS2,Sony Computer Entertainment,Action,2007,4.0,2.32,0.04,0.04,1.67,4.07,9300.0,89.0,1300.0,687.0,936.0,0.0043,0.0096
+Mass Effect 2,X360,Electronic Arts,Role-Playing,2010,4.3,1.99,0.82,0.03,0.27,3.11,9600.0,107.0,1900.0,645.0,1300.0,0.0024,0.0111
+Mass Effect 2,PS3,Electronic Arts,Role-Playing,2010,4.3,0.78,0.47,0.03,0.2,1.48,9600.0,107.0,1900.0,645.0,1300.0,0.0011,0.0111
+Mass Effect 2,PC,Electronic Arts,Role-Playing,2010,4.3,0.01,0.32,0.0,0.07,0.4,9600.0,107.0,1900.0,645.0,1300.0,0.0003,0.0111
+Metal Gear Solid V: Ground Zeroes,PS4,Konami Digital Entertainment,Action,2014,3.3,0.45,0.46,0.17,0.2,1.28,9500.0,53.0,1700.0,549.0,650.0,0.002,0.0056
+Metal Gear Solid V: Ground Zeroes,PS3,Konami Digital Entertainment,Action,2014,3.3,0.14,0.14,0.27,0.06,0.62,9500.0,53.0,1700.0,549.0,650.0,0.001,0.0056
+Metal Gear Solid V: Ground Zeroes,XOne,Konami Digital Entertainment,Action,2014,3.3,0.15,0.11,0.0,0.02,0.28,9500.0,53.0,1700.0,549.0,650.0,0.0004,0.0056
+Metal Gear Solid V: Ground Zeroes,X360,Konami Digital Entertainment,Action,2014,3.3,0.07,0.06,0.01,0.01,0.15,9500.0,53.0,1700.0,549.0,650.0,0.0002,0.0056
+Banjo-Kazooie,N64,Nintendo,Platform,1998,4.0,1.87,1.13,0.55,0.1,3.65,7400.0,205.0,2100.0,765.0,1200.0,0.003,0.0277
+Banjo-Kazooie,X360,Microsoft Game Studios,Platform,1998,4.0,0.0,0.01,0.0,0.0,0.01,7400.0,205.0,2100.0,765.0,1200.0,0.0,0.0277
+Call of Duty: Black Ops II,PS3,Activision,Shooter,2012,3.8,4.99,5.88,0.65,2.52,14.03,13000.0,57.0,626.0,286.0,903.0,0.0155,0.0044
+Call of Duty: Black Ops II,X360,Activision,Shooter,2012,3.8,8.25,4.3,0.07,1.12,13.73,13000.0,57.0,626.0,286.0,903.0,0.0152,0.0044
+Call of Duty: Black Ops II,PC,Activision,Shooter,2012,3.8,0.63,0.69,0.0,0.21,1.53,13000.0,57.0,626.0,286.0,903.0,0.0017,0.0044
+Call of Duty: Black Ops II,WiiU,Activision,Shooter,2012,3.8,0.21,0.18,0.0,0.03,0.43,13000.0,57.0,626.0,286.0,903.0,0.0005,0.0044
+Mega Man X,SNES,Capcom,Platform,1993,4.1,0.57,0.08,0.5,0.01,1.16,6900.0,76.0,1100.0,385.0,1200.0,0.001,0.011
+New Super Mario Bros. Wii,Wii,Nintendo,Platform,2009,3.5,14.59,7.06,4.7,2.26,28.62,13000.0,85.0,696.0,241.0,859.0,0.0333,0.0065
+Wolfenstein: The New Order,PS4,Bethesda Softworks,Shooter,2014,3.6,0.47,0.8,0.03,0.29,1.58,8400.0,149.0,2200.0,722.0,794.0,0.002,0.0177
+Wolfenstein: The New Order,XOne,Bethesda Softworks,Shooter,2014,3.6,0.33,0.28,0.0,0.06,0.67,8400.0,149.0,2200.0,722.0,794.0,0.0008,0.0177
+Wolfenstein: The New Order,PS3,Bethesda Softworks,Shooter,2014,3.6,0.14,0.25,0.02,0.09,0.51,8400.0,149.0,2200.0,722.0,794.0,0.0006,0.0177
+Wolfenstein: The New Order,PC,Bethesda Softworks,Shooter,2014,3.6,0.12,0.29,0.0,0.05,0.46,8400.0,149.0,2200.0,722.0,794.0,0.0006,0.0177
+Wolfenstein: The New Order,X360,Bethesda Softworks,Shooter,2014,3.6,0.18,0.19,0.0,0.04,0.41,8400.0,149.0,2200.0,722.0,794.0,0.0005,0.0177
+Deus Ex,PC,Eidos Interactive,Role-Playing,2000,4.4,0.0,0.01,0.0,0.0,0.01,3800.0,189.0,2700.0,958.0,899.0,0.0,0.0497
+BioShock 2,X360,Take-Two Interactive,Shooter,2010,3.6,1.45,0.55,0.02,0.19,2.21,9100.0,103.0,3300.0,691.0,687.0,0.0032,0.0113
+BioShock 2,PS3,Take-Two Interactive,Shooter,2010,3.6,0.85,0.47,0.02,0.22,1.55,9100.0,103.0,3300.0,691.0,687.0,0.0023,0.0113
+BioShock 2,PC,Take-Two Interactive,Shooter,2010,3.6,0.02,0.19,0.0,0.04,0.24,9100.0,103.0,3300.0,691.0,687.0,0.0003,0.0113
+Shovel Knight,3DS,Yacht Club Games,Platform,2014,4.0,0.07,0.04,0.01,0.01,0.13,8500.0,135.0,1900.0,1200.0,761.0,0.0002,0.0159
+Shovel Knight,WiiU,Yacht Club Games,Platform,2014,4.0,0.06,0.04,0.0,0.01,0.11,8500.0,135.0,1900.0,1200.0,761.0,0.0001,0.0159
+Shovel Knight,PS4,Yacht Club Games,Platform,2014,4.0,0.03,0.03,0.0,0.01,0.08,8500.0,135.0,1900.0,1200.0,761.0,0.0001,0.0159
+Dark Souls II,PS3,Namco Bandai Games,Role-Playing,2014,3.3,0.4,0.36,0.4,0.17,1.32,6700.0,128.0,1400.0,834.0,815.0,0.0016,0.0191
+Dark Souls II,X360,Namco Bandai Games,Role-Playing,2014,3.3,0.48,0.2,0.01,0.06,0.76,6700.0,128.0,1400.0,834.0,815.0,0.0009,0.0191
+Dark Souls II,PS4,Namco Bandai Games,Role-Playing,2014,3.3,0.2,0.22,0.08,0.08,0.59,6700.0,128.0,1400.0,834.0,815.0,0.0007,0.0191
+Dark Souls II,XOne,Namco Bandai Games,Role-Playing,2014,3.3,0.13,0.07,0.0,0.02,0.22,6700.0,128.0,1400.0,834.0,815.0,0.0003,0.0191
+Dark Souls II,PC,Namco Bandai Games,Role-Playing,2014,3.3,0.08,0.08,0.0,0.02,0.18,6700.0,128.0,1400.0,834.0,815.0,0.0002,0.0191
+Resident Evil 6,PS3,Capcom,Shooter,2012,2.5,0.88,0.97,0.88,0.42,3.15,7800.0,189.0,1800.0,552.0,888.0,0.0035,0.0242
+Resident Evil 6,X360,Capcom,Shooter,2012,2.5,1.11,0.63,0.07,0.16,1.98,7800.0,189.0,1800.0,552.0,888.0,0.0022,0.0242
+Resident Evil 6,PS4,Capcom,Shooter,2012,2.5,0.05,0.0,0.0,0.01,0.07,7800.0,189.0,1800.0,552.0,888.0,0.0001,0.0242
+Resident Evil 6,PC,Capcom,Shooter,2012,2.5,0.0,0.04,0.0,0.01,0.04,7800.0,189.0,1800.0,552.0,888.0,0.0,0.0242
+Resident Evil 6,XOne,Capcom,Shooter,2012,2.5,0.03,0.0,0.0,0.0,0.04,7800.0,189.0,1800.0,552.0,888.0,0.0,0.0242
+Devil May Cry 3: Dante's Awakening,PS2,Capcom,Action,2005,4.2,0.99,0.63,0.29,0.19,2.09,6100.0,116.0,1600.0,648.0,909.0,0.0023,0.019
+Tetris,GB,Nintendo,Puzzle,1989,4.1,23.2,2.26,4.22,0.58,30.26,9600.0,54.0,175.0,66.0,688.0,0.044,0.0056
+Tetris,NES,Nintendo,Puzzle,1989,4.1,2.97,0.69,1.81,0.11,5.58,9600.0,54.0,175.0,66.0,688.0,0.0081,0.0056
+Super Mario 3D World,WiiU,Nintendo,Platform,2013,3.9,2.11,1.11,0.72,0.3,4.25,9600.0,93.0,787.0,432.0,1100.0,0.0039,0.0097
+Uncharted 3: Drake's Deception,PS3,Sony Computer Entertainment,Action,2011,3.6,2.77,2.8,0.19,1.06,6.83,11000.0,60.0,1500.0,477.0,941.0,0.0073,0.0055
+Phoenix Wright: Ace Attorney - Trials and Tribulations,DS,Capcom,Adventure,2006,4.4,0.33,0.05,0.25,0.04,0.67,6600.0,172.0,1600.0,623.0,995.0,0.0007,0.0261
+Max Payne,PS2,Take-Two Interactive,Shooter,2001,3.9,1.99,1.05,0.05,0.22,3.31,6300.0,102.0,1500.0,742.0,786.0,0.0042,0.0162
+Max Payne,XB,Take-Two Interactive,Shooter,2001,3.9,0.98,0.19,0.0,0.05,1.22,6300.0,102.0,1500.0,742.0,786.0,0.0016,0.0162
+Max Payne,GBA,Take-Two Interactive,Shooter,2001,3.9,0.02,0.01,0.0,0.0,0.03,6300.0,102.0,1500.0,742.0,786.0,0.0,0.0162
+Max Payne,PC,Take-Two Interactive,Shooter,2001,3.9,0.0,0.02,0.0,0.0,0.02,6300.0,102.0,1500.0,742.0,786.0,0.0,0.0162
+Donkey Kong Country 2: Diddy's Kong Quest,SNES,Nintendo,Platform,1995,4.2,2.1,0.74,2.2,0.11,5.15,6600.0,115.0,1600.0,455.0,1200.0,0.0043,0.0174
+Resident Evil 2,PS,Virgin Interactive,Action,1998,4.2,1.88,1.47,2.02,0.45,5.82,5500.0,54.0,1100.0,597.0,1100.0,0.0053,0.0098
+Resident Evil 2,N64,Virgin Interactive,Action,1998,4.2,0.39,0.09,0.07,0.01,0.56,5500.0,54.0,1100.0,597.0,1100.0,0.0005,0.0098
+Resident Evil 2,GC,Capcom,Action,1998,4.2,0.04,0.01,0.0,0.0,0.06,5500.0,54.0,1100.0,597.0,1100.0,0.0001,0.0098
+Mario Kart 7,3DS,Nintendo,Racing,2011,3.5,4.74,3.91,2.67,0.89,12.21,10000.0,59.0,336.0,141.0,593.0,0.0206,0.0059
+Bully,PS2,Take-Two Interactive,Action,2006,3.9,0.75,0.03,0.04,0.12,0.94,6700.0,80.0,1300.0,768.0,635.0,0.0015,0.0119
+Mario Kart 64,N64,Nintendo,Racing,1996,3.5,5.55,1.94,2.23,0.15,9.87,9700.0,21.0,389.0,194.0,725.0,0.0136,0.0022
+Resident Evil,PS,Virgin Interactive,Action,2002,4.3,2.05,1.16,1.11,0.73,5.05,4000.0,93.0,1100.0,470.0,1000.0,0.005,0.0232
+Resident Evil,SAT,Capcom,Action,2002,4.3,0.0,0.0,0.17,0.0,0.17,4000.0,93.0,1100.0,470.0,1000.0,0.0002,0.0232
+Resident Evil,PS3,Capcom,Action,2002,4.3,0.0,0.0,0.12,0.0,0.12,4000.0,93.0,1100.0,470.0,1000.0,0.0001,0.0232
+The Evil Within,PS4,Bethesda Softworks,Action,2014,3.4,0.55,0.84,0.11,0.31,1.81,4800.0,140.0,1800.0,822.0,629.0,0.0029,0.0292
+The Evil Within,PS3,Bethesda Softworks,Action,2014,3.4,0.26,0.39,0.12,0.14,0.92,4800.0,140.0,1800.0,822.0,629.0,0.0015,0.0292
+The Evil Within,XOne,Bethesda Softworks,Action,2014,3.4,0.35,0.25,0.0,0.05,0.65,4800.0,140.0,1800.0,822.0,629.0,0.001,0.0292
+The Evil Within,X360,Bethesda Softworks,Action,2014,3.4,0.25,0.2,0.01,0.04,0.5,4800.0,140.0,1800.0,822.0,629.0,0.0008,0.0292
+The Evil Within,PC,Bethesda Softworks,Action,2014,3.4,0.09,0.16,0.0,0.02,0.27,4800.0,140.0,1800.0,822.0,629.0,0.0004,0.0292
+Kirby's Adventure,NES,Nintendo,Platform,1993,3.6,0.79,0.14,0.8,0.02,1.75,6000.0,61.0,690.0,217.0,718.0,0.0024,0.0102
+The Sims 4,PC,Electronic Arts,Simulation,2014,3.0,0.96,1.72,0.0,0.29,2.97,8300.0,434.0,667.0,110.0,458.0,0.0065,0.0523
+Far Cry 4,PS4,Ubisoft,Shooter,2014,3.2,1.12,2.12,0.1,0.69,4.03,8500.0,90.0,1300.0,442.0,558.0,0.0072,0.0106
+Far Cry 4,XOne,Ubisoft,Shooter,2014,3.2,0.79,0.68,0.01,0.13,1.61,8500.0,90.0,1300.0,442.0,558.0,0.0029,0.0106
+Far Cry 4,PS3,Ubisoft,Shooter,2014,3.2,0.33,0.79,0.08,0.23,1.44,8500.0,90.0,1300.0,442.0,558.0,0.0026,0.0106
+Far Cry 4,X360,Ubisoft,Shooter,2014,3.2,0.45,0.44,0.0,0.08,0.98,8500.0,90.0,1300.0,442.0,558.0,0.0018,0.0106
+Far Cry 4,PC,Ubisoft,Shooter,2014,3.2,0.15,0.42,0.0,0.05,0.62,8500.0,90.0,1300.0,442.0,558.0,0.0011,0.0106
+Super Smash Bros.,N64,Nintendo,Fighting,1999,3.4,2.95,0.6,1.97,0.04,5.55,9800.0,20.0,279.0,207.0,688.0,0.0081,0.002
+Halo 4,X360,Microsoft Game Studios,Shooter,2012,3.0,6.63,2.36,0.04,0.73,9.76,7600.0,57.0,1200.0,277.0,674.0,0.0145,0.0075
+Mega Man 2,NES,Capcom,Action,1989,3.6,0.93,0.15,0.42,0.01,1.51,6100.0,34.0,542.0,163.0,857.0,0.0018,0.0056
+Phoenix Wright: Ace Attorney Trilogy,3DS,Capcom,Adventure,2014,4.3,0.0,0.0,0.02,0.0,0.02,4000.0,644.0,1900.0,779.0,516.0,0.0,0.161
+Star Wars: Knights of the Old Republic,XB,Activision,Role-Playing,2003,4.2,1.68,0.44,0.0,0.08,2.19,5300.0,180.0,2300.0,705.0,839.0,0.0026,0.034
+Star Wars: Knights of the Old Republic,PC,LucasArts,Role-Playing,2003,4.2,0.01,0.1,0.0,0.02,0.14,5300.0,180.0,2300.0,705.0,839.0,0.0002,0.034
+No More Heroes 2: Desperate Struggle,Wii,Rising Star Games,Action,2010,3.5,0.21,0.12,0.04,0.03,0.41,3200.0,68.0,1500.0,855.0,608.0,0.0007,0.0213
+Kirby Super Star Ultra,DS,Nintendo,Platform,2008,4.3,1.57,0.04,1.19,0.15,2.96,5800.0,47.0,773.0,427.0,743.0,0.004,0.0081
+"Flower, Sun, and Rain",DS,Rising Star Games,Adventure,2001,4.3,0.07,0.0,0.0,0.01,0.07,632.0,32.0,1000.0,1100.0,466.0,0.0002,0.0506
+Katamari Damacy,PS2,Namco Bandai Games,Puzzle,2004,4.2,0.47,0.02,0.17,0.08,0.73,4100.0,60.0,1000.0,761.0,939.0,0.0008,0.0146
+Borderlands,X360,Take-Two Interactive,Shooter,2009,3.1,2.39,0.73,0.03,0.29,3.44,9100.0,98.0,1200.0,450.0,484.0,0.0071,0.0108
+Borderlands,PS3,Take-Two Interactive,Shooter,2009,3.1,1.2,0.62,0.0,0.29,2.11,9100.0,98.0,1200.0,450.0,484.0,0.0044,0.0108
+Borderlands,PC,Take-Two Interactive,Shooter,2009,3.1,0.01,0.14,0.0,0.04,0.18,9100.0,98.0,1200.0,450.0,484.0,0.0004,0.0108
+Klonoa: Door to Phantomile,PS,Sony Computer Entertainment,Platform,1997,4.1,0.0,0.0,0.17,0.01,0.18,2200.0,63.0,877.0,590.0,648.0,0.0003,0.0286
+Halo: The Master Chief Collection,XOne,Microsoft Game Studios,Shooter,2014,4.2,1.89,0.99,0.03,0.24,3.15,5100.0,362.0,1300.0,463.0,356.0,0.0088,0.071
+Resident Evil 3: Nemesis,PS,Eidos Interactive,Action,1999,3.8,1.3,0.77,1.54,0.11,3.72,4300.0,56.0,953.0,496.0,849.0,0.0044,0.013
+Resident Evil 3: Nemesis,GC,Capcom,Action,1999,3.8,0.06,0.02,0.0,0.0,0.08,4300.0,56.0,953.0,496.0,849.0,0.0001,0.013
+F.E.A.R.,PS3,Vivendi Games,Shooter,2005,3.8,0.18,0.27,0.0,0.1,0.55,3600.0,65.0,1000.0,505.0,564.0,0.001,0.0181
+F.E.A.R.,X360,Vivendi Games,Shooter,2005,3.8,0.28,0.03,0.0,0.03,0.34,3600.0,65.0,1000.0,505.0,564.0,0.0006,0.0181
+NieR,PS3,Square Enix,Role-Playing,2010,4.2,0.17,0.2,0.2,0.07,0.64,2900.0,67.0,999.0,854.0,743.0,0.0009,0.0231
+NieR,X360,Square Enix,Role-Playing,2010,4.2,0.13,0.1,0.04,0.02,0.29,2900.0,67.0,999.0,854.0,743.0,0.0004,0.0231
+The Walking Dead: Season Two,PS4,Telltale Games,Adventure,2013,3.5,0.1,0.09,0.01,0.04,0.24,6700.0,35.0,718.0,262.0,559.0,0.0004,0.0052
+The Walking Dead: Season Two,PS3,Telltale Games,Adventure,2013,3.5,0.09,0.09,0.0,0.04,0.22,6700.0,35.0,718.0,262.0,559.0,0.0004,0.0052
+The Walking Dead: Season Two,PSV,Telltale Games,Adventure,2013,3.5,0.1,0.0,0.01,0.03,0.15,6700.0,35.0,718.0,262.0,559.0,0.0003,0.0052
+The Walking Dead: Season Two,XOne,Telltale Games,Adventure,2013,3.5,0.08,0.05,0.0,0.01,0.14,6700.0,35.0,718.0,262.0,559.0,0.0003,0.0052
+The Walking Dead: Season Two,X360,Telltale Games,Adventure,2013,3.5,0.04,0.07,0.0,0.01,0.12,6700.0,35.0,718.0,262.0,559.0,0.0002,0.0052
+Max Payne 2: The Fall of Max Payne,PS2,Take-Two Interactive,Shooter,2003,4.1,0.65,0.51,0.0,0.17,1.34,4100.0,37.0,1100.0,464.0,553.0,0.0024,0.009
+Max Payne 2: The Fall of Max Payne,XB,Take-Two Interactive,Shooter,2003,4.1,0.47,0.15,0.0,0.02,0.64,4100.0,37.0,1100.0,464.0,553.0,0.0012,0.009
+Max Payne 2: The Fall of Max Payne,PC,Take-Two Interactive,Shooter,2003,4.1,0.0,0.02,0.0,0.0,0.03,4100.0,37.0,1100.0,464.0,553.0,0.0001,0.009
+Shin Megami Tensei: Devil Summoner - Soul Hackers,SAT,Atlus,Role-Playing,1997,3.8,0.0,0.0,0.31,0.0,0.31,1200.0,153.0,1600.0,651.0,470.0,0.0007,0.1275
+Shin Megami Tensei: Devil Summoner - Soul Hackers,3DS,Atlus,Role-Playing,1997,3.8,0.13,0.02,0.14,0.01,0.3,1200.0,153.0,1600.0,651.0,470.0,0.0006,0.1275
+Shin Megami Tensei: Devil Summoner - Soul Hackers,PS,Atlus,Role-Playing,1997,3.8,0.0,0.0,0.14,0.01,0.15,1200.0,153.0,1600.0,651.0,470.0,0.0003,0.1275
+The Elder Scrolls III: Morrowind,XB,Ubisoft,Role-Playing,2002,4.0,2.09,0.63,0.03,0.11,2.86,3700.0,150.0,1700.0,487.0,549.0,0.0052,0.0405
+Injustice: Gods Among Us,X360,Warner Bros. Interactive Entertainment,Fighting,2013,3.0,0.97,0.34,0.0,0.11,1.41,7100.0,17.0,502.0,112.0,364.0,0.0039,0.0024
+Injustice: Gods Among Us,PS3,Warner Bros. Interactive Entertainment,Fighting,2013,3.0,0.48,0.53,0.01,0.23,1.25,7100.0,17.0,502.0,112.0,364.0,0.0034,0.0024
+Injustice: Gods Among Us,PS4,Warner Bros. Interactive Entertainment,Fighting,2013,3.0,0.46,0.29,0.0,0.12,0.87,7100.0,17.0,502.0,112.0,364.0,0.0024,0.0024
+Injustice: Gods Among Us,WiiU,Warner Bros. Interactive Entertainment,Fighting,2013,3.0,0.1,0.08,0.0,0.02,0.2,7100.0,17.0,502.0,112.0,364.0,0.0005,0.0024
+Injustice: Gods Among Us,PSV,Warner Bros. Interactive Entertainment,Fighting,2013,3.0,0.11,0.01,0.0,0.02,0.14,7100.0,17.0,502.0,112.0,364.0,0.0004,0.0024
+Pac-Man,2600,Atari,Puzzle,1980,3.4,7.28,0.45,0.0,0.08,7.81,5200.0,7.0,108.0,31.0,427.0,0.0183,0.0013
+Pac-Man,NES,Namco Bandai Games,Puzzle,1980,3.4,0.27,0.08,0.85,0.02,1.22,5200.0,7.0,108.0,31.0,427.0,0.0029,0.0013
+Final Fantasy X/X-2 HD Remaster,PS4,Square Enix,Role-Playing,2013,4.1,0.29,0.25,0.06,0.11,0.71,3200.0,281.0,2300.0,677.0,368.0,0.0019,0.0878
+Mortal Kombat X,PS4,Warner Bros. Interactive Entertainment,Fighting,2015,3.3,1.47,0.76,0.0,0.47,2.7,7100.0,43.0,602.0,138.0,430.0,0.0063,0.0061
+Mortal Kombat X,XOne,Warner Bros. Interactive Entertainment,Fighting,2015,3.3,1.0,0.21,0.0,0.13,1.35,7100.0,43.0,602.0,138.0,430.0,0.0031,0.0061
+Mortal Kombat X,PC,Warner Bros. Interactive Entertainment,Fighting,2015,3.3,0.01,0.04,0.0,0.0,0.05,7100.0,43.0,602.0,138.0,430.0,0.0001,0.0061
+Shin Megami Tensei: Digital Devil Saga,PS2,Ghostlight,Role-Playing,2004,4.1,0.06,0.05,0.0,0.02,0.13,2000.0,200.0,1900.0,916.0,657.0,0.0002,0.1
+Star Wars: The Force Unleashed,X360,LucasArts,Action,2008,3.2,1.74,0.8,0.0,0.26,2.8,7400.0,50.0,823.0,350.0,417.0,0.0067,0.0068
+Star Wars: The Force Unleashed,PS3,LucasArts,Action,2008,3.2,1.01,0.9,0.0,0.37,2.28,7400.0,50.0,823.0,350.0,417.0,0.0055,0.0068
+Star Wars: The Force Unleashed,Wii,LucasArts,Action,2008,3.2,1.14,0.57,0.0,0.19,1.91,7400.0,50.0,823.0,350.0,417.0,0.0046,0.0068
+Star Wars: The Force Unleashed,PS2,LucasArts,Action,2008,3.2,0.49,0.0,0.01,0.75,1.25,7400.0,50.0,823.0,350.0,417.0,0.003,0.0068
+Star Wars: The Force Unleashed,PSP,LucasArts,Action,2008,3.2,0.43,0.41,0.0,0.25,1.09,7400.0,50.0,823.0,350.0,417.0,0.0026,0.0068
+Star Wars: The Force Unleashed,DS,LucasArts,Action,2008,3.2,0.51,0.29,0.0,0.09,0.9,7400.0,50.0,823.0,350.0,417.0,0.0022,0.0068
+Donkey Kong Country Returns,Wii,Nintendo,Platform,2010,3.9,3.25,1.84,1.03,0.47,6.59,5300.0,67.0,1100.0,443.0,521.0,0.0126,0.0126
+Donkey Kong Country Returns,3DS,Nintendo,Platform,2010,3.9,0.73,0.62,0.4,0.12,1.87,5300.0,67.0,1100.0,443.0,521.0,0.0036,0.0126
+Deus Ex: Human Revolution,PS3,Square Enix,Shooter,2011,3.8,0.5,0.6,0.07,0.23,1.39,5800.0,65.0,1700.0,488.0,559.0,0.0025,0.0112
+Deus Ex: Human Revolution,X360,Square Enix,Shooter,2011,3.8,0.76,0.48,0.02,0.12,1.39,5800.0,65.0,1700.0,488.0,559.0,0.0025,0.0112
+Deus Ex: Human Revolution,PC,Square Enix,Shooter,2011,3.8,0.25,0.25,0.0,0.09,0.59,5800.0,65.0,1700.0,488.0,559.0,0.0011,0.0112
+Deus Ex: Human Revolution,WiiU,Square Enix,Shooter,2011,3.8,0.06,0.05,0.0,0.01,0.12,5800.0,65.0,1700.0,488.0,559.0,0.0002,0.0112
+Sin and Punishment,N64,Nintendo,Shooter,2000,4.0,0.0,0.0,0.13,0.0,0.13,1100.0,34.0,878.0,550.0,459.0,0.0003,0.0309
+New Super Mario Bros. 2,3DS,Nintendo,Platform,2012,2.9,3.66,3.07,2.47,0.63,9.82,6100.0,47.0,588.0,234.0,581.0,0.0169,0.0077
+Asura's Wrath,PS3,Capcom,Action,2012,3.7,0.18,0.12,0.06,0.05,0.41,2100.0,65.0,980.0,827.0,432.0,0.0009,0.031
+Asura's Wrath,X360,Capcom,Action,2012,3.7,0.15,0.06,0.01,0.02,0.24,2100.0,65.0,980.0,827.0,432.0,0.0006,0.031
+Tales of Berseria,PS4,Namco Bandai Games,Role-Playing,2016,3.7,0.0,0.0,0.22,0.0,0.22,3300.0,293.0,2400.0,657.0,555.0,0.0004,0.0888
+Tales of Berseria,PS3,Namco Bandai Games,Role-Playing,2016,3.7,0.0,0.0,0.11,0.0,0.11,3300.0,293.0,2400.0,657.0,555.0,0.0002,0.0888
+Prince of Persia: The Sands of Time,PS2,Ubisoft,Action,2003,3.6,0.88,1.03,0.0,0.31,2.22,5500.0,37.0,1100.0,421.0,480.0,0.0046,0.0067
+Prince of Persia: The Sands of Time,XB,Ubisoft,Action,2003,3.6,0.57,0.33,0.0,0.04,0.94,5500.0,37.0,1100.0,421.0,480.0,0.002,0.0067
+Prince of Persia: The Sands of Time,GC,Ubisoft,Action,2003,3.6,0.25,0.06,0.0,0.01,0.32,5500.0,37.0,1100.0,421.0,480.0,0.0007,0.0067
+Prince of Persia: The Sands of Time,GBA,Ubisoft,Action,2003,3.6,0.11,0.04,0.0,0.0,0.15,5500.0,37.0,1100.0,421.0,480.0,0.0003,0.0067
+Assassin's Creed Syndicate,PS4,Ubisoft,Action,2015,3.0,0.8,1.92,0.06,0.5,3.28,5600.0,97.0,1500.0,417.0,562.0,0.0058,0.0173
+Assassin's Creed Syndicate,XOne,Ubisoft,Action,2015,3.0,0.61,0.56,0.0,0.11,1.28,5600.0,97.0,1500.0,417.0,562.0,0.0023,0.0173
+Assassin's Creed Syndicate,PC,Ubisoft,Action,2015,3.0,0.1,0.08,0.0,0.02,0.2,5600.0,97.0,1500.0,417.0,562.0,0.0004,0.0173
+Sunset Overdrive,XOne,Microsoft Game Studios,Shooter,2014,3.5,0.62,0.4,0.0,0.08,1.11,3600.0,92.0,1200.0,459.0,445.0,0.0025,0.0256
+Metal Gear Solid: Peace Walker,PSP,Konami Digital Entertainment,Action,2010,3.5,0.46,0.42,0.96,0.25,2.09,4000.0,68.0,1300.0,566.0,498.0,0.0042,0.017
+Vagrant Story,PS,Crave Entertainment,Role-Playing,2000,4.0,0.3,0.2,0.3,0.06,0.87,1000.0,59.0,1600.0,889.0,503.0,0.0017,0.059
+LEGO Marvel Super Heroes,X360,Warner Bros. Interactive Entertainment,Action,2013,3.6,1.24,0.85,0.0,0.21,2.3,6000.0,65.0,592.0,126.0,522.0,0.0044,0.0108
+LEGO Marvel Super Heroes,PS3,Warner Bros. Interactive Entertainment,Action,2013,3.6,0.77,0.85,0.01,0.37,2.0,6000.0,65.0,592.0,126.0,522.0,0.0038,0.0108
+LEGO Marvel Super Heroes,PS4,Warner Bros. Interactive Entertainment,Action,2013,3.6,0.59,0.75,0.01,0.21,1.56,6000.0,65.0,592.0,126.0,522.0,0.003,0.0108
+LEGO Marvel Super Heroes,XOne,Warner Bros. Interactive Entertainment,Action,2013,3.6,0.61,0.34,0.0,0.09,1.04,6000.0,65.0,592.0,126.0,522.0,0.002,0.0108
+LEGO Marvel Super Heroes,3DS,Warner Bros. Interactive Entertainment,Action,2013,3.6,0.42,0.36,0.04,0.07,0.89,6000.0,65.0,592.0,126.0,522.0,0.0017,0.0108
+LEGO Marvel Super Heroes,WiiU,Warner Bros. Interactive Entertainment,Action,2013,3.6,0.31,0.35,0.02,0.06,0.74,6000.0,65.0,592.0,126.0,522.0,0.0014,0.0108
+LEGO Marvel Super Heroes,PSV,Warner Bros. Interactive Entertainment,Action,2013,3.6,0.15,0.35,0.0,0.16,0.66,6000.0,65.0,592.0,126.0,522.0,0.0013,0.0108
+LEGO Marvel Super Heroes,DS,Warner Bros. Interactive Entertainment,Action,2013,3.6,0.28,0.17,0.0,0.04,0.49,6000.0,65.0,592.0,126.0,522.0,0.0009,0.0108
+LEGO Marvel Super Heroes,PC,Warner Bros. Interactive Entertainment,Action,2013,3.6,0.04,0.12,0.0,0.02,0.18,6000.0,65.0,592.0,126.0,522.0,0.0003,0.0108
+Sonic Colors,Wii,Sega,Platform,2010,3.4,0.96,0.61,0.01,0.16,1.74,5100.0,44.0,690.0,342.0,609.0,0.0029,0.0086
+Sonic Colors,DS,Sega,Platform,2010,3.4,0.74,0.5,0.01,0.13,1.37,5100.0,44.0,690.0,342.0,609.0,0.0022,0.0086
+Zero Escape: Zero Time Dilemma,3DS,Aksys Games,Adventure,2016,3.0,0.04,0.0,0.01,0.01,0.06,2900.0,64.0,1200.0,402.0,350.0,0.0002,0.0221
+Zero Escape: Zero Time Dilemma,PSV,Aksys Games,Adventure,2016,3.0,0.03,0.0,0.02,0.01,0.06,2900.0,64.0,1200.0,402.0,350.0,0.0002,0.0221
+Deus Ex: Mankind Divided,PS4,Square Enix,Role-Playing,2016,3.5,0.1,0.18,0.0,0.05,0.33,3400.0,72.0,2000.0,458.0,387.0,0.0009,0.0212
+Deus Ex: Mankind Divided,XOne,Square Enix,Role-Playing,2016,3.5,0.08,0.06,0.0,0.01,0.15,3400.0,72.0,2000.0,458.0,387.0,0.0004,0.0212
+Deus Ex: Mankind Divided,PC,Square Enix,Role-Playing,2016,3.5,0.0,0.02,0.0,0.0,0.02,3400.0,72.0,2000.0,458.0,387.0,0.0001,0.0212
+Guitar Hero III: Legends of Rock,PS2,Activision,Misc,2007,3.9,3.49,0.01,0.01,1.48,4.98,6900.0,21.0,174.0,78.0,489.0,0.0102,0.003
+Guitar Hero III: Legends of Rock,Wii,Activision,Misc,2007,3.9,3.06,1.12,0.0,0.44,4.62,6900.0,21.0,174.0,78.0,489.0,0.0094,0.003
+Guitar Hero III: Legends of Rock,X360,Activision,Misc,2007,3.9,3.19,0.92,0.01,0.42,4.53,6900.0,21.0,174.0,78.0,489.0,0.0093,0.003
+Guitar Hero III: Legends of Rock,PS3,Activision,Misc,2007,3.9,1.4,0.54,0.02,0.3,2.26,6900.0,21.0,174.0,78.0,489.0,0.0046,0.003
+Guitar Hero III: Legends of Rock,PC,Aspyr,Misc,2007,3.9,0.01,0.0,0.0,0.0,0.01,6900.0,21.0,174.0,78.0,489.0,0.0,0.003
+Gears of War,X360,Microsoft Game Studios,Shooter,2006,3.5,3.54,1.9,0.07,0.6,6.11,5300.0,37.0,545.0,307.0,522.0,0.0117,0.007
+Gears of War,PC,Microsoft Game Studios,Shooter,2006,3.5,0.0,0.01,0.0,0.0,0.02,5300.0,37.0,545.0,307.0,522.0,0.0,0.007
+Final Fantasy Tactics,PS,SquareSoft,Role-Playing,1997,4.2,0.93,0.12,1.34,0.06,2.45,2100.0,73.0,1600.0,681.0,506.0,0.0048,0.0348
+Tekken 3,PS,Sony Computer Entertainment,Fighting,1997,3.9,3.27,2.22,1.4,0.29,7.16,4200.0,13.0,253.0,183.0,564.0,0.0127,0.0031
+Xenosaga Episode I: Der Wille zur Macht,PS2,Namco Bandai Games,Role-Playing,2002,3.7,0.63,0.49,0.45,0.17,1.74,1200.0,103.0,1300.0,575.0,412.0,0.0042,0.0858
+Fire Emblem: The Sacred Stones,GBA,Nintendo,Strategy,2004,3.7,0.42,0.16,0.3,0.02,0.89,3700.0,124.0,1200.0,395.0,503.0,0.0018,0.0335
+Uncharted: The Nathan Drake Collection,PS4,Sony Computer Entertainment,Action,2015,4.1,1.96,1.69,0.08,0.74,4.47,4300.0,137.0,1300.0,319.0,363.0,0.0123,0.0319
+Dead Space 3,PS3,Electronic Arts,Action,2013,2.6,0.44,0.38,0.0,0.17,1.0,3200.0,48.0,1000.0,388.0,309.0,0.0032,0.015
+Dead Space 3,X360,Electronic Arts,Action,2013,2.6,0.64,0.28,0.0,0.08,0.99,3200.0,48.0,1000.0,388.0,309.0,0.0032,0.015
+Dead Space 3,PC,Electronic Arts,Action,2013,2.6,0.02,0.15,0.0,0.02,0.2,3200.0,48.0,1000.0,388.0,309.0,0.0006,0.015
+Devil May Cry HD Collection,PS3,Capcom,Action,2012,3.9,0.42,0.21,0.11,0.1,0.84,2200.0,152.0,1100.0,371.0,230.0,0.0037,0.0691
+Devil May Cry HD Collection,X360,Capcom,Action,2012,3.9,0.28,0.11,0.01,0.03,0.44,2200.0,152.0,1100.0,371.0,230.0,0.0019,0.0691
+Armored Core,PS,Sony Computer Entertainment,Simulation,1997,3.4,0.13,0.09,0.16,0.03,0.41,522.0,38.0,404.0,216.0,197.0,0.0021,0.0728
+Luigi's Mansion: Dark Moon,3DS,Nintendo,Action,2013,3.3,1.78,1.39,1.1,0.3,4.58,4300.0,68.0,1100.0,418.0,377.0,0.0121,0.0158
+Castlevania: Order of Ecclesia,DS,Konami Digital Entertainment,Platform,2008,4.0,0.31,0.03,0.04,0.03,0.41,2000.0,75.0,963.0,540.0,483.0,0.0008,0.0375
+Deadly Premonition,X360,Rising Star Games,Action,2010,3.9,0.18,0.06,0.0,0.02,0.27,1400.0,48.0,991.0,628.0,431.0,0.0006,0.0343
+Deadly Premonition,PS3,Rising Star Games,Action,2010,3.9,0.08,0.05,0.0,0.02,0.15,1400.0,48.0,991.0,628.0,431.0,0.0003,0.0343
+LEGO Batman 2: DC Super Heroes,X360,Warner Bros. Interactive Entertainment,Action,2012,3.5,0.9,0.64,0.0,0.15,1.68,4600.0,41.0,821.0,132.0,446.0,0.0038,0.0089
+LEGO Batman 2: DC Super Heroes,Wii,Warner Bros. Interactive Entertainment,Action,2012,3.5,0.94,0.4,0.0,0.11,1.46,4600.0,41.0,821.0,132.0,446.0,0.0033,0.0089
+LEGO Batman 2: DC Super Heroes,PS3,Warner Bros. Interactive Entertainment,Action,2012,3.5,0.5,0.53,0.0,0.2,1.22,4600.0,41.0,821.0,132.0,446.0,0.0027,0.0089
+LEGO Batman 2: DC Super Heroes,DS,Warner Bros. Interactive Entertainment,Action,2012,3.5,0.43,0.27,0.0,0.06,0.77,4600.0,41.0,821.0,132.0,446.0,0.0017,0.0089
+LEGO Batman 2: DC Super Heroes,3DS,Warner Bros. Interactive Entertainment,Action,2012,3.5,0.41,0.27,0.0,0.06,0.74,4600.0,41.0,821.0,132.0,446.0,0.0017,0.0089
+LEGO Batman 2: DC Super Heroes,PSV,Warner Bros. Interactive Entertainment,Action,2012,3.5,0.17,0.13,0.0,0.06,0.37,4600.0,41.0,821.0,132.0,446.0,0.0008,0.0089
+LEGO Batman 2: DC Super Heroes,WiiU,Warner Bros. Interactive Entertainment,Action,2012,3.5,0.05,0.07,0.0,0.01,0.13,4600.0,41.0,821.0,132.0,446.0,0.0003,0.0089
+Sonic Advance,GBA,Sega,Platform,2001,3.2,1.19,0.71,0.22,0.13,2.24,4000.0,26.0,508.0,212.0,446.0,0.005,0.0065
+Just Cause 3,PS4,Square Enix,Action,2015,3.1,0.46,1.02,0.07,0.28,1.83,4900.0,93.0,1000.0,155.0,269.0,0.0068,0.019
+Just Cause 3,XOne,Square Enix,Action,2015,3.1,0.42,0.38,0.0,0.07,0.88,4900.0,93.0,1000.0,155.0,269.0,0.0033,0.019
+Just Cause 3,PC,Square Enix,Action,2015,3.1,0.03,0.11,0.0,0.01,0.14,4900.0,93.0,1000.0,155.0,269.0,0.0005,0.019
+Suikoden II,PS,Konami Digital Entertainment,Role-Playing,1998,4.4,0.15,0.1,0.38,0.04,0.68,1100.0,42.0,1300.0,653.0,433.0,0.0016,0.0382
+LittleBigPlanet,PS3,Sony Computer Entertainment,Platform,2008,3.6,2.8,2.05,0.17,0.9,5.92,6000.0,21.0,403.0,219.0,405.0,0.0146,0.0035
+LittleBigPlanet,PSP,Sony Computer Entertainment,Platform,2008,3.6,0.64,1.24,0.01,0.69,2.58,6000.0,21.0,403.0,219.0,405.0,0.0064,0.0035
+Wario Land 3,GB,Nintendo,Platform,2000,3.8,1.11,0.51,0.34,0.23,2.2,1200.0,67.0,588.0,174.0,284.0,0.0077,0.0558
+Tales of Symphonia,GC,Nintendo,Role-Playing,2003,3.9,0.54,0.21,0.31,0.04,1.1,2800.0,132.0,1800.0,572.0,512.0,0.0021,0.0471
+Tales of Symphonia,PS3,Namco Bandai Games,Role-Playing,2003,3.9,0.21,0.13,0.13,0.06,0.54,2800.0,132.0,1800.0,572.0,512.0,0.0011,0.0471
+Final Fantasy VII,PS,Sony Computer Entertainment,Role-Playing,2012,4.2,3.01,2.47,3.28,0.96,9.72,1200.0,89.0,427.0,70.0,103.0,0.0944,0.0742
+Pikmin 2,GC,Nintendo,Strategy,2004,4.1,0.48,0.13,0.56,0.03,1.2,2700.0,53.0,988.0,500.0,530.0,0.0023,0.0196
+Conker's Bad Fur Day,N64,THQ,Platform,2001,3.6,0.53,0.22,0.0,0.02,0.77,2700.0,39.0,907.0,503.0,426.0,0.0018,0.0144
+Fire Emblem: Radiant Dawn,Wii,Nintendo,Strategy,2007,4.0,0.28,0.03,0.17,0.03,0.51,1800.0,69.0,1100.0,497.0,459.0,0.0011,0.0383
+Skate 3,X360,Electronic Arts,Sports,2010,4.0,1.46,0.98,0.0,0.24,2.68,4100.0,44.0,313.0,188.0,318.0,0.0084,0.0107
+Skate 3,PS3,Electronic Arts,Sports,2010,4.0,0.79,0.94,0.0,0.35,2.08,4100.0,44.0,313.0,188.0,318.0,0.0065,0.0107
+Braid,PC,Number None,Platform,2008,3.4,0.0,0.02,0.0,0.01,0.03,3500.0,26.0,782.0,385.0,380.0,0.0001,0.0074
+Metro 2033,X360,THQ,Shooter,2010,3.5,0.22,0.24,0.03,0.05,0.55,3700.0,49.0,1100.0,224.0,328.0,0.0017,0.0132
+Metro 2033,PC,THQ,Shooter,2010,3.5,0.0,0.19,0.0,0.05,0.24,3700.0,49.0,1100.0,224.0,328.0,0.0007,0.0132
+The Legend of Zelda: Twilight Princess HD,WiiU,Nintendo,Action,2016,4.2,0.48,0.3,0.08,0.08,0.94,2500.0,91.0,956.0,503.0,447.0,0.0021,0.0364
+We Love Katamari,PS2,Electronic Arts,Puzzle,2005,4.3,0.26,0.2,0.0,0.07,0.52,1400.0,38.0,520.0,410.0,429.0,0.0012,0.0271
+Kirby's Dream Land 2,GB,Nintendo,Platform,1995,3.2,0.69,0.14,1.48,0.05,2.36,2300.0,41.0,480.0,146.0,414.0,0.0057,0.0178
+Banjo-Tooie,N64,Nintendo,Platform,2000,3.8,0.82,0.36,0.25,0.06,1.49,3000.0,29.0,1200.0,485.0,443.0,0.0034,0.0097
+The Legend of Zelda: Oracle of Ages,GB,Nintendo,Action,2001,3.7,0.92,0.53,0.41,0.06,1.92,2800.0,60.0,1500.0,492.0,512.0,0.0038,0.0214
+Saints Row 2,X360,THQ,Action,2008,3.7,1.94,0.8,0.02,0.27,3.03,3600.0,56.0,803.0,191.0,412.0,0.0074,0.0156
+Saints Row 2,PS3,THQ,Action,2008,3.7,0.88,0.54,0.02,0.25,1.69,3600.0,56.0,803.0,191.0,412.0,0.0041,0.0156
+Saints Row 2,PC,THQ,Action,2008,3.7,0.0,0.03,0.0,0.01,0.04,3600.0,56.0,803.0,191.0,412.0,0.0001,0.0156
+Just Cause 2,PS3,Square Enix,Action,2010,3.2,0.45,0.94,0.06,0.33,1.78,5100.0,36.0,771.0,142.0,302.0,0.0059,0.0071
+Just Cause 2,X360,Square Enix,Action,2010,3.2,0.59,0.85,0.02,0.17,1.62,5100.0,36.0,771.0,142.0,302.0,0.0054,0.0071
+Just Cause 2,PC,Square Enix,Action,2010,3.2,0.0,0.1,0.0,0.03,0.13,5100.0,36.0,771.0,142.0,302.0,0.0004,0.0071
+Final Fantasy V,SNES,SquareSoft,Role-Playing,1992,3.8,0.0,0.0,2.43,0.02,2.45,2300.0,78.0,1200.0,460.0,532.0,0.0046,0.0339
+Final Fantasy V,PS,SquareSoft,Role-Playing,1992,3.8,0.0,0.0,0.16,0.01,0.17,2300.0,78.0,1200.0,460.0,532.0,0.0003,0.0339
+Live A Live,SNES,SquareSoft,Role-Playing,1994,4.2,0.0,0.0,0.32,0.0,0.32,555.0,36.0,738.0,491.0,307.0,0.001,0.0649
+Hitman: Blood Money,PS2,Eidos Interactive,Action,2006,4.0,0.25,0.19,0.0,0.06,0.5,3200.0,37.0,859.0,238.0,414.0,0.0012,0.0116
+Hitman: Blood Money,X360,Eidos Interactive,Action,2006,4.0,0.29,0.06,0.01,0.03,0.4,3200.0,37.0,859.0,238.0,414.0,0.001,0.0116
+Hitman: Blood Money,XB,Eidos Interactive,Action,2006,4.0,0.11,0.03,0.0,0.01,0.14,3200.0,37.0,859.0,238.0,414.0,0.0003,0.0116
+Hitman: Blood Money,PC,Eidos Interactive,Action,2006,4.0,0.0,0.03,0.0,0.01,0.04,3200.0,37.0,859.0,238.0,414.0,0.0001,0.0116
+Professor Layton and the Unwound Future,DS,Nintendo,Puzzle,2008,4.3,0.65,1.61,0.82,0.28,3.36,2400.0,33.0,664.0,388.0,378.0,0.0089,0.0138
+Donkey Kong Country: Tropical Freeze,WiiU,Nintendo,Platform,2018,4.2,0.73,0.52,0.15,0.12,1.52,2100.0,91.0,741.0,500.0,373.0,0.0041,0.0433
+Fire Emblem: Thracia 776,SNES,Nintendo,Strategy,1999,4.1,0.0,0.0,0.26,0.0,0.26,820.0,65.0,771.0,329.0,329.0,0.0008,0.0793
+Pikmin 3,WiiU,Nintendo,Strategy,2013,4.0,0.45,0.31,0.29,0.06,1.11,2700.0,39.0,797.0,385.0,388.0,0.0029,0.0144
+Chaos;Head Noah,X360,5pb,Adventure,2009,4.0,0.0,0.0,0.04,0.0,0.04,199.0,73.0,215.0,174.0,84.0,0.0005,0.3668
+Chaos;Head Noah,PSP,5pb,Adventure,2009,4.0,0.0,0.0,0.02,0.0,0.02,199.0,73.0,215.0,174.0,84.0,0.0002,0.3668
+Chaos;Head Noah,PSV,5pb,Adventure,2009,4.0,0.0,0.0,0.01,0.0,0.01,199.0,73.0,215.0,174.0,84.0,0.0001,0.3668
+Crysis,PC,Electronic Arts,Shooter,2007,3.2,0.0,0.69,0.0,0.03,0.72,3000.0,26.0,561.0,241.0,224.0,0.0032,0.0087
+Sonic and the Secret Rings,Wii,Sega,Platform,2007,1.9,1.24,1.2,0.04,0.3,2.77,3100.0,18.0,348.0,160.0,362.0,0.0077,0.0058
+Mario Party 2,N64,Nintendo,Misc,1999,3.7,1.28,0.14,1.08,0.01,2.5,3900.0,11.0,199.0,132.0,348.0,0.0072,0.0028
+Animal Crossing,GC,Nintendo,Simulation,2001,3.9,1.92,0.16,0.99,0.09,3.15,3900.0,51.0,389.0,317.0,533.0,0.0059,0.0131
+Final Fantasy XIII-2,PS3,Square Enix,Role-Playing,2011,3.3,0.78,0.75,0.89,0.26,2.68,2300.0,58.0,1400.0,449.0,482.0,0.0056,0.0252
+Final Fantasy XIII-2,X360,Square Enix,Role-Playing,2011,3.3,0.36,0.3,0.02,0.06,0.74,2300.0,58.0,1400.0,449.0,482.0,0.0015,0.0252
+Fatal Frame II: Crimson Butterfly,PS2,Ubisoft,Action,2003,4.2,0.08,0.06,0.0,0.02,0.16,1000.0,38.0,690.0,513.0,398.0,0.0004,0.038
+World of Warcraft,PC,Activision,Role-Playing,2004,3.5,0.07,6.21,0.0,0.0,6.28,4500.0,115.0,139.0,74.0,369.0,0.017,0.0256
+The Legend of Heroes: Trails of Cold Steel II,PSV,Nippon Ichi Software,Role-Playing,2014,3.7,0.02,0.0,0.13,0.01,0.15,1700.0,45.0,707.0,319.0,401.0,0.0004,0.0265
+The Legend of Heroes: Trails of Cold Steel II,PS3,Nippon Ichi Software,Role-Playing,2014,3.7,0.01,0.0,0.11,0.0,0.12,1700.0,45.0,707.0,319.0,401.0,0.0003,0.0265
+Armored Core 3,PS2,Metro 3D,Simulation,2002,3.7,0.22,0.17,0.23,0.06,0.67,297.0,19.0,273.0,142.0,115.0,0.0058,0.064
+Star Wars: The Force Unleashed II,PS3,LucasArts,Action,2010,2.8,0.8,0.53,0.0,0.22,1.55,4100.0,18.0,597.0,268.0,242.0,0.0064,0.0044
+Star Wars: The Force Unleashed II,X360,LucasArts,Action,2010,2.8,0.95,0.4,0.0,0.12,1.47,4100.0,18.0,597.0,268.0,242.0,0.0061,0.0044
+Star Wars: The Force Unleashed II,Wii,LucasArts,Action,2010,2.8,0.54,0.19,0.0,0.06,0.8,4100.0,18.0,597.0,268.0,242.0,0.0033,0.0044
+Star Wars: The Force Unleashed II,DS,LucasArts,Action,2010,2.8,0.18,0.04,0.0,0.02,0.23,4100.0,18.0,597.0,268.0,242.0,0.001,0.0044
+Star Wars: The Force Unleashed II,PC,LucasArts,Action,2010,2.8,0.03,0.0,0.0,0.0,0.03,4100.0,18.0,597.0,268.0,242.0,0.0001,0.0044
+Minecraft,X360,Microsoft Game Studios,Misc,2011,4.3,5.58,2.83,0.02,0.77,9.2,33000.0,1800.0,1100.0,230.0,2300.0,0.004,0.0545
+Minecraft,PS3,Sony Computer Entertainment,Misc,2011,4.3,1.97,2.51,0.0,0.94,5.42,33000.0,1800.0,1100.0,230.0,2300.0,0.0024,0.0545
+Minecraft,PS4,Sony Computer Entertainment Europe,Misc,2011,4.3,1.38,1.87,0.12,0.65,4.02,33000.0,1800.0,1100.0,230.0,2300.0,0.0017,0.0545
+Minecraft,XOne,Microsoft Game Studios,Misc,2011,4.3,1.43,0.76,0.0,0.22,2.41,33000.0,1800.0,1100.0,230.0,2300.0,0.001,0.0545
+Minecraft,PSV,Sony Computer Entertainment Europe,Misc,2011,4.3,0.28,0.79,0.87,0.32,2.25,33000.0,1800.0,1100.0,230.0,2300.0,0.001,0.0545
+Minecraft,WiiU,Microsoft Game Studios,Misc,2011,4.3,0.18,0.09,0.14,0.03,0.43,33000.0,1800.0,1100.0,230.0,2300.0,0.0002,0.0545
+God of War,PS2,Sony Computer Entertainment,Action,2018,4.2,2.71,1.29,0.02,0.43,4.45,21000.0,1100.0,4800.0,2600.0,2900.0,0.0015,0.0524
+Portal 2,X360,Valve Software,Shooter,2011,4.4,1.41,0.51,0.01,0.17,2.1,29000.0,471.0,3900.0,1200.0,2900.0,0.0007,0.0162
+Portal 2,PS3,Valve,Shooter,2011,4.4,0.83,0.63,0.02,0.25,1.74,29000.0,471.0,3900.0,1200.0,2900.0,0.0006,0.0162
+Portal 2,PC,Valve Software,Shooter,2011,4.4,0.33,0.32,0.0,0.11,0.76,29000.0,471.0,3900.0,1200.0,2900.0,0.0003,0.0162
+Bloodborne,PS4,Sony Computer Entertainment,Action,2015,4.5,1.0,0.76,0.26,0.36,2.38,17000.0,1100.0,5600.0,3300.0,3400.0,0.0007,0.0647
+Metal Gear Rising: Revengeance,PS3,Konami Digital Entertainment,Action,2013,4.1,0.45,0.4,0.44,0.18,1.47,14000.0,492.0,4200.0,2000.0,2100.0,0.0007,0.0351
+Metal Gear Rising: Revengeance,X360,Konami Digital Entertainment,Action,2013,4.1,0.29,0.16,0.0,0.04,0.5,14000.0,492.0,4200.0,2000.0,2100.0,0.0002,0.0351
+Grand Theft Auto V,PS3,Take-Two Interactive,Action,2013,3.8,7.01,9.27,0.97,4.14,21.4,30000.0,829.0,3200.0,664.0,2100.0,0.0102,0.0276
+Grand Theft Auto V,X360,Take-Two Interactive,Action,2013,3.8,9.63,5.31,0.06,1.38,16.38,30000.0,829.0,3200.0,664.0,2100.0,0.0078,0.0276
+Grand Theft Auto V,PS4,Take-Two Interactive,Action,2013,3.8,3.8,5.81,0.36,2.02,11.98,30000.0,829.0,3200.0,664.0,2100.0,0.0057,0.0276
+Grand Theft Auto V,XOne,Take-Two Interactive,Action,2013,3.8,2.66,2.01,0.0,0.41,5.08,30000.0,829.0,3200.0,664.0,2100.0,0.0024,0.0276
+Grand Theft Auto V,PC,Take-Two Interactive,Action,2013,3.8,0.36,0.64,0.0,0.08,1.08,30000.0,829.0,3200.0,664.0,2100.0,0.0005,0.0276
+Dark Souls III,PS4,Namco Bandai Games,Role-Playing,2016,4.2,0.58,0.44,0.33,0.21,1.56,19000.0,851.0,4300.0,2200.0,2400.0,0.0006,0.0448
+Dark Souls III,XOne,Namco Bandai Games,Role-Playing,2016,4.2,0.23,0.09,0.0,0.03,0.35,19000.0,851.0,4300.0,2200.0,2400.0,0.0001,0.0448
+Dark Souls III,PC,Namco Bandai Games,Role-Playing,2016,4.2,0.0,0.05,0.0,0.0,0.05,19000.0,851.0,4300.0,2200.0,2400.0,0.0,0.0448
+Super Mario 64,N64,Nintendo,Platform,1996,4.1,6.91,2.85,1.91,0.23,11.89,21000.0,463.0,2500.0,775.0,2600.0,0.0046,0.022
+Super Mario 64,DS,Nintendo,Platform,1996,4.1,5.08,3.11,1.25,0.98,10.42,21000.0,463.0,2500.0,775.0,2600.0,0.004,0.022
+Final Fantasy VII,PS,Sony Computer Entertainment,Role-Playing,1997,4.2,3.01,2.47,3.28,0.96,9.72,15000.0,1100.0,5000.0,1500.0,2900.0,0.0034,0.0733
+Super Mario Galaxy,Wii,Nintendo,Platform,2007,4.3,6.16,3.4,1.2,0.76,11.52,21000.0,468.0,3100.0,1200.0,2700.0,0.0043,0.0223
+Fallout: New Vegas,X360,Bethesda Softworks,Role-Playing,2010,4.3,2.65,1.06,0.04,0.33,4.08,16000.0,756.0,5000.0,1400.0,2000.0,0.002,0.0472
+Fallout: New Vegas,PS3,Bethesda Softworks,Role-Playing,2010,4.3,1.52,1.08,0.1,0.47,3.17,16000.0,756.0,5000.0,1400.0,2000.0,0.0016,0.0472
+Fallout: New Vegas,PC,Bethesda Softworks,Role-Playing,2010,4.3,0.58,0.45,0.0,0.14,1.16,16000.0,756.0,5000.0,1400.0,2000.0,0.0006,0.0472
+Resident Evil 2,PS,Virgin Interactive,Action,2019,4.3,1.88,1.47,2.02,0.45,5.82,15000.0,585.0,3600.0,1900.0,2500.0,0.0023,0.039
+Resident Evil 2,N64,Virgin Interactive,Action,2019,4.3,0.39,0.09,0.07,0.01,0.56,15000.0,585.0,3600.0,1900.0,2500.0,0.0002,0.039
+Resident Evil 2,GC,Capcom,Action,2019,4.3,0.04,0.01,0.0,0.0,0.06,15000.0,585.0,3600.0,1900.0,2500.0,0.0,0.039
+Doom,PS,Infogrames,Shooter,2016,4.0,0.43,0.3,0.0,0.05,0.78,18000.0,541.0,4000.0,1400.0,1800.0,0.0004,0.0301
+Doom,GBA,Activision,Shooter,2016,4.0,0.1,0.04,0.0,0.0,0.14,18000.0,541.0,4000.0,1400.0,1800.0,0.0001,0.0301
+Doom,PC,id Software,Shooter,2016,4.0,0.02,0.0,0.0,0.0,0.03,18000.0,541.0,4000.0,1400.0,1800.0,0.0,0.0301
+Bayonetta,PS3,Sega,Action,2009,3.9,0.44,0.41,0.21,0.17,1.23,13000.0,614.0,5000.0,2300.0,1700.0,0.0007,0.0472
+Bayonetta,X360,Sega,Action,2009,3.9,0.51,0.26,0.09,0.08,0.94,13000.0,614.0,5000.0,2300.0,1700.0,0.0006,0.0472
+Silent Hill 2,PS2,Konami Digital Entertainment,Action,2001,4.5,0.62,0.49,0.0,0.16,1.28,8600.0,282.0,2900.0,2100.0,2200.0,0.0006,0.0328
+The Witcher 3: Wild Hunt,PS4,Namco Bandai Games,Role-Playing,2015,4.3,0.96,2.0,0.21,0.56,3.73,17000.0,1200.0,6100.0,1600.0,2000.0,0.0019,0.0706
+The Witcher 3: Wild Hunt,XOne,Namco Bandai Games,Role-Playing,2015,4.3,0.66,0.47,0.0,0.11,1.24,17000.0,1200.0,6100.0,1600.0,2000.0,0.0006,0.0706
+The Witcher 3: Wild Hunt,PC,Namco Bandai Games,Role-Playing,2015,4.3,0.2,0.42,0.0,0.05,0.67,17000.0,1200.0,6100.0,1600.0,2000.0,0.0003,0.0706
+Persona 5,PS4,Atlus,Role-Playing,2016,4.1,0.0,0.0,0.34,0.0,0.34,16000.0,630.0,2800.0,1700.0,1800.0,0.0002,0.0394
+Persona 5,PS3,Unknown,Role-Playing,2016,4.1,0.0,0.0,0.1,0.0,0.1,16000.0,630.0,2800.0,1700.0,1800.0,0.0001,0.0394
+The Elder Scrolls V: Skyrim,X360,Bethesda Softworks,Role-Playing,2011,3.7,5.03,2.86,0.1,0.85,8.84,22000.0,589.0,3000.0,1000.0,1700.0,0.0052,0.0268
+The Elder Scrolls V: Skyrim,PS3,Bethesda Softworks,Role-Playing,2011,3.7,2.55,2.71,0.25,1.05,6.56,22000.0,589.0,3000.0,1000.0,1700.0,0.0039,0.0268
+The Elder Scrolls V: Skyrim,PC,Bethesda Softworks,Role-Playing,2011,3.7,1.15,2.09,0.0,0.64,3.88,22000.0,589.0,3000.0,1000.0,1700.0,0.0023,0.0268
+Resident Evil 4,PS2,Capcom,Action,2005,4.3,2.08,0.83,0.46,0.25,3.62,14000.0,360.0,3000.0,1200.0,2300.0,0.0016,0.0257
+Resident Evil 4,Wii,Capcom,Action,2005,4.3,1.34,0.57,0.14,0.21,2.26,14000.0,360.0,3000.0,1200.0,2300.0,0.001,0.0257
+Resident Evil 4,GC,Capcom,Action,2005,4.3,0.98,0.42,0.22,0.06,1.69,14000.0,360.0,3000.0,1200.0,2300.0,0.0007,0.0257
+Resident Evil 4,PC,Ubisoft,Action,2005,4.3,0.0,0.02,0.0,0.01,0.03,14000.0,360.0,3000.0,1200.0,2300.0,0.0,0.0257
+Dark Souls,PS3,Namco Bandai Games,Role-Playing,2011,4.3,0.75,0.54,0.54,0.23,2.07,14000.0,447.0,2500.0,1400.0,2100.0,0.001,0.0319
+Dark Souls,X360,Namco Bandai Games,Role-Playing,2011,4.3,0.64,0.28,0.0,0.08,1.0,14000.0,447.0,2500.0,1400.0,2100.0,0.0005,0.0319
+Dark Souls,PC,Namco Bandai Games,Role-Playing,2011,4.3,0.0,0.06,0.0,0.01,0.07,14000.0,447.0,2500.0,1400.0,2100.0,0.0,0.0319
+The Legend of Zelda: Ocarina of Time,N64,Nintendo,Action,1998,4.3,4.1,1.89,1.45,0.16,7.6,17000.0,433.0,3000.0,1400.0,2200.0,0.0035,0.0255
+The Legend of Zelda: Ocarina of Time,3DS,Nintendo,Action,1998,4.3,2.03,1.27,0.62,0.3,4.21,17000.0,433.0,3000.0,1400.0,2200.0,0.0019,0.0255
+BioShock,X360,Take-Two Interactive,Shooter,2007,4.0,1.65,0.86,0.05,0.28,2.83,17000.0,339.0,4000.0,1200.0,1800.0,0.0016,0.0199
+BioShock,PS3,Take-Two Interactive,Shooter,2007,4.0,0.75,0.49,0.01,0.21,1.45,17000.0,339.0,4000.0,1200.0,1800.0,0.0008,0.0199
+BioShock,PC,Take-Two Interactive,Shooter,2007,4.0,0.01,0.39,0.0,0.02,0.41,17000.0,339.0,4000.0,1200.0,1800.0,0.0002,0.0199
+Metal Gear Solid,PS,Konami Digital Entertainment,Action,1998,4.2,3.18,1.83,0.78,0.24,6.03,12000.0,287.0,3000.0,1600.0,1900.0,0.0032,0.0239
+Metal Gear Solid,GB,Konami Digital Entertainment,Action,1998,4.2,0.0,0.0,0.07,0.0,0.07,12000.0,287.0,3000.0,1600.0,1900.0,0.0,0.0239
+BioShock Infinite,X360,Take-Two Interactive,Shooter,2013,3.5,1.22,0.57,0.02,0.15,1.96,18000.0,197.0,4100.0,949.0,1500.0,0.0013,0.0109
+BioShock Infinite,PS3,Take-Two Interactive,Shooter,2013,3.5,0.72,0.69,0.04,0.31,1.76,18000.0,197.0,4100.0,949.0,1500.0,0.0012,0.0109
+BioShock Infinite,PC,Take-Two Interactive,Shooter,2013,3.5,0.28,0.3,0.0,0.08,0.67,18000.0,197.0,4100.0,949.0,1500.0,0.0004,0.0109
+Chrono Trigger,SNES,SquareSoft,Role-Playing,1995,4.5,0.28,0.0,2.02,0.01,2.31,9100.0,518.0,4900.0,2200.0,1900.0,0.0012,0.0569
+Chrono Trigger,DS,Square Enix,Role-Playing,1995,4.5,0.69,0.2,0.49,0.09,1.47,9100.0,518.0,4900.0,2200.0,1900.0,0.0008,0.0569
+Left 4 Dead 2,X360,Electronic Arts,Shooter,2009,3.9,2.67,0.89,0.05,0.37,3.99,19000.0,279.0,1500.0,358.0,1100.0,0.0036,0.0147
+Left 4 Dead 2,PC,Valve Software,Shooter,2009,3.9,0.0,0.32,0.0,0.04,0.37,19000.0,279.0,1500.0,358.0,1100.0,0.0003,0.0147
+Batman: Arkham City,PS3,Warner Bros. Interactive Entertainment,Action,2011,4.1,2.7,1.91,0.11,0.8,5.53,16000.0,192.0,2700.0,651.0,1600.0,0.0035,0.012
+Batman: Arkham City,X360,Warner Bros. Interactive Entertainment,Action,2011,4.1,2.99,1.31,0.04,0.41,4.76,16000.0,192.0,2700.0,651.0,1600.0,0.003,0.012
+Batman: Arkham City,PC,Warner Bros. Interactive Entertainment,Action,2011,4.1,0.16,0.28,0.0,0.09,0.53,16000.0,192.0,2700.0,651.0,1600.0,0.0003,0.012
+Batman: Arkham City,WiiU,Warner Bros. Interactive Entertainment,Action,2011,4.1,0.17,0.18,0.0,0.03,0.38,16000.0,192.0,2700.0,651.0,1600.0,0.0002,0.012
+Yakuza Kiwami,PS4,Sega,Adventure,2016,3.7,0.0,0.0,0.16,0.0,0.16,9700.0,439.0,3400.0,1000.0,1200.0,0.0001,0.0453
+Yakuza Kiwami,PS3,Sega,Adventure,2016,3.7,0.0,0.0,0.12,0.0,0.12,9700.0,439.0,3400.0,1000.0,1200.0,0.0001,0.0453
+Phoenix Wright: Ace Attorney,DS,Capcom,Adventure,2005,4.1,0.49,0.07,0.39,0.05,0.99,12000.0,418.0,1900.0,1000.0,1300.0,0.0008,0.0348
+Life is Strange,PS4,Square Enix,Adventure,2015,3.4,0.14,0.15,0.03,0.06,0.37,15000.0,209.0,2100.0,817.0,1400.0,0.0003,0.0139
+Life is Strange,XOne,Square Enix,Adventure,2015,3.4,0.08,0.02,0.0,0.01,0.11,15000.0,209.0,2100.0,817.0,1400.0,0.0001,0.0139
+Life is Strange,PC,Square Enix,Adventure,2015,3.4,0.01,0.03,0.0,0.0,0.04,15000.0,209.0,2100.0,817.0,1400.0,0.0,0.0139
+Shadow of the Colossus,PS2,Sony Computer Entertainment,Action,2005,4.4,0.78,0.03,0.2,0.13,1.14,10000.0,134.0,2900.0,1700.0,1500.0,0.0008,0.0134
+Shadow of the Colossus,PS3,Sony Computer Entertainment,Action,2005,4.4,0.0,0.0,0.04,0.0,0.04,10000.0,134.0,2900.0,1700.0,1500.0,0.0,0.0134
+Psychonauts,XB,THQ,Platform,2005,4.0,0.09,0.03,0.0,0.0,0.12,7100.0,388.0,4200.0,1200.0,1200.0,0.0001,0.0546
+Psychonauts,PS2,Majesco Entertainment,Platform,2005,4.0,0.05,0.04,0.0,0.01,0.09,7100.0,388.0,4200.0,1200.0,1200.0,0.0001,0.0546
+Fallout 4,PS4,Bethesda Softworks,Role-Playing,2015,3.1,2.47,3.15,0.24,1.1,6.96,16000.0,407.0,2900.0,752.0,1000.0,0.007,0.0254
+Fallout 4,XOne,Bethesda Softworks,Role-Playing,2015,3.1,2.45,1.26,0.01,0.37,4.09,16000.0,407.0,2900.0,752.0,1000.0,0.0041,0.0254
+Fallout 4,PC,Bethesda Softworks,Role-Playing,2015,3.1,0.5,0.63,0.0,0.1,1.23,16000.0,407.0,2900.0,752.0,1000.0,0.0012,0.0254
+Uncharted 4: A Thief's End,PS4,Sony Computer Entertainment,Shooter,2016,4.1,1.3,2.07,0.18,0.65,4.2,14000.0,177.0,2700.0,1200.0,1800.0,0.0023,0.0126
+The Legend of Zelda: A Link to the Past,SNES,Nintendo,Action,1991,4.1,2.42,0.91,1.15,0.13,4.61,13000.0,360.0,3200.0,911.0,1700.0,0.0027,0.0277
+The Legend of Zelda: A Link to the Past,GBA,Nintendo,Action,1991,4.1,1.75,0.52,0.33,0.1,2.7,13000.0,360.0,3200.0,911.0,1700.0,0.0016,0.0277
+Silent Hill,PS,Konami Digital Entertainment,Action,1999,4.1,0.71,0.48,0.3,0.1,1.6,6800.0,272.0,2300.0,1600.0,1300.0,0.0012,0.04
+Super Smash Bros. Brawl,Wii,Nintendo,Fighting,2008,3.8,6.75,2.61,2.66,1.02,13.04,19000.0,51.0,511.0,250.0,1300.0,0.01,0.0027
+Borderlands 2,X360,Take-Two Interactive,Shooter,2012,3.5,1.89,0.91,0.04,0.24,3.07,16000.0,344.0,2700.0,494.0,1100.0,0.0028,0.0215
+Borderlands 2,PS3,Take-Two Interactive,Shooter,2012,3.5,1.05,0.77,0.1,0.36,2.28,16000.0,344.0,2700.0,494.0,1100.0,0.0021,0.0215
+Borderlands 2,PC,Take-Two Interactive,Shooter,2012,3.5,0.42,0.41,0.0,0.11,0.93,16000.0,344.0,2700.0,494.0,1100.0,0.0008,0.0215
+Borderlands 2,PSV,Take-Two Interactive,Shooter,2012,3.5,0.43,0.21,0.01,0.19,0.83,16000.0,344.0,2700.0,494.0,1100.0,0.0008,0.0215
+No More Heroes,Wii,Rising Star Games,Action,2007,4.0,0.3,0.17,0.04,0.05,0.57,5600.0,280.0,2600.0,1800.0,1200.0,0.0005,0.05
+Super Mario Bros. 3,NES,Nintendo,Platform,1988,4.0,9.54,3.44,3.84,0.46,17.28,14000.0,109.0,1400.0,362.0,1600.0,0.0108,0.0078
+Super Mario Bros. 3,GBA,Nintendo,Platform,1988,4.0,2.93,1.25,0.83,0.2,5.2,14000.0,109.0,1400.0,362.0,1600.0,0.0032,0.0078
+Dishonored,X360,Bethesda Softworks,Action,2012,3.9,1.06,0.52,0.01,0.14,1.73,14000.0,268.0,3100.0,866.0,1100.0,0.0016,0.0191
+Dishonored,PS3,Bethesda Softworks,Action,2012,3.9,0.72,0.54,0.04,0.25,1.55,14000.0,268.0,3100.0,866.0,1100.0,0.0014,0.0191
+Dishonored,PC,Bethesda Softworks,Action,2012,3.9,0.26,0.19,0.0,0.06,0.51,14000.0,268.0,3100.0,866.0,1100.0,0.0005,0.0191
+Dishonored,PS4,Bethesda Softworks,Action,2012,3.9,0.11,0.18,0.02,0.06,0.37,14000.0,268.0,3100.0,866.0,1100.0,0.0003,0.0191
+Dishonored,XOne,Bethesda Softworks,Action,2012,3.9,0.08,0.05,0.0,0.01,0.14,14000.0,268.0,3100.0,866.0,1100.0,0.0001,0.0191
+Metal Gear Solid 3: Snake Eater,PS2,Konami Digital Entertainment,Action,2004,4.5,1.46,0.0,0.83,1.93,4.23,9200.0,118.0,2400.0,1300.0,1500.0,0.0028,0.0128
+Journey,PS3,Sony Computer Entertainment Europe,Adventure,2012,3.9,0.04,0.15,0.0,0.06,0.25,12000.0,94.0,2700.0,1700.0,1500.0,0.0002,0.0078
+Kingdom Hearts,PS2,Sony Computer Entertainment,Role-Playing,2002,3.6,3.64,1.2,1.49,0.07,6.4,12000.0,266.0,2100.0,1000.0,1300.0,0.0049,0.0222
+Kingdom Hearts,PS3,Square Enix,Role-Playing,2002,3.6,0.9,0.37,0.25,0.24,1.75,12000.0,266.0,2100.0,1000.0,1300.0,0.0013,0.0222
+Doom,PS,Infogrames,Shooter,1993,4.0,0.43,0.3,0.0,0.05,0.78,11000.0,203.0,1500.0,514.0,1400.0,0.0006,0.0185
+Doom,GBA,Activision,Shooter,1993,4.0,0.1,0.04,0.0,0.0,0.14,11000.0,203.0,1500.0,514.0,1400.0,0.0001,0.0185
+Doom,PC,id Software,Shooter,1993,4.0,0.02,0.0,0.0,0.0,0.03,11000.0,203.0,1500.0,514.0,1400.0,0.0,0.0185
+Live A Live,SNES,SquareSoft,Role-Playing,2022,4.1,0.0,0.0,0.32,0.0,0.32,1100.0,235.0,1700.0,1900.0,555.0,0.0006,0.2136
+Sonic the Hedgehog,GEN,Sega,Platform,1991,3.1,3.03,0.91,0.26,0.13,4.34,12000.0,60.0,804.0,243.0,1100.0,0.0039,0.005
+Sonic the Hedgehog,PS3,Sega,Platform,1991,3.1,0.41,0.07,0.04,0.66,1.18,12000.0,60.0,804.0,243.0,1100.0,0.0011,0.005
+Sonic the Hedgehog,X360,Sega,Platform,1991,3.1,0.44,0.49,0.0,0.11,1.05,12000.0,60.0,804.0,243.0,1100.0,0.001,0.005
+Sonic the Hedgehog,PS3,Unknown,Platform,1991,3.1,0.0,0.48,0.0,0.0,0.48,12000.0,60.0,804.0,243.0,1100.0,0.0004,0.005
+Rocket League,PS4,505 Games,Sports,2015,3.4,0.02,0.14,0.0,0.07,0.23,17000.0,564.0,698.0,113.0,917.0,0.0003,0.0332
+Rocket League,XOne,505 Games,Sports,2015,3.4,0.03,0.09,0.0,0.01,0.12,17000.0,564.0,698.0,113.0,917.0,0.0001,0.0332
+Rocket League,PC,505 Games,Sports,2015,3.4,0.01,0.01,0.0,0.0,0.02,17000.0,564.0,698.0,113.0,917.0,0.0,0.0332
+Batman: Arkham Knight,PS4,Warner Bros. Interactive Entertainment,Action,2015,3.7,1.49,1.58,0.1,0.61,3.79,13000.0,279.0,3400.0,757.0,1200.0,0.0032,0.0215
+Batman: Arkham Knight,XOne,Warner Bros. Interactive Entertainment,Action,2015,3.7,0.86,0.46,0.0,0.13,1.45,13000.0,279.0,3400.0,757.0,1200.0,0.0012,0.0215
+Batman: Arkham Knight,PC,Warner Bros. Interactive Entertainment,Action,2015,3.7,0.08,0.03,0.0,0.01,0.13,13000.0,279.0,3400.0,757.0,1200.0,0.0001,0.0215
+Wii Sports,Wii,Nintendo,Sports,2006,3.7,41.49,29.02,3.77,8.46,82.74,18000.0,39.0,320.0,93.0,775.0,0.1068,0.0022
+Mario Kart Wii,Wii,Nintendo,Racing,2008,3.9,15.85,12.88,3.79,3.31,35.82,19000.0,88.0,461.0,168.0,1000.0,0.0358,0.0046
+Red Dead Redemption,PS3,Take-Two Interactive,Action,2010,4.2,2.79,2.61,0.17,1.03,6.6,13000.0,218.0,2400.0,1600.0,1500.0,0.0044,0.0168
+Red Dead Redemption,X360,Take-Two Interactive,Action,2010,4.2,3.7,1.97,0.09,0.57,6.34,13000.0,218.0,2400.0,1600.0,1500.0,0.0042,0.0168
+Dead Space,PS3,Electronic Arts,Action,2023,4.3,1.05,0.67,0.0,0.3,2.02,1300.0,248.0,985.0,1900.0,501.0,0.004,0.1908
+Dead Space,X360,Electronic Arts,Action,2023,4.3,0.89,0.4,0.0,0.13,1.42,1300.0,248.0,985.0,1900.0,501.0,0.0028,0.1908
+Dead Space,PC,Electronic Arts,Action,2023,4.3,0.0,0.53,0.0,0.06,0.59,1300.0,248.0,985.0,1900.0,501.0,0.0012,0.1908
+Tomb Raider,PS,Eidos Interactive,Action,2013,3.5,2.29,1.97,0.13,0.24,4.63,15000.0,175.0,2700.0,508.0,896.0,0.0052,0.0117
+Tomb Raider,PC,Eidos Interactive,Action,2013,3.5,0.96,0.07,0.0,0.0,1.03,15000.0,175.0,2700.0,508.0,896.0,0.0011,0.0117
+Super Mario Galaxy 2,Wii,Nintendo,Platform,2010,4.3,3.66,2.42,0.98,0.64,7.69,13000.0,123.0,2500.0,1300.0,1800.0,0.0043,0.0095
+Donkey Kong Country,SNES,Nintendo,Platform,1994,3.9,4.36,1.71,3.0,0.23,9.3,11000.0,186.0,1900.0,514.0,1300.0,0.0072,0.0169
+Donkey Kong Country,GB,Nintendo,Platform,1994,3.9,1.04,0.72,0.3,0.13,2.19,11000.0,186.0,1900.0,514.0,1300.0,0.0017,0.0169
+Donkey Kong Country,GBA,Nintendo,Platform,1994,3.9,1.2,0.48,0.29,0.07,2.04,11000.0,186.0,1900.0,514.0,1300.0,0.0016,0.0169
+Mirror's Edge,X360,Electronic Arts,Platform,2008,3.5,0.51,0.51,0.01,0.13,1.17,12000.0,117.0,2100.0,813.0,788.0,0.0015,0.0098
+Mirror's Edge,PS3,Electronic Arts,Platform,2008,3.5,0.31,0.59,0.02,0.22,1.14,12000.0,117.0,2100.0,813.0,788.0,0.0014,0.0098
+Mirror's Edge,PC,Electronic Arts,Platform,2008,3.5,0.0,0.05,0.0,0.01,0.06,12000.0,117.0,2100.0,813.0,788.0,0.0001,0.0098
+Bayonetta 2,WiiU,Nintendo,Action,2014,4.1,0.34,0.28,0.1,0.3,1.01,6000.0,154.0,3300.0,2000.0,1100.0,0.0009,0.0257
+Sonic Generations,PS3,Sega,Platform,2011,3.8,0.6,0.73,0.02,0.28,1.63,9900.0,133.0,1700.0,480.0,1100.0,0.0015,0.0134
+Sonic Generations,X360,Sega,Platform,2011,3.8,0.71,0.57,0.0,0.14,1.42,9900.0,133.0,1700.0,480.0,1100.0,0.0013,0.0134
+Sonic Generations,3DS,Sega,Platform,2011,3.8,0.44,0.46,0.01,0.09,1.01,9900.0,133.0,1700.0,480.0,1100.0,0.0009,0.0134
+Sonic Generations,PC,Sega,Platform,2011,3.8,0.02,0.07,0.0,0.02,0.11,9900.0,133.0,1700.0,480.0,1100.0,0.0001,0.0134
+Shin Megami Tensei: Nocturne,PS2,Ghostlight,Role-Playing,2003,4.2,0.07,0.05,0.25,0.02,0.38,4100.0,358.0,2500.0,1300.0,1100.0,0.0003,0.0873
+The Legend of Zelda: Twilight Princess,Wii,Nintendo,Action,2006,4.0,3.83,2.19,0.6,0.7,7.31,10000.0,228.0,2500.0,1300.0,899.0,0.0081,0.0228
+The Legend of Zelda: Twilight Princess,GC,Nintendo,Action,2006,4.0,1.15,0.36,0.04,0.04,1.59,10000.0,228.0,2500.0,1300.0,899.0,0.0018,0.0228
+Metroid Prime,GC,Nintendo,Shooter,2002,4.3,1.96,0.67,0.1,0.09,2.82,6800.0,221.0,2700.0,1200.0,1400.0,0.002,0.0325
+Sonic the Hedgehog 2,GEN,Sega,Platform,1992,3.7,4.47,1.2,0.16,0.19,6.03,10000.0,56.0,883.0,228.0,1200.0,0.005,0.0056
+Metal Gear Solid 4: Guns of the Patriots,PS3,Konami Digital Entertainment,Action,2008,3.9,2.63,1.74,0.83,0.83,6.03,7700.0,94.0,2500.0,1300.0,1200.0,0.005,0.0122
+Minecraft,X360,Microsoft Game Studios,Misc,2017,4.2,5.58,2.83,0.02,0.77,9.2,11000.0,509.0,412.0,85.0,571.0,0.0161,0.0463
+Minecraft,PS3,Sony Computer Entertainment,Misc,2017,4.2,1.97,2.51,0.0,0.94,5.42,11000.0,509.0,412.0,85.0,571.0,0.0095,0.0463
+Minecraft,PS4,Sony Computer Entertainment Europe,Misc,2017,4.2,1.38,1.87,0.12,0.65,4.02,11000.0,509.0,412.0,85.0,571.0,0.007,0.0463
+Minecraft,XOne,Microsoft Game Studios,Misc,2017,4.2,1.43,0.76,0.0,0.22,2.41,11000.0,509.0,412.0,85.0,571.0,0.0042,0.0463
+Minecraft,PSV,Sony Computer Entertainment Europe,Misc,2017,4.2,0.28,0.79,0.87,0.32,2.25,11000.0,509.0,412.0,85.0,571.0,0.0039,0.0463
+Minecraft,WiiU,Microsoft Game Studios,Misc,2017,4.2,0.18,0.09,0.14,0.03,0.43,11000.0,509.0,412.0,85.0,571.0,0.0008,0.0463
+Resident Evil 5,PS3,Capcom,Action,2009,3.1,1.96,1.43,1.08,0.65,5.11,10000.0,176.0,1600.0,561.0,1000.0,0.0051,0.0176
+Resident Evil 5,X360,Capcom,Action,2009,3.1,2.11,0.94,0.12,0.34,3.51,10000.0,176.0,1600.0,561.0,1000.0,0.0035,0.0176
+Resident Evil 5,PC,Capcom,Action,2009,3.1,0.01,0.04,0.0,0.01,0.07,10000.0,176.0,1600.0,561.0,1000.0,0.0001,0.0176
+Fire Emblem: Awakening,3DS,Nintendo,Role-Playing,2012,3.8,0.89,0.45,0.53,0.13,2.0,9500.0,287.0,2000.0,814.0,1200.0,0.0017,0.0302
+Mass Effect,X360,Microsoft Game Studios,Role-Playing,2007,3.8,1.83,0.8,0.03,0.27,2.93,10000.0,172.0,2000.0,774.0,1000.0,0.0029,0.0172
+Mass Effect,PC,Electronic Arts,Role-Playing,2007,3.8,0.0,0.59,0.0,0.09,0.68,10000.0,172.0,2000.0,774.0,1000.0,0.0007,0.0172
+Fallout 3,X360,Bethesda Softworks,Role-Playing,2008,3.4,3.39,1.03,0.09,0.44,4.96,12000.0,162.0,2000.0,589.0,894.0,0.0055,0.0135
+Fallout 3,PS3,Bethesda Softworks,Role-Playing,2008,3.4,2.15,1.2,0.07,0.59,4.01,12000.0,162.0,2000.0,589.0,894.0,0.0045,0.0135
+Fallout 3,PC,Bethesda Softworks,Role-Playing,2008,3.4,0.02,0.88,0.0,0.08,0.99,12000.0,162.0,2000.0,589.0,894.0,0.0011,0.0135
+Uncharted: Drake's Fortune,PS3,Sony Computer Entertainment,Action,2007,3.1,2.31,1.73,0.12,0.78,4.94,12000.0,98.0,1200.0,460.0,882.0,0.0056,0.0082
+Super Mario 3D Land,3DS,Nintendo,Platform,2011,3.5,4.89,2.99,2.13,0.78,10.79,12000.0,146.0,1000.0,461.0,1000.0,0.0108,0.0122
+Silent Hill 3,PS2,Konami Digital Entertainment,Action,2003,4.2,0.35,0.27,0.0,0.09,0.71,4900.0,156.0,2000.0,1400.0,1100.0,0.0006,0.0318
+Call of Duty: Modern Warfare 2,X360,Activision,Shooter,2009,3.8,8.52,3.63,0.08,1.29,13.51,14000.0,34.0,666.0,276.0,1000.0,0.0135,0.0024
+Call of Duty: Modern Warfare 2,PS3,Activision,Shooter,2009,3.8,4.99,3.69,0.38,1.63,10.69,14000.0,34.0,666.0,276.0,1000.0,0.0107,0.0024
+Call of Duty: Modern Warfare 2,PC,Activision,Shooter,2009,3.8,0.01,0.79,0.0,0.09,0.89,14000.0,34.0,666.0,276.0,1000.0,0.0009,0.0024
+The Walking Dead: Season One,PS3,Avanquest Software,Adventure,2012,4.0,0.4,0.25,0.03,0.11,0.79,12000.0,111.0,1100.0,467.0,1200.0,0.0007,0.0092
+The Walking Dead: Season One,X360,Avanquest Software,Adventure,2012,4.0,0.55,0.14,0.0,0.05,0.75,12000.0,111.0,1100.0,467.0,1200.0,0.0006,0.0092
+The Walking Dead: Season One,PS4,Telltale Games,Adventure,2012,4.0,0.12,0.25,0.01,0.08,0.45,12000.0,111.0,1100.0,467.0,1200.0,0.0004,0.0092
+The Walking Dead: Season One,PSV,Square Enix,Adventure,2012,4.0,0.14,0.0,0.01,0.03,0.18,12000.0,111.0,1100.0,467.0,1200.0,0.0001,0.0092
+The Walking Dead: Season One,XOne,Telltale Games,Adventure,2012,4.0,0.08,0.06,0.0,0.01,0.16,12000.0,111.0,1100.0,467.0,1200.0,0.0001,0.0092
+The Walking Dead: Season One,PC,Avanquest Software,Adventure,2012,4.0,0.0,0.03,0.0,0.01,0.03,12000.0,111.0,1100.0,467.0,1200.0,0.0,0.0092
+Mario Kart DS,DS,Nintendo,Racing,2005,3.8,9.81,7.57,4.13,1.92,23.42,15000.0,36.0,417.0,159.0,857.0,0.0273,0.0024
+Devil May Cry 2,PS2,Capcom,Action,2003,1.6,0.71,0.58,0.51,0.17,1.97,6400.0,56.0,1600.0,517.0,620.0,0.0032,0.0088
+Demon's Souls,PS3,Namco Bandai Games,Role-Playing,2009,4.1,0.97,0.34,0.35,0.18,1.84,5500.0,155.0,1700.0,1200.0,1200.0,0.0015,0.0282
+Rayman Legends,PS4,Ubisoft,Platform,2013,4.0,0.21,0.61,0.0,0.18,1.01,9800.0,177.0,2300.0,643.0,921.0,0.0011,0.0181
+Rayman Legends,WiiU,Ubisoft,Platform,2013,4.0,0.26,0.33,0.03,0.06,0.68,9800.0,177.0,2300.0,643.0,921.0,0.0007,0.0181
+Rayman Legends,PS3,Ubisoft,Platform,2013,4.0,0.14,0.38,0.0,0.14,0.66,9800.0,177.0,2300.0,643.0,921.0,0.0007,0.0181
+Rayman Legends,X360,Ubisoft,Platform,2013,4.0,0.19,0.23,0.0,0.04,0.46,9800.0,177.0,2300.0,643.0,921.0,0.0005,0.0181
+Rayman Legends,XOne,Ubisoft,Platform,2013,4.0,0.13,0.18,0.0,0.03,0.34,9800.0,177.0,2300.0,643.0,921.0,0.0004,0.0181
+Rayman Legends,PSV,Ubisoft,Platform,2013,4.0,0.03,0.12,0.0,0.05,0.21,9800.0,177.0,2300.0,643.0,921.0,0.0002,0.0181
+Uncharted 2: Among Thieves,PS3,Sony Computer Entertainment,Action,2009,3.9,3.27,2.25,0.21,1.0,6.73,12000.0,96.0,1500.0,515.0,1400.0,0.0048,0.008
+The Legend of Zelda: A Link Between Worlds,3DS,Nintendo,Action,2013,4.1,1.4,0.99,0.46,0.22,3.07,10000.0,168.0,2400.0,1100.0,1300.0,0.0024,0.0168
+The Legend of Zelda: The Minish Cap,GBA,Nintendo,Action,2004,3.9,0.89,0.22,0.22,0.1,1.42,8700.0,280.0,2500.0,911.0,1100.0,0.0013,0.0322
+Shin Megami Tensei IV,3DS,Atlus,Role-Playing,2013,4.1,0.28,0.0,0.27,0.02,0.57,4300.0,397.0,2500.0,1100.0,949.0,0.0006,0.0923
+Kingdom Hearts II,PS2,Square Enix,Role-Playing,2005,4.3,2.2,0.58,1.38,0.17,4.33,9600.0,137.0,1600.0,652.0,1200.0,0.0036,0.0143
+Kingdom Hearts II,PS3,Square Enix,Role-Playing,2005,4.3,0.52,0.43,0.18,0.19,1.32,9600.0,137.0,1600.0,652.0,1200.0,0.0011,0.0143
+Castlevania: Aria of Sorrow,GBA,Konami Digital Entertainment,Platform,2003,4.2,0.2,0.07,0.0,0.0,0.28,5100.0,114.0,1700.0,871.0,1000.0,0.0003,0.0224
+Halo: Reach,X360,Microsoft Game Studios,Shooter,2010,4.0,7.03,1.98,0.08,0.78,9.88,11000.0,98.0,1200.0,370.0,1200.0,0.0082,0.0089
+Grand Theft Auto: Vice City,PS2,Take-Two Interactive,Action,2002,3.8,8.41,5.49,0.47,1.78,16.15,12000.0,125.0,1600.0,526.0,1000.0,0.0161,0.0104
+Grand Theft Auto: Vice City,PC,Take-Two Interactive,Action,2002,3.8,0.0,0.03,0.0,0.01,0.04,12000.0,125.0,1600.0,526.0,1000.0,0.0,0.0104
+Demon's Souls,PS3,Namco Bandai Games,Role-Playing,2020,3.9,0.97,0.34,0.35,0.18,1.84,4100.0,403.0,2400.0,2100.0,880.0,0.0021,0.0983
+The Legend of Zelda: Link's Awakening,GB,Nintendo,Action,2019,3.9,2.21,0.96,0.54,0.13,3.83,7600.0,387.0,2800.0,2000.0,1100.0,0.0035,0.0509
+Assassin's Creed,X360,Ubisoft,Adventure,2007,2.9,3.28,1.65,0.07,0.55,5.55,13000.0,118.0,1200.0,496.0,801.0,0.0069,0.0091
+Assassin's Creed,PS3,Ubisoft,Adventure,2007,2.9,1.91,2.0,0.09,0.83,4.83,13000.0,118.0,1200.0,496.0,801.0,0.006,0.0091
+Assassin's Creed,PC,Ubisoft,Adventure,2007,2.9,0.01,0.83,0.0,0.08,0.92,13000.0,118.0,1200.0,496.0,801.0,0.0011,0.0091
+Assassin's Creed III,PS3,Ubisoft,Action,2012,3.0,2.64,2.56,0.16,1.14,6.5,12000.0,72.0,1200.0,390.0,707.0,0.0092,0.006
+Assassin's Creed III,X360,Ubisoft,Action,2012,3.0,3.13,1.71,0.03,0.44,5.3,12000.0,72.0,1200.0,390.0,707.0,0.0075,0.006
+Assassin's Creed III,PC,Ubisoft,Action,2012,3.0,0.28,0.53,0.0,0.13,0.94,12000.0,72.0,1200.0,390.0,707.0,0.0013,0.006
+Assassin's Creed III,WiiU,Ubisoft,Action,2012,3.0,0.19,0.13,0.0,0.03,0.36,12000.0,72.0,1200.0,390.0,707.0,0.0005,0.006
+Castlevania,NES,Konami Digital Entertainment,Platform,1986,3.4,0.54,0.06,0.62,0.01,1.23,5700.0,58.0,869.0,365.0,845.0,0.0015,0.0102
+Castlevania,N64,Konami Digital Entertainment,Platform,1986,3.4,0.44,0.1,0.04,0.05,0.64,5700.0,58.0,869.0,365.0,845.0,0.0008,0.0102
+Crash Bandicoot,PS,Sony Computer Entertainment,Platform,1996,3.5,3.23,2.35,0.94,0.3,6.82,8700.0,58.0,702.0,288.0,660.0,0.0103,0.0067
+The Legend of Zelda: Majora's Mask 3D,3DS,Nintendo,Action,2015,4.1,1.14,0.54,0.47,0.17,2.32,6700.0,191.0,2200.0,813.0,797.0,0.0029,0.0285
+The Wolf Among Us,PS4,Telltale Games,Adventure,2013,3.9,0.1,0.07,0.0,0.03,0.21,8100.0,81.0,1500.0,678.0,837.0,0.0003,0.01
+The Wolf Among Us,PS3,Telltale Games,Adventure,2013,3.9,0.05,0.03,0.0,0.02,0.1,8100.0,81.0,1500.0,678.0,837.0,0.0001,0.01
+The Wolf Among Us,XOne,Telltale Games,Adventure,2013,3.9,0.05,0.02,0.0,0.01,0.07,8100.0,81.0,1500.0,678.0,837.0,0.0001,0.01
+The Wolf Among Us,PSV,Telltale Games,Adventure,2013,3.9,0.05,0.0,0.0,0.02,0.07,8100.0,81.0,1500.0,678.0,837.0,0.0001,0.01
+The Wolf Among Us,X360,Telltale Games,Adventure,2013,3.9,0.01,0.03,0.0,0.0,0.04,8100.0,81.0,1500.0,678.0,837.0,0.0,0.01
+Dead Space 2,X360,Electronic Arts,Shooter,2011,4.0,0.94,0.45,0.0,0.13,1.52,6000.0,97.0,1900.0,716.0,775.0,0.002,0.0162
+Dead Space 2,PS3,Electronic Arts,Shooter,2011,4.0,0.73,0.5,0.0,0.21,1.44,6000.0,97.0,1900.0,716.0,775.0,0.0019,0.0162
+Dead Space 2,PC,Electronic Arts,Shooter,2011,4.0,0.13,0.15,0.0,0.05,0.33,6000.0,97.0,1900.0,716.0,775.0,0.0004,0.0162
+Super Mario Bros. 2,NES,Nintendo,Platform,1988,3.1,5.39,1.18,0.7,0.19,7.46,8400.0,40.0,767.0,189.0,864.0,0.0086,0.0048
+Until Dawn,PS4,Sony Computer Entertainment Europe,Adventure,2015,3.4,0.44,0.89,0.05,0.25,1.64,8000.0,85.0,1200.0,585.0,812.0,0.002,0.0106
+Kid Icarus: Uprising,3DS,Nintendo,Action,2012,4.1,0.48,0.35,0.36,0.07,1.28,5400.0,140.0,1700.0,924.0,860.0,0.0015,0.0259
+Sonic Unleashed,Wii,Sega,Platform,2008,3.3,1.28,0.68,0.02,0.21,2.2,6500.0,118.0,995.0,476.0,728.0,0.003,0.0182
+Sonic Unleashed,PS3,Sega,Platform,2008,3.3,0.56,0.33,0.01,0.14,1.03,6500.0,118.0,995.0,476.0,728.0,0.0014,0.0182
+Sonic Unleashed,X360,Sega,Platform,2008,3.3,0.54,0.33,0.0,0.09,0.96,6500.0,118.0,995.0,476.0,728.0,0.0013,0.0182
+Sonic Unleashed,PS2,Sega,Platform,2008,3.3,0.37,0.04,0.0,0.36,0.76,6500.0,118.0,995.0,476.0,728.0,0.001,0.0182
+Metal Gear Solid 3: Subsistence,PS2,Konami Digital Entertainment,Action,2005,4.6,0.34,0.01,0.15,0.06,0.55,3700.0,50.0,949.0,639.0,641.0,0.0009,0.0135
+Super Mario World 2: Yoshi's Island,SNES,Nintendo,Platform,1995,4.1,1.65,0.61,1.76,0.09,4.12,7100.0,141.0,1500.0,360.0,1100.0,0.0037,0.0199
+Super Mario World 2: Yoshi's Island,GBA,Nintendo,Platform,1995,4.1,1.75,0.45,0.62,0.09,2.91,7100.0,141.0,1500.0,360.0,1100.0,0.0026,0.0199
+Devil May Cry 4,PS3,Capcom,Action,2008,3.6,0.58,0.46,0.34,0.21,1.59,6500.0,84.0,1700.0,681.0,511.0,0.0031,0.0129
+Devil May Cry 4,X360,Capcom,Action,2008,3.6,0.79,0.34,0.08,0.13,1.35,6500.0,84.0,1700.0,681.0,511.0,0.0026,0.0129
+Devil May Cry 4,PS4,Capcom,Action,2008,3.6,0.01,0.0,0.08,0.0,0.09,6500.0,84.0,1700.0,681.0,511.0,0.0002,0.0129
+Devil May Cry 4,PC,Capcom,Action,2008,3.6,0.01,0.02,0.0,0.01,0.04,6500.0,84.0,1700.0,681.0,511.0,0.0001,0.0129
+Grand Theft Auto III,PS2,Take-Two Interactive,Action,2001,3.3,6.99,4.51,0.3,1.3,13.1,7800.0,88.0,1300.0,373.0,711.0,0.0184,0.0113
+Grand Theft Auto III,PC,Take-Two Interactive,Action,2001,3.3,0.0,0.01,0.0,0.0,0.01,7800.0,88.0,1300.0,373.0,711.0,0.0,0.0113
+Batman: Arkham Origins,PS3,Warner Bros. Interactive Entertainment,Action,2013,3.4,1.07,0.87,0.04,0.4,2.39,7800.0,125.0,1700.0,632.0,642.0,0.0037,0.016
+Batman: Arkham Origins,X360,Warner Bros. Interactive Entertainment,Action,2013,3.4,1.15,0.61,0.0,0.17,1.93,7800.0,125.0,1700.0,632.0,642.0,0.003,0.016
+Batman: Arkham Origins,WiiU,Warner Bros. Interactive Entertainment,Action,2013,3.4,0.2,0.09,0.0,0.03,0.33,7800.0,125.0,1700.0,632.0,642.0,0.0005,0.016
+Batman: Arkham Origins,PC,Warner Bros. Interactive Entertainment,Action,2013,3.4,0.13,0.16,0.0,0.04,0.32,7800.0,125.0,1700.0,632.0,642.0,0.0005,0.016
+Final Fantasy VIII,PS,SquareSoft,Role-Playing,1999,3.6,2.28,1.72,3.63,0.23,7.86,5100.0,182.0,2400.0,715.0,982.0,0.008,0.0357
+The Elder Scrolls IV: Oblivion,X360,Take-Two Interactive,Role-Playing,2006,3.7,2.82,1.05,0.13,0.4,4.39,8100.0,183.0,1900.0,563.0,725.0,0.0061,0.0226
+The Elder Scrolls IV: Oblivion,PS3,Ubisoft,Role-Playing,2006,3.7,1.69,0.87,0.14,0.42,3.12,8100.0,183.0,1900.0,563.0,725.0,0.0043,0.0226
+The Elder Scrolls IV: Oblivion,PC,Take-Two Interactive,Role-Playing,2006,3.7,0.01,0.2,0.0,0.05,0.26,8100.0,183.0,1900.0,563.0,725.0,0.0004,0.0226
+Alan Wake,X360,Microsoft Game Studios,Action,2010,3.6,0.66,0.51,0.05,0.13,1.35,6200.0,96.0,2000.0,741.0,702.0,0.0019,0.0155
+Alan Wake,PC,Nordic Games,Action,2010,3.6,0.0,0.06,0.0,0.01,0.07,6200.0,96.0,2000.0,741.0,702.0,0.0001,0.0155
+Animal Crossing: New Leaf,3DS,Nintendo,Simulation,2012,4.0,2.01,2.32,4.36,0.41,9.09,9900.0,156.0,586.0,383.0,813.0,0.0112,0.0158
+Sonic Adventure 2,DC,Sega,Platform,2001,3.6,0.0,0.0,0.12,0.0,0.12,5100.0,89.0,1000.0,342.0,842.0,0.0001,0.0175
+Kirby's Dream Land,GB,Nintendo,Platform,1992,3.2,2.71,0.61,1.7,0.11,5.13,5300.0,22.0,411.0,178.0,691.0,0.0074,0.0042
+Resident Evil 2,PS,Virgin Interactive,Action,1998,4.2,1.88,1.47,2.02,0.45,5.82,5500.0,54.0,1100.0,597.0,1100.0,0.0053,0.0098
+Resident Evil 2,N64,Virgin Interactive,Action,1998,4.2,0.39,0.09,0.07,0.01,0.56,5500.0,54.0,1100.0,597.0,1100.0,0.0005,0.0098
+Resident Evil 2,GC,Capcom,Action,1998,4.2,0.04,0.01,0.0,0.0,0.06,5500.0,54.0,1100.0,597.0,1100.0,0.0001,0.0098
+The Legend of Zelda: Twilight Princess,Wii,Nintendo,Action,2006,4.1,3.83,2.19,0.6,0.7,7.31,6000.0,82.0,1100.0,466.0,642.0,0.0114,0.0137
+The Legend of Zelda: Twilight Princess,GC,Nintendo,Action,2006,4.1,1.15,0.36,0.04,0.04,1.59,6000.0,82.0,1100.0,466.0,642.0,0.0025,0.0137
+Super Mario RPG: Legend of the Seven Stars,SNES,Nintendo,Role-Playing,1996,4.0,0.66,0.0,1.45,0.03,2.14,4400.0,133.0,2300.0,858.0,832.0,0.0026,0.0302
+DmC: Devil May Cry,PS3,Capcom,Action,2013,3.0,0.24,0.28,0.19,0.12,0.82,6300.0,62.0,1200.0,448.0,432.0,0.0019,0.0098
+DmC: Devil May Cry,X360,Capcom,Action,2013,3.0,0.26,0.13,0.01,0.04,0.44,6300.0,62.0,1200.0,448.0,432.0,0.001,0.0098
+DmC: Devil May Cry,PS4,Capcom,Action,2013,3.0,0.12,0.13,0.0,0.05,0.3,6300.0,62.0,1200.0,448.0,432.0,0.0007,0.0098
+DmC: Devil May Cry,XOne,Capcom,Action,2013,3.0,0.08,0.04,0.0,0.01,0.13,6300.0,62.0,1200.0,448.0,432.0,0.0003,0.0098
+Dragon Age: Origins,X360,Electronic Arts,Role-Playing,2009,4.0,1.76,0.56,0.03,0.22,2.57,6100.0,148.0,1700.0,534.0,712.0,0.0036,0.0243
+Dragon Age: Origins,PS3,Electronic Arts,Role-Playing,2009,4.0,0.96,0.44,0.08,0.22,1.69,6100.0,148.0,1700.0,534.0,712.0,0.0024,0.0243
+Dragon Age: Origins,PC,Electronic Arts,Role-Playing,2009,4.0,0.0,0.46,0.0,0.06,0.51,6100.0,148.0,1700.0,534.0,712.0,0.0007,0.0243
+Mario Kart 8,WiiU,Nintendo,Racing,2014,3.9,3.13,2.07,1.27,0.49,6.96,9300.0,40.0,225.0,121.0,643.0,0.0108,0.0043
+Xenoblade Chronicles,Wii,Nintendo,Role-Playing,2010,4.2,0.49,0.26,0.16,0.08,0.98,3900.0,142.0,1300.0,732.0,828.0,0.0012,0.0364
+Xenoblade Chronicles,3DS,Nintendo,Role-Playing,2010,4.2,0.26,0.14,0.12,0.04,0.56,3900.0,142.0,1300.0,732.0,828.0,0.0007,0.0364
+Saints Row: The Third,X360,THQ,Action,2011,3.4,1.25,1.15,0.07,0.3,2.77,9400.0,74.0,879.0,210.0,482.0,0.0057,0.0079
+Saints Row: The Third,PS3,THQ,Action,2011,3.4,0.86,1.06,0.18,0.39,2.49,9400.0,74.0,879.0,210.0,482.0,0.0052,0.0079
+Saints Row: The Third,PC,THQ,Action,2011,3.4,0.16,0.16,0.0,0.06,0.38,9400.0,74.0,879.0,210.0,482.0,0.0008,0.0079
+Left 4 Dead,X360,Electronic Arts,Shooter,2008,3.6,2.66,0.5,0.05,0.3,3.52,8600.0,35.0,772.0,213.0,488.0,0.0072,0.0041
+Left 4 Dead,PC,Electronic Arts,Shooter,2008,3.6,0.0,0.02,0.0,0.0,0.02,8600.0,35.0,772.0,213.0,488.0,0.0,0.0041
+Drakengard 3,PS3,Square Enix,Role-Playing,2013,3.8,0.1,0.0,0.19,0.02,0.3,1900.0,128.0,1400.0,946.0,503.0,0.0006,0.0674
+Mega Man,NES,Capcom,Platform,1987,2.8,0.45,0.08,0.27,0.01,0.81,5400.0,26.0,452.0,152.0,639.0,0.0013,0.0048
+Sonic CD,SCD,Sega,Platform,1993,3.4,1.0,0.36,0.09,0.05,1.5,4900.0,43.0,656.0,223.0,629.0,0.0024,0.0088
+Mario Kart: Double Dash!!,GC,Nintendo,Racing,2003,3.9,4.12,1.77,0.87,0.19,6.95,8400.0,31.0,449.0,265.0,808.0,0.0086,0.0037
+Rayman Origins,PS3,Ubisoft,Platform,2011,3.8,0.33,0.51,0.01,0.18,1.03,6200.0,85.0,1200.0,417.0,547.0,0.0019,0.0137
+Rayman Origins,X360,Ubisoft,Platform,2011,3.8,0.38,0.34,0.0,0.08,0.79,6200.0,85.0,1200.0,417.0,547.0,0.0014,0.0137
+Rayman Origins,PSV,Ubisoft,Platform,2011,3.8,0.13,0.35,0.0,0.11,0.59,6200.0,85.0,1200.0,417.0,547.0,0.0011,0.0137
+Rayman Origins,Wii,Ubisoft,Platform,2011,3.8,0.23,0.29,0.0,0.07,0.58,6200.0,85.0,1200.0,417.0,547.0,0.0011,0.0137
+Rayman Origins,3DS,Ubisoft,Platform,2011,3.8,0.06,0.08,0.0,0.01,0.15,6200.0,85.0,1200.0,417.0,547.0,0.0003,0.0137
+Rayman Origins,PC,Ubisoft,Platform,2011,3.8,0.0,0.06,0.0,0.01,0.08,6200.0,85.0,1200.0,417.0,547.0,0.0001,0.0137
+Max Payne 3,PS3,Take-Two Interactive,Shooter,2012,3.7,0.59,0.92,0.06,0.32,1.9,5600.0,43.0,1000.0,518.0,593.0,0.0032,0.0077
+Max Payne 3,X360,Take-Two Interactive,Shooter,2012,3.7,0.86,0.64,0.01,0.14,1.66,5600.0,43.0,1000.0,518.0,593.0,0.0028,0.0077
+Max Payne 3,PC,Take-Two Interactive,Shooter,2012,3.7,0.15,0.22,0.0,0.06,0.43,5600.0,43.0,1000.0,518.0,593.0,0.0007,0.0077
+Kirby: Planet Robobot,3DS,Nintendo,Action,2016,4.2,0.26,0.1,0.44,0.04,0.85,3600.0,82.0,1000.0,644.0,669.0,0.0013,0.0228
+Persona 2: Eternal Punishment,PS,Atlus,Role-Playing,2000,4.1,0.03,0.02,0.28,0.02,0.35,1600.0,107.0,2000.0,993.0,594.0,0.0006,0.0669
+Persona 2: Eternal Punishment,PSP,Atlus,Role-Playing,2000,4.1,0.0,0.0,0.05,0.0,0.05,1600.0,107.0,2000.0,993.0,594.0,0.0001,0.0669
+Super Paper Mario,Wii,Nintendo,Platform,2007,3.8,1.98,0.88,0.59,0.32,3.76,6200.0,76.0,1500.0,572.0,688.0,0.0055,0.0123
+Star Wars: Battlefront II,PS2,LucasArts,Shooter,2005,4.0,2.18,1.02,0.03,0.37,3.59,7700.0,35.0,520.0,189.0,650.0,0.0055,0.0045
+Star Wars: Battlefront II,XB,Activision,Shooter,2005,4.0,1.22,0.39,0.0,0.06,1.67,7700.0,35.0,520.0,189.0,650.0,0.0026,0.0045
+Star Wars: Battlefront II,PSP,LucasArts,Shooter,2005,4.0,1.05,0.06,0.01,0.11,1.23,7700.0,35.0,520.0,189.0,650.0,0.0019,0.0045
+Star Wars: Battlefront II,PC,LucasArts,Shooter,2005,4.0,0.02,0.13,0.0,0.03,0.18,7700.0,35.0,520.0,189.0,650.0,0.0003,0.0045
+Super Castlevania IV,SNES,Konami Digital Entertainment,Platform,1991,3.7,0.32,0.05,0.25,0.01,0.63,3700.0,45.0,863.0,271.0,627.0,0.001,0.0122
+Brothers: A Tale of Two Sons,PS4,505 Games,Adventure,2013,3.5,0.03,0.08,0.0,0.02,0.13,4000.0,28.0,1300.0,334.0,511.0,0.0003,0.007
+Brothers: A Tale of Two Sons,XOne,505 Games,Adventure,2013,3.5,0.03,0.01,0.0,0.0,0.04,4000.0,28.0,1300.0,334.0,511.0,0.0001,0.007
+GoldenEye 007,N64,Nintendo,Shooter,1997,3.6,5.8,2.01,0.13,0.15,8.09,4500.0,60.0,646.0,334.0,610.0,0.0133,0.0133
+Metroid Prime 2: Echoes,GC,Nintendo,Shooter,2004,4.0,0.87,0.35,0.07,0.04,1.33,3000.0,75.0,1800.0,588.0,606.0,0.0022,0.025
+Saints Row IV,X360,Deep Silver,Action,2013,3.1,1.01,0.53,0.01,0.14,1.69,7200.0,64.0,775.0,176.0,386.0,0.0044,0.0089
+Saints Row IV,PS3,Deep Silver,Action,2013,3.1,0.56,0.44,0.09,0.21,1.3,7200.0,64.0,775.0,176.0,386.0,0.0034,0.0089
+Saints Row IV,PS4,Deep Silver,Action,2013,3.1,0.13,0.17,0.03,0.06,0.38,7200.0,64.0,775.0,176.0,386.0,0.001,0.0089
+Saints Row IV,XOne,Deep Silver,Action,2013,3.1,0.1,0.09,0.0,0.02,0.2,7200.0,64.0,775.0,176.0,386.0,0.0005,0.0089
+Saints Row IV,PC,Deep Silver,Action,2013,3.1,0.11,0.06,0.0,0.02,0.19,7200.0,64.0,775.0,176.0,386.0,0.0005,0.0089
+Chrono Cross,PS,SquareSoft,Role-Playing,1999,4.0,0.62,0.42,0.69,0.12,1.86,1700.0,60.0,1500.0,768.0,554.0,0.0034,0.0353
+Fire Emblem: Path of Radiance,GC,Nintendo,Action,2005,4.2,0.29,0.08,0.16,0.01,0.54,2900.0,155.0,1500.0,716.0,703.0,0.0008,0.0534
+Professor Layton and the Curious Village,DS,Nintendo,Puzzle,2007,3.7,1.22,2.48,1.03,0.52,5.26,4200.0,128.0,879.0,407.0,439.0,0.012,0.0305
+Ys VIII: Lacrimosa of Dana,PSV,Nihon Falcom Corporation,Role-Playing,2016,4.2,0.0,0.0,0.09,0.0,0.09,1900.0,131.0,1100.0,575.0,620.0,0.0001,0.0689
+Hotel Dusk: Room 215,DS,Nintendo,Adventure,2007,4.0,0.27,0.05,0.22,0.03,0.56,1600.0,87.0,1300.0,838.0,439.0,0.0013,0.0544
+Shin Megami Tensei: Persona,PSP,Atlus,Role-Playing,2009,2.9,0.08,0.0,0.13,0.01,0.22,2500.0,161.0,1600.0,797.0,416.0,0.0005,0.0644
+God of War: Chains of Olympus,PSP,Sony Computer Entertainment,Action,2008,3.2,1.48,1.01,0.04,0.66,3.19,4000.0,31.0,599.0,300.0,396.0,0.0081,0.0078
+Splatoon,WiiU,Nintendo,Shooter,2015,3.7,1.55,1.15,1.44,0.43,4.57,6100.0,28.0,320.0,227.0,509.0,0.009,0.0046
+Sonic Rush,DS,Sega,Platform,2005,3.6,1.22,1.57,0.06,0.29,3.15,4600.0,61.0,671.0,292.0,536.0,0.0059,0.0133
+Chrono Trigger,SNES,SquareSoft,Role-Playing,2008,4.4,0.28,0.0,2.02,0.01,2.31,2400.0,135.0,1300.0,499.0,295.0,0.0078,0.0562
+Chrono Trigger,DS,Square Enix,Role-Playing,2008,4.4,0.69,0.2,0.49,0.09,1.47,2400.0,135.0,1300.0,499.0,295.0,0.005,0.0562
+Street Fighter V,PS4,Capcom,Fighting,2016,3.0,0.35,0.26,0.08,0.13,0.82,5000.0,109.0,482.0,166.0,377.0,0.0022,0.0218
+Street Fighter V,PC,Capcom,Fighting,2016,3.0,0.0,0.05,0.0,0.0,0.05,5000.0,109.0,482.0,166.0,377.0,0.0001,0.0218
+Bully: Scholarship Edition,X360,Take-Two Interactive,Action,2008,4.0,0.53,0.4,0.03,0.11,1.07,3900.0,92.0,1000.0,457.0,330.0,0.0032,0.0236
+Bully: Scholarship Edition,Wii,Take-Two Interactive,Action,2008,4.0,0.17,0.29,0.0,0.06,0.52,3900.0,92.0,1000.0,457.0,330.0,0.0016,0.0236
+Bully: Scholarship Edition,PC,Take-Two Interactive,Action,2008,4.0,0.0,0.02,0.0,0.0,0.03,3900.0,92.0,1000.0,457.0,330.0,0.0001,0.0236
+Borderlands: The Pre-Sequel,X360,Take-Two Interactive,Shooter,2014,2.9,0.46,0.22,0.01,0.06,0.75,5300.0,100.0,1900.0,238.0,375.0,0.002,0.0189
+Borderlands: The Pre-Sequel,PS3,Take-Two Interactive,Shooter,2014,2.9,0.25,0.26,0.05,0.11,0.67,5300.0,100.0,1900.0,238.0,375.0,0.0018,0.0189
+Borderlands: The Pre-Sequel,PC,Take-Two Interactive,Shooter,2014,2.9,0.11,0.15,0.0,0.03,0.29,5300.0,100.0,1900.0,238.0,375.0,0.0008,0.0189
+Alice: Madness Returns,PS3,Electronic Arts,Adventure,2011,3.5,0.22,0.25,0.04,0.09,0.6,2800.0,113.0,1200.0,636.0,358.0,0.0017,0.0404
+Alice: Madness Returns,X360,Electronic Arts,Adventure,2011,3.5,0.27,0.15,0.04,0.04,0.5,2800.0,113.0,1200.0,636.0,358.0,0.0014,0.0404
+Alice: Madness Returns,PC,Electronic Arts,Adventure,2011,3.5,0.0,0.1,0.0,0.02,0.12,2800.0,113.0,1200.0,636.0,358.0,0.0003,0.0404
+S.T.A.L.K.E.R.: Shadow of Chernobyl,PC,THQ,Shooter,2007,3.9,0.01,0.04,0.0,0.01,0.06,2500.0,119.0,1400.0,583.0,426.0,0.0001,0.0476
+Mortal Kombat,PS3,Warner Bros. Interactive Entertainment,Fighting,2011,3.6,1.98,0.55,0.0,0.32,2.85,6600.0,19.0,289.0,120.0,468.0,0.0061,0.0029
+Mortal Kombat,GEN,Arena Entertainment,Fighting,2011,3.6,1.95,0.63,0.0,0.09,2.67,6600.0,19.0,289.0,120.0,468.0,0.0057,0.0029
+Mortal Kombat,X360,Warner Bros. Interactive Entertainment,Fighting,2011,3.6,1.63,0.33,0.0,0.15,2.11,6600.0,19.0,289.0,120.0,468.0,0.0045,0.0029
+Mortal Kombat,PSV,Warner Bros. Interactive Entertainment,Fighting,2011,3.6,0.47,0.18,0.0,0.12,0.76,6600.0,19.0,289.0,120.0,468.0,0.0016,0.0029
+Mortal Kombat,PC,Acclaim Entertainment,Fighting,2011,3.6,0.01,0.0,0.0,0.0,0.01,6600.0,19.0,289.0,120.0,468.0,0.0,0.0029
+Resident Evil,PS,Virgin Interactive,Action,1996,3.7,2.05,1.16,1.11,0.73,5.05,3400.0,41.0,577.0,323.0,688.0,0.0073,0.0121
+Resident Evil,SAT,Capcom,Action,1996,3.7,0.0,0.0,0.17,0.0,0.17,3400.0,41.0,577.0,323.0,688.0,0.0002,0.0121
+Resident Evil,PS3,Capcom,Action,1996,3.7,0.0,0.0,0.12,0.0,0.12,3400.0,41.0,577.0,323.0,688.0,0.0002,0.0121
+Call of Duty: Ghosts,X360,Activision,Shooter,2013,2.4,6.72,2.63,0.04,0.82,10.21,6500.0,9.0,353.0,150.0,411.0,0.0248,0.0014
+Call of Duty: Ghosts,PS3,Activision,Shooter,2013,2.4,4.09,3.73,0.38,1.38,9.59,6500.0,9.0,353.0,150.0,411.0,0.0233,0.0014
+Call of Duty: Ghosts,PS4,Activision,Shooter,2013,2.4,1.78,1.42,0.05,0.38,3.63,6500.0,9.0,353.0,150.0,411.0,0.0088,0.0014
+Call of Duty: Ghosts,XOne,Activision,Shooter,2013,2.4,1.87,0.77,0.0,0.22,2.86,6500.0,9.0,353.0,150.0,411.0,0.007,0.0014
+Call of Duty: Ghosts,PC,Activision,Shooter,2013,2.4,0.23,0.41,0.0,0.09,0.73,6500.0,9.0,353.0,150.0,411.0,0.0018,0.0014
+Call of Duty: Ghosts,WiiU,Activision,Shooter,2013,2.4,0.23,0.09,0.01,0.03,0.36,6500.0,9.0,353.0,150.0,411.0,0.0009,0.0014
+Sly Cooper and the Thievius Raccoonus,PS2,Sony Computer Entertainment,Platform,2002,3.7,1.03,0.14,0.0,0.04,1.21,3700.0,44.0,772.0,391.0,525.0,0.0023,0.0119
+Crazy Taxi,PS2,Acclaim Entertainment,Racing,1999,3.6,1.13,1.12,0.06,0.22,2.52,4800.0,19.0,556.0,227.0,425.0,0.0059,0.004
+Crazy Taxi,DC,Sega,Racing,1999,3.6,1.1,0.51,0.12,0.08,1.81,4800.0,19.0,556.0,227.0,425.0,0.0043,0.004
+Crazy Taxi,GC,Acclaim Entertainment,Racing,1999,3.6,0.36,0.09,0.02,0.01,0.49,4800.0,19.0,556.0,227.0,425.0,0.0012,0.004
+Spore,PC,Electronic Arts,Strategy,2008,3.3,0.03,1.06,0.0,0.09,1.17,6000.0,34.0,427.0,170.0,238.0,0.0049,0.0057
+Klonoa 2: Lunatea's Veil,PS2,Sony Computer Entertainment,Platform,2001,4.2,0.12,0.1,0.08,0.03,0.33,1100.0,31.0,573.0,399.0,379.0,0.0009,0.0282
+Planescape: Torment,PC,Interplay,Role-Playing,1999,4.3,0.01,0.02,0.0,0.01,0.04,1100.0,74.0,1100.0,518.0,417.0,0.0001,0.0673
+Naruto Shippuden: Ultimate Ninja Storm 4,PS4,Namco Bandai Games,Fighting,2016,3.5,0.39,0.41,0.1,0.16,1.06,4800.0,45.0,366.0,134.0,264.0,0.004,0.0094
+Naruto Shippuden: Ultimate Ninja Storm 4,XOne,Namco Bandai Games,Fighting,2016,3.5,0.19,0.06,0.0,0.03,0.28,4800.0,45.0,366.0,134.0,264.0,0.0011,0.0094
+Mega Man 3,NES,Capcom,Platform,1990,3.4,0.68,0.1,0.39,0.0,1.17,3800.0,25.0,470.0,140.0,599.0,0.002,0.0066
+Ni no Kuni: Wrath of the White Witch,PS3,Namco Bandai Games,Role-Playing,2011,3.7,0.6,0.51,0.21,0.23,1.55,2400.0,161.0,1700.0,682.0,438.0,0.0035,0.0671
+Danganronpa Another Episode: Ultra Despair Girls,PSV,Nippon Ichi Software,Action,2015,2.7,0.1,0.03,0.12,0.04,0.28,3400.0,92.0,797.0,355.0,276.0,0.001,0.0271
+Castlevania: Circle of the Moon,GBA,Konami Digital Entertainment,Platform,2001,3.0,0.6,0.22,0.05,0.02,0.89,2100.0,62.0,742.0,272.0,362.0,0.0025,0.0295
+Beyond Good & Evil,PS2,Ubisoft,Adventure,2003,3.9,0.16,0.13,0.0,0.04,0.33,2300.0,35.0,1500.0,629.0,436.0,0.0008,0.0152
+Beyond Good & Evil,XB,Ubisoft,Adventure,2003,3.9,0.08,0.02,0.0,0.0,0.1,2300.0,35.0,1500.0,629.0,436.0,0.0002,0.0152
+Beyond Good & Evil,GC,Ubisoft,Adventure,2003,3.9,0.06,0.01,0.0,0.0,0.07,2300.0,35.0,1500.0,629.0,436.0,0.0002,0.0152
+Metroid II: Return of Samus,GB,Nintendo,Adventure,1991,3.1,0.85,0.31,0.56,0.04,1.76,2100.0,39.0,595.0,193.0,445.0,0.004,0.0186
+Shenmue,DC,Sega,Adventure,1999,3.8,0.52,0.24,0.38,0.04,1.18,1600.0,61.0,993.0,494.0,496.0,0.0024,0.0381
+Crash Team Racing,PS,Sony Computer Entertainment,Racing,1999,4.0,2.57,1.57,0.44,0.21,4.79,4800.0,18.0,327.0,165.0,455.0,0.0105,0.0038
+Gears of War 2,X360,Microsoft Game Studios,Shooter,2008,3.7,4.15,1.92,0.06,0.64,6.76,4600.0,31.0,522.0,225.0,504.0,0.0134,0.0067
+Phoenix Wright: Ace Attorney - Dual Destinies,3DS,Capcom,Adventure,2013,3.4,0.0,0.0,0.38,0.0,0.38,3300.0,105.0,1100.0,497.0,430.0,0.0009,0.0318
+The Legend of Zelda: Oracle of Seasons,GB,Nintendo,Adventure,2001,3.7,0.87,0.52,0.41,0.06,1.86,3100.0,65.0,1600.0,489.0,544.0,0.0034,0.021
+God of War: Ascension,PS3,Sony Computer Entertainment,Action,2013,2.9,1.23,0.68,0.04,0.34,2.29,2700.0,27.0,625.0,351.0,318.0,0.0072,0.01
+Xenosaga Episode III: Also sprach Zarathustra,PS2,Namco Bandai Games,Role-Playing,2006,4.3,0.09,0.07,0.18,0.02,0.37,762.0,23.0,908.0,448.0,399.0,0.0009,0.0302
+Kirby's Dream Land 3,SNES,Nintendo,Platform,1997,3.4,0.0,0.0,0.36,0.0,0.36,2600.0,49.0,750.0,179.0,469.0,0.0008,0.0188
+Castlevania: Harmony of Dissonance,GBA,Konami Digital Entertainment,Platform,2002,3.2,0.16,0.06,0.04,0.0,0.26,2000.0,51.0,802.0,288.0,399.0,0.0007,0.0255
+Shantae and the Pirate's Curse,3DS,Intergrow,Platform,2014,3.8,0.0,0.0,0.03,0.0,0.03,2200.0,72.0,1100.0,449.0,392.0,0.0001,0.0327
+Final Fantasy IV,DS,Square Enix,Simulation,1991,3.7,0.54,0.05,0.62,0.05,1.26,2700.0,60.0,964.0,379.0,530.0,0.0024,0.0222
+Final Fantasy IV,PS,SquareSoft,Simulation,1991,3.7,0.0,0.0,0.29,0.02,0.31,2700.0,60.0,964.0,379.0,530.0,0.0006,0.0222
+Castlevania III: Dracula's Curse,NES,Konami Digital Entertainment,Platform,1990,3.6,0.4,0.07,0.37,0.01,0.85,2400.0,36.0,606.0,217.0,501.0,0.0017,0.015
+Call of Duty: Advanced Warfare,PS4,Activision,Shooter,2014,2.5,2.8,3.3,0.14,1.37,7.6,5200.0,13.0,308.0,151.0,415.0,0.0183,0.0025
+Call of Duty: Advanced Warfare,XOne,Activision,Shooter,2014,2.5,3.21,1.53,0.01,0.38,5.13,5200.0,13.0,308.0,151.0,415.0,0.0124,0.0025
+Call of Duty: Advanced Warfare,PS3,Activision,Shooter,2014,2.5,1.54,1.94,0.19,0.77,4.45,5200.0,13.0,308.0,151.0,415.0,0.0107,0.0025
+Call of Duty: Advanced Warfare,X360,Activision,Shooter,2014,2.5,2.75,1.18,0.0,0.37,4.31,5200.0,13.0,308.0,151.0,415.0,0.0104,0.0025
+Call of Duty: Advanced Warfare,PC,Activision,Shooter,2014,2.5,0.14,0.23,0.0,0.04,0.41,5200.0,13.0,308.0,151.0,415.0,0.001,0.0025
+The Legend of Heroes: Trails of Cold Steel,PSV,Nippon Ichi Software,Role-Playing,2013,3.7,0.08,0.05,0.14,0.04,0.31,2100.0,129.0,1000.0,461.0,499.0,0.0006,0.0614
+The Legend of Heroes: Trails of Cold Steel,PS3,Nippon Ichi Software,Role-Playing,2013,3.7,0.05,0.04,0.12,0.02,0.22,2100.0,129.0,1000.0,461.0,499.0,0.0004,0.0614
+Mario Kart: Super Circuit,GBA,Nintendo,Racing,2001,2.8,2.62,1.64,0.99,0.23,5.47,3700.0,24.0,256.0,101.0,389.0,0.0141,0.0065
+Tetris,GB,Nintendo,Puzzle,1989,4.0,23.2,2.26,4.22,0.58,30.26,2500.0,18.0,76.0,21.0,197.0,0.1536,0.0072
+Tetris,NES,Nintendo,Puzzle,1989,4.0,2.97,0.69,1.81,0.11,5.58,2500.0,18.0,76.0,21.0,197.0,0.0283,0.0072
+Rule of Rose,PS2,505 Games,Action,2006,3.8,0.01,0.01,0.0,0.0,0.02,727.0,33.0,796.0,770.0,394.0,0.0001,0.0454
+Lollipop Chainsaw,PS3,Warner Bros. Interactive Entertainment,Action,2012,3.4,0.26,0.21,0.11,0.09,0.67,1600.0,32.0,717.0,695.0,295.0,0.0023,0.02
+Lollipop Chainsaw,X360,Warner Bros. Interactive Entertainment,Action,2012,3.4,0.31,0.13,0.02,0.04,0.49,1600.0,32.0,717.0,695.0,295.0,0.0017,0.02
+Resident Evil: Revelations,3DS,Capcom,Action,2012,3.2,0.3,0.22,0.3,0.05,0.88,2900.0,55.0,939.0,297.0,469.0,0.0019,0.019
+Resident Evil: Revelations,PS3,Capcom,Action,2012,3.2,0.14,0.32,0.22,0.12,0.8,2900.0,55.0,939.0,297.0,469.0,0.0017,0.019
+Resident Evil: Revelations,X360,Capcom,Action,2012,3.2,0.12,0.11,0.02,0.02,0.27,2900.0,55.0,939.0,297.0,469.0,0.0006,0.019
+Resident Evil: Revelations,WiiU,Capcom,Action,2012,3.2,0.07,0.08,0.03,0.01,0.2,2900.0,55.0,939.0,297.0,469.0,0.0004,0.019
+Resident Evil: Revelations,PC,Capcom,Action,2012,3.2,0.0,0.03,0.0,0.01,0.04,2900.0,55.0,939.0,297.0,469.0,0.0001,0.019
+Shin Megami Tensei,PS,Atlus,Role-Playing,1992,3.3,0.0,0.0,0.09,0.01,0.09,1300.0,146.0,868.0,455.0,433.0,0.0002,0.1123
+Tomb Raider,PS,Eidos Interactive,Action,1996,3.3,2.29,1.97,0.13,0.24,4.63,2700.0,45.0,773.0,263.0,395.0,0.0117,0.0167
+Tomb Raider,PC,Eidos Interactive,Action,1996,3.3,0.96,0.07,0.0,0.0,1.03,2700.0,45.0,773.0,263.0,395.0,0.0026,0.0167
+Battlefield: Bad Company 2,X360,Electronic Arts,Shooter,2010,3.6,2.09,1.02,0.04,0.32,3.48,4200.0,23.0,349.0,119.0,288.0,0.0121,0.0055
+Battlefield: Bad Company 2,PS3,Electronic Arts,Shooter,2010,3.6,1.33,1.12,0.08,0.45,2.97,4200.0,23.0,349.0,119.0,288.0,0.0103,0.0055
+Battlefield: Bad Company 2,PC,Electronic Arts,Shooter,2010,3.6,0.19,0.53,0.0,0.0,0.71,4200.0,23.0,349.0,119.0,288.0,0.0025,0.0055
+Ninja Gaiden Black,XB,Microsoft Game Studios,Action,2005,4.3,0.07,0.02,0.0,0.0,0.09,992.0,41.0,495.0,343.0,294.0,0.0003,0.0413
+Sid Meier's Civilization V,PC,Take-Two Interactive,Strategy,2010,3.9,0.98,0.52,0.0,0.19,1.69,5400.0,56.0,369.0,140.0,320.0,0.0053,0.0104
+Fire Emblem: Shadow Dragon,DS,Nintendo,Role-Playing,2008,3.2,0.31,0.03,0.27,0.03,0.65,1900.0,78.0,808.0,235.0,361.0,0.0018,0.0411
+Tomodachi Life,3DS,Nintendo,Simulation,2013,3.7,0.96,2.02,1.89,0.28,5.15,3400.0,59.0,180.0,133.0,281.0,0.0183,0.0174
+LEGO Harry Potter: Years 1-4,Wii,Warner Bros. Interactive Entertainment,Action,2010,3.2,1.29,0.97,0.0,0.23,2.49,4100.0,53.0,449.0,113.0,349.0,0.0071,0.0129
+LEGO Harry Potter: Years 1-4,DS,Warner Bros. Interactive Entertainment,Action,2010,3.2,1.07,1.05,0.0,0.23,2.35,4100.0,53.0,449.0,113.0,349.0,0.0067,0.0129
+LEGO Harry Potter: Years 1-4,X360,Warner Bros. Interactive Entertainment,Action,2010,3.2,0.95,0.5,0.0,0.14,1.59,4100.0,53.0,449.0,113.0,349.0,0.0046,0.0129
+LEGO Harry Potter: Years 1-4,PS3,Warner Bros. Interactive Entertainment,Action,2010,3.2,0.55,0.6,0.0,0.22,1.37,4100.0,53.0,449.0,113.0,349.0,0.0039,0.0129
+LEGO Harry Potter: Years 1-4,PSP,Warner Bros. Interactive Entertainment,Action,2010,3.2,0.14,0.37,0.0,0.19,0.71,4100.0,53.0,449.0,113.0,349.0,0.002,0.0129
+LEGO Harry Potter: Years 1-4,PC,Warner Bros. Interactive Entertainment,Action,2010,3.2,0.01,0.01,0.0,0.0,0.02,4100.0,53.0,449.0,113.0,349.0,0.0001,0.0129
+Dragon Quest V: Hand of the Heavenly Bride,DS,Square Enix,Role-Playing,2008,4.2,0.19,0.02,1.36,0.02,1.6,1400.0,85.0,1000.0,478.0,371.0,0.0043,0.0607
+Sonic Lost World,3DS,Sega,Platform,2013,2.5,0.24,0.15,0.07,0.03,0.49,2500.0,34.0,498.0,214.0,395.0,0.0012,0.0136
+Sonic Lost World,WiiU,Sega,Platform,2013,2.5,0.24,0.12,0.01,0.03,0.4,2500.0,34.0,498.0,214.0,395.0,0.001,0.0136
+Halo 5: Guardians,XOne,Microsoft Game Studios,Shooter,2015,2.5,2.64,1.2,0.03,0.39,4.26,3500.0,31.0,602.0,257.0,500.0,0.0085,0.0089
+Ultimate Spider-Man,PS2,Activision,Action,2005,3.6,0.6,0.02,0.0,0.1,0.72,3700.0,25.0,382.0,280.0,300.0,0.0024,0.0068
+Ultimate Spider-Man,XB,Activision,Action,2005,3.6,0.26,0.11,0.0,0.02,0.39,3700.0,25.0,382.0,280.0,300.0,0.0013,0.0068
+Ultimate Spider-Man,GC,Activision,Action,2005,3.6,0.29,0.07,0.0,0.01,0.37,3700.0,25.0,382.0,280.0,300.0,0.0012,0.0068
+Ultimate Spider-Man,GBA,Activision,Action,2005,3.6,0.22,0.08,0.0,0.01,0.3,3700.0,25.0,382.0,280.0,300.0,0.001,0.0068
+Ultimate Spider-Man,DS,Activision,Action,2005,3.6,0.14,0.0,0.0,0.01,0.16,3700.0,25.0,382.0,280.0,300.0,0.0005,0.0068
+Secret of Mana,SNES,SquareSoft,Role-Playing,1993,3.3,0.25,0.07,1.49,0.02,1.83,1900.0,57.0,1300.0,511.0,413.0,0.0044,0.03
+Mega Man Legends,PS,Capcom,Adventure,1997,3.7,0.39,0.26,0.12,0.05,0.83,1400.0,51.0,851.0,364.0,361.0,0.0023,0.0364
+Dante's Inferno,PS3,Electronic Arts,Action,2010,3.2,0.64,0.28,0.04,0.13,1.09,2600.0,40.0,567.0,334.0,321.0,0.0034,0.0154
+Dante's Inferno,X360,Electronic Arts,Action,2010,3.2,0.63,0.2,0.02,0.07,0.92,2600.0,40.0,567.0,334.0,321.0,0.0029,0.0154
+Dante's Inferno,PSP,Electronic Arts,Action,2010,3.2,0.12,0.03,0.01,0.03,0.19,2600.0,40.0,567.0,334.0,321.0,0.0006,0.0154
+Haunting Ground,PS2,Capcom,Action,2005,3.8,0.03,0.03,0.0,0.01,0.07,597.0,29.0,625.0,572.0,281.0,0.0002,0.0486
+Fire Emblem: Thracia 776,SNES,Nintendo,Strategy,1999,4.1,0.0,0.0,0.26,0.0,0.26,820.0,65.0,771.0,329.0,329.0,0.0008,0.0793
+Pikmin 3,WiiU,Nintendo,Strategy,2013,4.0,0.45,0.31,0.29,0.06,1.11,2700.0,39.0,797.0,385.0,388.0,0.0029,0.0144
+Chaos;Head Noah,X360,5pb,Adventure,2009,4.0,0.0,0.0,0.04,0.0,0.04,199.0,73.0,215.0,174.0,84.0,0.0005,0.3668
+Chaos;Head Noah,PSP,5pb,Adventure,2009,4.0,0.0,0.0,0.02,0.0,0.02,199.0,73.0,215.0,174.0,84.0,0.0002,0.3668
+Chaos;Head Noah,PSV,5pb,Adventure,2009,4.0,0.0,0.0,0.01,0.0,0.01,199.0,73.0,215.0,174.0,84.0,0.0001,0.3668
+Crysis,PC,Electronic Arts,Shooter,2007,3.2,0.0,0.69,0.0,0.03,0.72,3000.0,26.0,561.0,241.0,224.0,0.0032,0.0087
+Sonic and the Secret Rings,Wii,Sega,Platform,2007,1.9,1.24,1.2,0.04,0.3,2.77,3100.0,18.0,348.0,160.0,362.0,0.0077,0.0058
+Mario Party 2,N64,Nintendo,Misc,1999,3.7,1.28,0.14,1.08,0.01,2.5,3900.0,11.0,199.0,132.0,348.0,0.0072,0.0028
+Animal Crossing,GC,Nintendo,Simulation,2001,3.9,1.92,0.16,0.99,0.09,3.15,3900.0,51.0,389.0,317.0,533.0,0.0059,0.0131
+Final Fantasy XIII-2,PS3,Square Enix,Role-Playing,2011,3.3,0.78,0.75,0.89,0.26,2.68,2300.0,58.0,1400.0,449.0,482.0,0.0056,0.0252
+Final Fantasy XIII-2,X360,Square Enix,Role-Playing,2011,3.3,0.36,0.3,0.02,0.06,0.74,2300.0,58.0,1400.0,449.0,482.0,0.0015,0.0252
+Fatal Frame II: Crimson Butterfly,PS2,Ubisoft,Action,2003,4.2,0.08,0.06,0.0,0.02,0.16,1000.0,38.0,690.0,513.0,398.0,0.0004,0.038
+Disney's Aladdin,SNES,Capcom,Platform,1993,3.4,0.94,0.34,0.21,0.27,1.75,2200.0,9.0,192.0,85.0,203.0,0.0086,0.0041
+Disney's Aladdin,GBA,Capcom,Platform,1993,3.4,0.02,0.01,0.0,0.0,0.03,2200.0,9.0,192.0,85.0,203.0,0.0001,0.0041
+Fable II,X360,Microsoft Game Studios,Role-Playing,2008,3.6,2.51,1.27,0.11,0.41,4.31,3200.0,22.0,580.0,271.0,310.0,0.0139,0.0069
+Lightning Returns: Final Fantasy XIII,PS3,Square Enix,Role-Playing,2013,3.1,0.31,0.22,0.45,0.12,1.1,1500.0,44.0,1300.0,426.0,362.0,0.003,0.0293
+Lightning Returns: Final Fantasy XIII,X360,Square Enix,Role-Playing,2013,3.1,0.15,0.1,0.01,0.02,0.29,1500.0,44.0,1300.0,426.0,362.0,0.0008,0.0293
+Yakuza 2,PS2,Sega,Adventure,2006,4.0,0.05,0.04,0.84,0.16,1.09,1000.0,28.0,491.0,255.0,331.0,0.0033,0.028
+F-Zero X,N64,Nintendo,Racing,1998,3.9,0.45,0.33,0.29,0.03,1.1,1700.0,15.0,387.0,172.0,354.0,0.0031,0.0088
+Super Mario Sunshine,GC,Nintendo,Platform,2020,3.7,4.01,1.26,0.87,0.17,6.31,340.0,6.0,83.0,14.0,19.0,0.3321,0.0176
+Mega Man X5,PS,Capcom,Platform,2000,3.2,0.3,0.21,0.2,0.05,0.75,2200.0,11.0,450.0,126.0,334.0,0.0022,0.005
+Mega Man 7,SNES,Laguna,Platform,1995,3.5,0.03,0.01,0.23,0.01,0.28,2400.0,19.0,461.0,139.0,405.0,0.0007,0.0079
+Metal Gear Solid: The Twin Snakes,GC,Konami Digital Entertainment,Action,2004,3.6,0.3,0.08,0.07,0.01,0.47,1900.0,31.0,619.0,364.0,267.0,0.0018,0.0163
+The Simpsons Game,DS,Electronic Arts,Action,2007,3.0,0.57,0.79,0.0,0.17,1.53,3800.0,20.0,283.0,156.0,200.0,0.0076,0.0053
+The Simpsons Game,PS2,Electronic Arts,Action,2007,3.0,0.35,0.03,0.0,1.13,1.51,3800.0,20.0,283.0,156.0,200.0,0.0076,0.0053
+The Simpsons Game,PSP,Electronic Arts,Action,2007,3.0,0.24,0.55,0.0,0.31,1.09,3800.0,20.0,283.0,156.0,200.0,0.0054,0.0053
+The Simpsons Game,X360,Electronic Arts,Action,2007,3.0,0.54,0.4,0.0,0.11,1.05,3800.0,20.0,283.0,156.0,200.0,0.0052,0.0053
+The Simpsons Game,Wii,Electronic Arts,Action,2007,3.0,0.45,0.47,0.0,0.11,1.03,3800.0,20.0,283.0,156.0,200.0,0.0052,0.0053
+The Simpsons Game,PS3,Electronic Arts,Action,2007,3.0,0.38,0.37,0.0,0.15,0.91,3800.0,20.0,283.0,156.0,200.0,0.0046,0.0053
+Mega Man Zero 2,GBA,Capcom,Platform,2003,3.7,0.18,0.07,0.17,0.01,0.43,1900.0,21.0,529.0,180.0,317.0,0.0014,0.0111
+Crash of the Titans,PSP,Vivendi Games,Action,2007,3.0,0.25,0.25,0.0,0.15,0.64,3800.0,18.0,196.0,122.0,200.0,0.0032,0.0047
+Crash of the Titans,DS,Vivendi Games,Action,2007,3.0,0.42,0.02,0.0,0.04,0.49,3800.0,18.0,196.0,122.0,200.0,0.0024,0.0047
+Crash of the Titans,Wii,Vivendi Games,Action,2007,3.0,0.4,0.03,0.0,0.04,0.46,3800.0,18.0,196.0,122.0,200.0,0.0023,0.0047
+Crash of the Titans,PS2,Vivendi Games,Action,2007,3.0,0.34,0.01,0.0,0.06,0.41,3800.0,18.0,196.0,122.0,200.0,0.002,0.0047
+Crash of the Titans,X360,Vivendi Games,Action,2007,3.0,0.27,0.02,0.0,0.03,0.32,3800.0,18.0,196.0,122.0,200.0,0.0016,0.0047
+The Witcher,PC,Atari,Role-Playing,2007,3.0,0.0,0.05,0.0,0.01,0.06,1600.0,57.0,540.0,168.0,220.0,0.0003,0.0356
+Final Fantasy III,SNES,SquareSoft,Role-Playing,2006,3.1,0.86,0.0,2.55,0.02,3.42,2600.0,59.0,891.0,290.0,342.0,0.01,0.0227
+Final Fantasy III,DS,Square Enix,Role-Playing,2006,3.1,0.91,0.05,1.07,0.09,2.12,2600.0,59.0,891.0,290.0,342.0,0.0062,0.0227
+Final Fantasy III,NES,SquareSoft,Role-Playing,2006,3.1,0.0,0.0,1.39,0.01,1.4,2600.0,59.0,891.0,290.0,342.0,0.0041,0.0227
+Final Fantasy III,PSP,Square Enix,Role-Playing,2006,3.1,0.0,0.0,0.11,0.0,0.11,2600.0,59.0,891.0,290.0,342.0,0.0003,0.0227
+Star Wars: Battlefront,PS2,LucasArts,Shooter,2004,3.5,1.93,1.22,0.03,0.44,3.61,4100.0,9.0,261.0,109.0,255.0,0.0142,0.0022
+Star Wars: Battlefront,XB,Activision,Shooter,2004,3.5,1.24,0.45,0.0,0.07,1.75,4100.0,9.0,261.0,109.0,255.0,0.0069,0.0022
+Star Wars: Battlefront,PC,LucasArts,Shooter,2004,3.5,0.06,0.12,0.0,0.02,0.2,4100.0,9.0,261.0,109.0,255.0,0.0008,0.0022
+Ikaruga,GC,Atari,Shooter,2001,4.0,0.07,0.02,0.0,0.0,0.09,1300.0,37.0,664.0,424.0,364.0,0.0002,0.0285
+Ys: The Oath in Felghana,PSP,Falcom Corporation,Role-Playing,2005,4.0,0.09,0.0,0.04,0.01,0.14,1000.0,32.0,503.0,210.0,311.0,0.0005,0.032
+Armored Core 2,PS2,Ubisoft,Simulation,2000,3.6,0.28,0.22,0.23,0.07,0.79,278.0,18.0,232.0,119.0,92.0,0.0086,0.0647
+Advance Wars,GBA,Nintendo,Strategy,2001,3.7,0.5,0.19,0.0,0.01,0.7,1900.0,52.0,640.0,266.0,266.0,0.0026,0.0274
+Pokémon Mystery Dungeon: Blue Rescue Team,DS,Nintendo,Role-Playing,2005,3.7,1.16,0.06,0.83,0.0,2.05,3800.0,28.0,441.0,154.0,273.0,0.0075,0.0074
+WarioWare: Smooth Moves,Wii,Nintendo,Puzzle,2006,3.9,0.87,1.06,0.73,0.26,2.92,3100.0,7.0,256.0,189.0,319.0,0.0092,0.0023
+Puyo Puyo Tetris,3DS,Sega,Puzzle,2014,3.8,0.0,0.0,0.11,0.0,0.11,3100.0,51.0,333.0,198.0,233.0,0.0005,0.0165
+Puyo Puyo Tetris,PSV,Sega,Puzzle,2014,3.8,0.0,0.0,0.05,0.0,0.05,3100.0,51.0,333.0,198.0,233.0,0.0002,0.0165
+Puyo Puyo Tetris,PS3,Sega,Puzzle,2014,3.8,0.0,0.0,0.04,0.0,0.04,3100.0,51.0,333.0,198.0,233.0,0.0002,0.0165
+Puyo Puyo Tetris,WiiU,Sega,Puzzle,2014,3.8,0.0,0.0,0.02,0.0,0.02,3100.0,51.0,333.0,198.0,233.0,0.0001,0.0165
+Prince of Persia: Warrior Within,PS2,Ubisoft,Action,2004,3.5,0.54,0.88,0.0,0.22,1.64,2800.0,20.0,551.0,220.0,237.0,0.0069,0.0071
+Prince of Persia: Warrior Within,XB,Ubisoft,Action,2004,3.5,0.48,0.28,0.0,0.04,0.8,2800.0,20.0,551.0,220.0,237.0,0.0034,0.0071
+Prince of Persia: Warrior Within,GC,Ubisoft,Action,2004,3.5,0.15,0.04,0.0,0.01,0.2,2800.0,20.0,551.0,220.0,237.0,0.0008,0.0071
+Monster Hunter 4 Ultimate,3DS,Nintendo,Role-Playing,2014,4.2,0.67,0.49,2.62,0.11,3.89,2000.0,66.0,418.0,159.0,260.0,0.015,0.033
+Doom,PS,Infogrames,Shooter,2017,3.9,0.43,0.3,0.0,0.05,0.78,2300.0,37.0,393.0,150.0,80.0,0.0098,0.0161
+Doom,GBA,Activision,Shooter,2017,3.9,0.1,0.04,0.0,0.0,0.14,2300.0,37.0,393.0,150.0,80.0,0.0018,0.0161
+Doom,PC,id Software,Shooter,2017,3.9,0.02,0.0,0.0,0.0,0.03,2300.0,37.0,393.0,150.0,80.0,0.0004,0.0161
+Tom Clancy's The Division,PS4,Ubisoft,Shooter,2016,2.8,1.28,1.61,0.15,0.57,3.61,2900.0,40.0,332.0,78.0,239.0,0.0151,0.0138
+Tom Clancy's The Division,XOne,Ubisoft,Shooter,2016,2.8,1.2,0.62,0.0,0.18,2.01,2900.0,40.0,332.0,78.0,239.0,0.0084,0.0138
+Tom Clancy's The Division,PC,Ubisoft,Shooter,2016,2.8,0.2,0.14,0.0,0.03,0.37,2900.0,40.0,332.0,78.0,239.0,0.0015,0.0138
+Crysis 2,X360,Electronic Arts,Action,2011,3.1,0.7,0.5,0.02,0.12,1.35,2900.0,10.0,411.0,155.0,180.0,0.0075,0.0034
+Crysis 2,PS3,Electronic Arts,Action,2011,3.1,0.45,0.57,0.06,0.21,1.3,2900.0,10.0,411.0,155.0,180.0,0.0072,0.0034
+Crysis 2,PC,Electronic Arts,Action,2011,3.1,0.16,0.45,0.0,0.13,0.74,2900.0,10.0,411.0,155.0,180.0,0.0041,0.0034
+Condemned: Criminal Origins,X360,Sega,Action,2005,3.5,0.36,0.03,0.0,0.03,0.42,1300.0,32.0,528.0,270.0,248.0,0.0017,0.0246
+PlayStation All-Stars Battle Royale,PS3,Sony Computer Entertainment,Action,2012,2.4,0.5,0.28,0.04,0.14,0.96,2600.0,3.0,132.0,78.0,208.0,0.0046,0.0012
+PlayStation All-Stars Battle Royale,PSV,Sony Computer Entertainment,Action,2012,2.4,0.26,0.15,0.01,0.1,0.52,2600.0,3.0,132.0,78.0,208.0,0.0025,0.0012
+Mount & Blade: Warband,PC,Paradox Interactive,Role-Playing,2010,3.9,0.01,0.01,0.0,0.0,0.02,2400.0,39.0,309.0,110.0,168.0,0.0001,0.0162
+Digimon World: Next Order,PSV,Namco Bandai Games,Action,2016,3.1,0.0,0.0,0.09,0.0,0.09,321.0,40.0,242.0,133.0,66.0,0.0014,0.1246
+Odin Sphere: Leifthrasir,PS4,Nippon Ichi Software,Role-Playing,2016,4.1,0.06,0.03,0.07,0.02,0.18,895.0,71.0,740.0,349.0,228.0,0.0008,0.0793
+Odin Sphere: Leifthrasir,PSV,Nippon Ichi Software,Role-Playing,2016,4.1,0.02,0.03,0.08,0.02,0.15,895.0,71.0,740.0,349.0,228.0,0.0007,0.0793
+Odin Sphere: Leifthrasir,PS3,Nippon Ichi Software,Role-Playing,2016,4.1,0.01,0.02,0.03,0.01,0.06,895.0,71.0,740.0,349.0,228.0,0.0003,0.0793
+Bulletstorm,X360,Electronic Arts,Shooter,2011,3.2,0.61,0.32,0.01,0.08,1.02,2300.0,6.0,299.0,125.0,159.0,0.0064,0.0026
+Bulletstorm,PS3,Electronic Arts,Shooter,2011,3.2,0.23,0.2,0.01,0.08,0.53,2300.0,6.0,299.0,125.0,159.0,0.0033,0.0026
+Bulletstorm,PC,Electronic Arts,Shooter,2011,3.2,0.07,0.07,0.0,0.02,0.16,2300.0,6.0,299.0,125.0,159.0,0.001,0.0026
+The Witcher 2: Assassins of Kings,PC,Namco Bandai Games,Action,2011,3.6,0.25,0.56,0.0,0.15,0.96,1600.0,21.0,605.0,169.0,181.0,0.0053,0.0131
+The Witcher 2: Assassins of Kings,X360,Namco Bandai Games,Action,2011,3.6,0.48,0.36,0.02,0.08,0.94,1600.0,21.0,605.0,169.0,181.0,0.0052,0.0131
+Animal Crossing: City Folk,Wii,Nintendo,Simulation,2008,3.4,1.87,1.12,1.32,0.37,4.68,3100.0,17.0,215.0,129.0,232.0,0.0202,0.0055
+Mario Party 4,GC,Nintendo,Misc,2002,3.5,1.13,0.36,0.92,0.07,2.47,3000.0,7.0,156.0,113.0,231.0,0.0107,0.0023
+Mario Party 3,N64,Nintendo,Misc,2000,3.7,0.72,0.16,1.01,0.02,1.91,2800.0,6.0,168.0,123.0,219.0,0.0087,0.0021
+Prince of Persia,PS3,Ubisoft,Action,2008,3.0,0.47,0.41,0.03,0.18,1.08,2500.0,23.0,535.0,206.0,201.0,0.0054,0.0092
+Prince of Persia,X360,Ubisoft,Action,2008,3.0,0.54,0.35,0.02,0.1,1.01,2500.0,23.0,535.0,206.0,201.0,0.005,0.0092
+Sonic Rush Adventure,DS,Sega,Platform,2007,3.5,0.54,0.49,0.01,0.12,1.17,1900.0,22.0,389.0,208.0,278.0,0.0042,0.0116
+Destroy All Humans!,PS2,THQ,Shooter,2005,3.2,0.78,0.03,0.0,0.13,0.94,2200.0,16.0,414.0,188.0,160.0,0.0059,0.0073
+Destroy All Humans!,XB,THQ,Shooter,2005,3.2,0.34,0.11,0.0,0.02,0.46,2200.0,16.0,414.0,188.0,160.0,0.0029,0.0073
+Marvel vs. Capcom: Clash of Super Heroes,PS,Capcom,Fighting,1998,3.7,0.43,0.3,0.0,0.05,0.78,2000.0,8.0,143.0,100.0,269.0,0.0029,0.004
+Marvel vs. Capcom: Clash of Super Heroes,DC,Capcom,Fighting,1998,3.7,0.0,0.0,0.1,0.0,0.1,2000.0,8.0,143.0,100.0,269.0,0.0004,0.004
+Mega Man X6,PS,Capcom,Action,2001,2.3,0.14,0.1,0.16,0.03,0.42,1900.0,18.0,461.0,119.0,308.0,0.0014,0.0095
+Dragon Ball Z: Budokai Tenkaichi,PS2,Atari,Fighting,2005,2.9,0.96,0.12,0.54,0.04,1.66,1700.0,2.0,69.0,29.0,96.0,0.0173,0.0012
+Ape Escape 3,PS2,Sony Computer Entertainment,Platform,2005,4.3,0.06,0.05,0.0,0.02,0.13,874.0,24.0,399.0,231.0,247.0,0.0005,0.0275
+Toy Story 2: Buzz Lightyear to the Rescue!,PS,Activision,Platform,1999,3.4,0.99,0.64,0.0,0.08,1.71,2300.0,26.0,262.0,117.0,245.0,0.007,0.0113
+Toy Story 2: Buzz Lightyear to the Rescue!,N64,Activision,Platform,1999,3.4,0.71,0.2,0.0,0.01,0.93,2300.0,26.0,262.0,117.0,245.0,0.0038,0.0113
+Rayman Raving Rabbids,Wii,Ubisoft,Misc,2006,2.7,1.23,0.07,0.02,0.11,1.44,2700.0,9.0,191.0,63.0,137.0,0.0105,0.0033
+Rayman Raving Rabbids,X360,Ubisoft,Misc,2006,2.7,0.18,0.01,0.0,0.02,0.21,2700.0,9.0,191.0,63.0,137.0,0.0015,0.0033
+Rayman Raving Rabbids,DS,Ubisoft,Misc,2006,2.7,0.13,0.01,0.0,0.01,0.15,2700.0,9.0,191.0,63.0,137.0,0.0011,0.0033
+Rayman Raving Rabbids,PC,Ubisoft,Misc,2006,2.7,0.0,0.01,0.0,0.0,0.01,2700.0,9.0,191.0,63.0,137.0,0.0001,0.0033
+MadWorld,Wii,Sega,Action,2009,3.5,0.46,0.25,0.02,0.07,0.8,1100.0,19.0,683.0,441.0,283.0,0.0028,0.0173
+Call of Duty 3,X360,Activision,Shooter,2006,2.8,1.49,0.93,0.02,0.27,2.71,2900.0,8.0,239.0,122.0,231.0,0.0117,0.0028
+Call of Duty 3,Wii,Activision,Shooter,2006,2.8,1.19,0.84,0.0,0.23,2.26,2900.0,8.0,239.0,122.0,231.0,0.0098,0.0028
+Call of Duty 3,PS3,Activision,Shooter,2006,2.8,0.6,0.63,0.03,0.26,1.52,2900.0,8.0,239.0,122.0,231.0,0.0066,0.0028
+Call of Duty 3,PS2,Activision,Shooter,2006,2.8,0.89,0.03,0.0,0.15,1.07,2900.0,8.0,239.0,122.0,231.0,0.0046,0.0028
+Warcraft III: The Frozen Throne,PC,Activision,Strategy,2003,4.3,0.58,0.87,0.0,0.09,1.54,2600.0,14.0,181.0,73.0,159.0,0.0097,0.0054
+Yakuza 4,PS3,Sega,Action,2010,3.8,0.15,0.14,0.63,0.05,0.97,1400.0,38.0,596.0,255.0,295.0,0.0033,0.0271
+Scribblenauts,DS,Warner Bros. Interactive Entertainment,Puzzle,2009,3.2,1.71,0.32,0.02,0.18,2.22,3200.0,3.0,155.0,80.0,151.0,0.0147,0.0009
+Rock Band 2,X360,Electronic Arts,Misc,2008,4.0,1.78,0.24,0.0,0.18,2.2,2000.0,10.0,56.0,29.0,180.0,0.0122,0.005
+Rock Band 2,PS3,MTV Games,Misc,2008,4.0,1.13,0.2,0.0,0.16,1.5,2000.0,10.0,56.0,29.0,180.0,0.0083,0.005
+Rock Band 2,Wii,MTV Games,Misc,2008,4.0,0.94,0.01,0.0,0.08,1.03,2000.0,10.0,56.0,29.0,180.0,0.0057,0.005
+Rock Band 2,PS2,MTV Games,Misc,2008,4.0,0.29,0.23,0.0,0.08,0.59,2000.0,10.0,56.0,29.0,180.0,0.0033,0.005
+Armored Core 4,X360,505 Games,Simulation,2006,3.7,0.19,0.01,0.03,0.02,0.25,252.0,15.0,232.0,162.0,92.0,0.0027,0.0595
+Armored Core 4,PS3,505 Games,Simulation,2006,3.7,0.09,0.0,0.09,0.01,0.2,252.0,15.0,232.0,162.0,92.0,0.0022,0.0595
+Tekken 6,PS3,Namco Bandai Games,Fighting,2007,3.4,1.2,0.98,0.17,0.43,2.78,2300.0,15.0,173.0,96.0,235.0,0.0118,0.0065
+Tekken 6,X360,Namco Bandai Games,Fighting,2007,3.4,0.71,0.42,0.05,0.13,1.31,2300.0,15.0,173.0,96.0,235.0,0.0056,0.0065
+Tekken 6,PSP,Namco Bandai Games,Fighting,2007,3.4,0.15,0.04,0.1,0.03,0.32,2300.0,15.0,173.0,96.0,235.0,0.0014,0.0065
+Mortal Kombat 3,SNES,Acclaim Entertainment,Fighting,1995,3.1,1.19,0.29,0.0,0.05,1.53,1700.0,4.0,85.0,41.0,162.0,0.0094,0.0024
+Mortal Kombat 3,GEN,Acclaim Entertainment,Fighting,1995,3.1,1.03,0.27,0.0,0.04,1.34,1700.0,4.0,85.0,41.0,162.0,0.0083,0.0024
+Mortal Kombat 3,PS,Sony Computer Entertainment,Fighting,1995,3.1,0.29,0.2,0.02,0.04,0.55,1700.0,4.0,85.0,41.0,162.0,0.0034,0.0024
+Crash Nitro Kart,PS2,Vivendi Games,Racing,2003,3.1,0.74,1.01,0.0,0.2,1.95,1700.0,4.0,139.0,52.0,141.0,0.0138,0.0024
+Crash Nitro Kart,GBA,Vivendi Games,Racing,2003,3.1,0.33,0.12,0.0,0.01,0.46,1700.0,4.0,139.0,52.0,141.0,0.0033,0.0024
+Crash Nitro Kart,XB,Vivendi Games,Racing,2003,3.1,0.24,0.07,0.0,0.01,0.31,1700.0,4.0,139.0,52.0,141.0,0.0022,0.0024
+Crash Nitro Kart,GC,Vivendi Games,Racing,2003,3.1,0.2,0.05,0.0,0.01,0.26,1700.0,4.0,139.0,52.0,141.0,0.0018,0.0024
+Tales of Vesperia,X360,Atari,Role-Playing,2008,3.9,0.32,0.18,0.19,0.05,0.75,1100.0,57.0,490.0,199.0,196.0,0.0038,0.0518
+Tales of Vesperia,PS3,Namco Bandai Games,Role-Playing,2008,3.9,0.0,0.0,0.45,0.0,0.45,1100.0,57.0,490.0,199.0,196.0,0.0023,0.0518
+Mega Man X8,PS2,Capcom,Platform,2004,3.3,0.14,0.11,0.0,0.04,0.29,1400.0,17.0,438.0,140.0,239.0,0.0012,0.0121
+Suikoden,PS,Konami Digital Entertainment,Role-Playing,1995,3.6,0.21,0.14,0.21,0.04,0.6,933.0,32.0,776.0,360.0,270.0,0.0022,0.0343
+Binary Domain,PS3,Sega,Action,2012,3.5,0.09,0.08,0.14,0.03,0.33,1100.0,9.0,598.0,192.0,234.0,0.0014,0.0082
+Binary Domain,X360,Sega,Action,2012,3.5,0.09,0.07,0.02,0.02,0.19,1100.0,9.0,598.0,192.0,234.0,0.0008,0.0082
+Shin Megami Tensei: Devil Survivor,DS,Atlus,Role-Playing,2009,3.9,0.14,0.0,0.12,0.01,0.27,1000.0,47.0,667.0,343.0,219.0,0.0012,0.047
+JoJo's Bizarre Adventure: Eyes of Heaven,PS4,Namco Bandai Games,Fighting,2015,2.8,0.0,0.0,0.03,0.0,0.03,1700.0,36.0,276.0,196.0,106.0,0.0003,0.0212
+JoJo's Bizarre Adventure: Eyes of Heaven,PS3,Namco Bandai Games,Fighting,2015,2.8,0.0,0.0,0.03,0.0,0.03,1700.0,36.0,276.0,196.0,106.0,0.0003,0.0212
+Resistance: Fall of Man,PS3,Sony Computer Entertainment,Shooter,2006,3.0,1.73,1.73,0.14,0.75,4.35,1300.0,16.0,280.0,119.0,194.0,0.0224,0.0123
+The Simpsons: Road Rage,PS2,Electronic Arts,Racing,2001,2.9,2.02,1.17,0.0,0.42,3.61,1700.0,6.0,146.0,61.0,103.0,0.035,0.0035
+The Simpsons: Road Rage,GBA,THQ,Racing,2001,2.9,0.86,0.32,0.0,0.02,1.19,1700.0,6.0,146.0,61.0,103.0,0.0116,0.0035
+The Simpsons: Road Rage,XB,Electronic Arts,Racing,2001,2.9,0.78,0.26,0.0,0.01,1.05,1700.0,6.0,146.0,61.0,103.0,0.0102,0.0035
+The Simpsons: Road Rage,GC,Electronic Arts,Racing,2001,2.9,0.19,0.05,0.0,0.01,0.24,1700.0,6.0,146.0,61.0,103.0,0.0023,0.0035
+Machinarium,PC,Daedalic,Adventure,2009,3.7,0.0,0.09,0.0,0.02,0.11,1600.0,18.0,473.0,242.0,222.0,0.0005,0.0112
+Tales of Zestiria,PS3,Namco Bandai Games,Role-Playing,2015,2.7,0.05,0.09,0.42,0.03,0.59,1700.0,76.0,1000.0,264.0,273.0,0.0022,0.0447
+Tales of Zestiria,PS4,Namco Bandai Games,Role-Playing,2015,2.7,0.16,0.15,0.02,0.06,0.38,1700.0,76.0,1000.0,264.0,273.0,0.0014,0.0447
+Black,PS2,Electronic Arts,Shooter,2006,3.4,1.01,0.04,0.03,0.16,1.25,2100.0,19.0,359.0,196.0,233.0,0.0054,0.009
+Black,XB,Electronic Arts,Shooter,2006,3.4,0.31,0.09,0.0,0.01,0.42,2100.0,19.0,359.0,196.0,233.0,0.0018,0.009
+Mario Super Sluggers,Wii,Nintendo,Sports,2008,3.7,1.51,0.0,0.29,0.12,1.93,1800.0,4.0,133.0,81.0,153.0,0.0126,0.0022
+Worms Armageddon,PS,Microprose,Strategy,1999,3.8,0.18,0.81,0.0,0.08,1.06,2100.0,15.0,150.0,57.0,180.0,0.0059,0.0071
+Worms Armageddon,N64,Infogrames,Strategy,1999,3.8,0.03,0.01,0.0,0.0,0.04,2100.0,15.0,150.0,57.0,180.0,0.0002,0.0071
+Street Fighter II Turbo,SNES,Capcom,Fighting,1993,3.7,1.42,0.51,2.1,0.07,4.1,1600.0,5.0,89.0,50.0,174.0,0.0236,0.0031
+Tekken 4,PS2,Namco Bandai Games,Fighting,2001,3.4,1.55,1.27,0.33,0.29,3.44,1900.0,9.0,144.0,109.0,243.0,0.0142,0.0047
+Legacy of Kain: Soul Reaver,PS,Eidos Interactive,Action,1999,3.7,0.58,0.4,0.0,0.07,1.04,1300.0,22.0,833.0,328.0,260.0,0.004,0.0169
+Mega Man X7,PS2,Capcom,Action,2003,1.4,0.22,0.17,0.14,0.06,0.58,1300.0,6.0,385.0,113.0,231.0,0.0025,0.0046
+Final Fantasy I & II: Dawn of Souls,GBA,Nintendo,Role-Playing,2004,3.4,0.64,0.24,0.29,0.02,1.19,1100.0,26.0,207.0,63.0,93.0,0.0128,0.0236
+Mega Man ZX,DS,Capcom,Platform,2006,3.7,0.18,0.0,0.1,0.02,0.3,1300.0,29.0,540.0,159.0,239.0,0.0013,0.0223
+Silent Hill 2: Restless Dreams,XB,Konami Digital Entertainment,Action,2001,4.5,0.21,0.06,0.0,0.01,0.28,514.0,14.0,130.0,81.0,90.0,0.0031,0.0272
+Quake II,PS,Activision,Shooter,1997,3.4,0.23,0.16,0.0,0.03,0.41,1500.0,18.0,469.0,162.0,242.0,0.0017,0.012
+Quake II,N64,Activision,Shooter,1997,3.4,0.24,0.06,0.0,0.0,0.3,1500.0,18.0,469.0,162.0,242.0,0.0012,0.012
+NBA Jam,GEN,Arena Entertainment,Sports,1993,3.6,1.75,0.25,0.0,0.05,2.05,847.0,0.0,64.0,23.0,106.0,0.0193,0.0
+NBA Jam,SNES,Acclaim Entertainment,Sports,1993,3.6,1.19,0.16,0.0,0.03,1.39,847.0,0.0,64.0,23.0,106.0,0.0131,0.0
+NBA Jam,Wii,Electronic Arts,Sports,1993,3.6,0.38,0.03,0.0,0.03,0.43,847.0,0.0,64.0,23.0,106.0,0.0041,0.0
+NBA Jam,PS2,Acclaim Entertainment,Sports,1993,3.6,0.2,0.16,0.0,0.05,0.41,847.0,0.0,64.0,23.0,106.0,0.0039,0.0
+NBA Jam,X360,Electronic Arts,Sports,1993,3.6,0.27,0.1,0.0,0.03,0.4,847.0,0.0,64.0,23.0,106.0,0.0038,0.0
+NBA Jam,PS3,Electronic Arts,Sports,1993,3.6,0.22,0.12,0.0,0.06,0.4,847.0,0.0,64.0,23.0,106.0,0.0038,0.0
+NBA Jam,XB,Acclaim Entertainment,Sports,1993,3.6,0.1,0.03,0.0,0.0,0.14,847.0,0.0,64.0,23.0,106.0,0.0013,0.0
+Mario vs. Donkey Kong,GBA,Nintendo,Puzzle,2004,3.3,0.68,0.25,0.21,0.02,1.17,1500.0,16.0,252.0,92.0,171.0,0.0068,0.0107
+Remember Me,PS3,Capcom,Action,2013,2.9,0.1,0.18,0.0,0.07,0.35,1600.0,22.0,526.0,239.0,179.0,0.002,0.0138
+Remember Me,X360,Capcom,Action,2013,2.9,0.1,0.07,0.0,0.02,0.18,1600.0,22.0,526.0,239.0,179.0,0.001,0.0138
+Remember Me,PC,Capcom,Action,2013,2.9,0.0,0.05,0.0,0.01,0.06,1600.0,22.0,526.0,239.0,179.0,0.0003,0.0138
+Alpha Protocol,PS3,Sega,Role-Playing,2010,3.3,0.19,0.18,0.0,0.07,0.43,987.0,9.0,511.0,182.0,170.0,0.0025,0.0091
+Alpha Protocol,X360,Sega,Role-Playing,2010,3.3,0.23,0.13,0.0,0.04,0.4,987.0,9.0,511.0,182.0,170.0,0.0024,0.0091
+Alpha Protocol,PC,Sega,Role-Playing,2010,3.3,0.0,0.03,0.0,0.01,0.04,987.0,9.0,511.0,182.0,170.0,0.0002,0.0091
+Need for Speed: Hot Pursuit,PS3,Electronic Arts,Racing,2010,3.3,1.05,1.25,0.03,0.48,2.81,2000.0,23.0,182.0,54.0,148.0,0.019,0.0115
+Need for Speed: Hot Pursuit,X360,Electronic Arts,Racing,2010,3.3,1.03,0.98,0.0,0.21,2.22,2000.0,23.0,182.0,54.0,148.0,0.015,0.0115
+Need for Speed: Hot Pursuit,Wii,Electronic Arts,Racing,2010,3.3,0.18,0.24,0.0,0.05,0.48,2000.0,23.0,182.0,54.0,148.0,0.0032,0.0115
+Need for Speed: Hot Pursuit,PC,Electronic Arts,Racing,2010,3.3,0.12,0.2,0.0,0.06,0.38,2000.0,23.0,182.0,54.0,148.0,0.0026,0.0115
+Ratchet & Clank: Size Matters,PSP,Sony Computer Entertainment,Platform,2007,2.8,1.4,1.4,0.1,0.87,3.77,1500.0,10.0,287.0,115.0,172.0,0.0219,0.0067
+Ratchet & Clank: Size Matters,PS2,Sony Computer Entertainment,Platform,2007,2.8,0.13,0.1,0.03,0.03,0.29,1500.0,10.0,287.0,115.0,172.0,0.0017,0.0067
+Mario Power Tennis,GC,Nintendo,Sports,2004,3.5,0.58,0.16,0.46,0.03,1.22,1900.0,6.0,146.0,91.0,150.0,0.0081,0.0032
+Ms. Pac-Man,2600,Atari,Puzzle,1982,3.6,1.54,0.1,0.0,0.02,1.65,1600.0,1.0,45.0,38.0,198.0,0.0083,0.0006
+Gun,PS2,Activision,Shooter,2005,3.3,0.98,0.04,0.0,0.16,1.17,1400.0,5.0,276.0,152.0,131.0,0.0089,0.0036
+Gun,XB,Activision,Shooter,2005,3.3,0.38,0.12,0.0,0.02,0.52,1400.0,5.0,276.0,152.0,131.0,0.004,0.0036
+Gun,X360,Activision,Shooter,2005,3.3,0.24,0.01,0.0,0.02,0.27,1400.0,5.0,276.0,152.0,131.0,0.0021,0.0036
+Gun,GC,Activision,Shooter,2005,3.3,0.14,0.04,0.0,0.0,0.18,1400.0,5.0,276.0,152.0,131.0,0.0014,0.0036
+Naruto: Ultimate Ninja 3,PS2,Atari,Fighting,2005,3.5,0.36,0.01,0.0,0.06,0.44,1900.0,2.0,67.0,32.0,120.0,0.0037,0.0011
+Superman: The New Superman Adventures,N64,Titus,Action,1999,0.7,0.33,0.07,0.0,0.0,0.41,859.0,2.0,76.0,55.0,69.0,0.0059,0.0023
+The Lord of the Rings: The Two Towers,PS2,Electronic Arts,Action,2002,3.3,1.94,1.95,0.08,0.7,4.67,1600.0,8.0,172.0,72.0,100.0,0.0467,0.005
+The Lord of the Rings: The Two Towers,GBA,Electronic Arts,Action,2002,3.3,0.53,0.2,0.0,0.01,0.74,1600.0,8.0,172.0,72.0,100.0,0.0074,0.005
+The Lord of the Rings: The Two Towers,XB,Electronic Arts,Action,2002,3.3,0.45,0.24,0.0,0.03,0.71,1600.0,8.0,172.0,72.0,100.0,0.0071,0.005
+The Lord of the Rings: The Two Towers,GC,Electronic Arts,Action,2002,3.3,0.41,0.11,0.0,0.01,0.53,1600.0,8.0,172.0,72.0,100.0,0.0053,0.005
+FIFA 14,PS3,Electronic Arts,Sports,2013,3.2,0.78,4.32,0.07,1.73,6.9,2200.0,8.0,52.0,13.0,92.0,0.075,0.0036
+FIFA 14,X360,Electronic Arts,Sports,2013,3.2,0.92,2.93,0.01,0.46,4.31,2200.0,8.0,52.0,13.0,92.0,0.0468,0.0036
+FIFA 14,PS4,Electronic Arts,Sports,2013,3.2,0.61,1.85,0.11,0.33,2.9,2200.0,8.0,52.0,13.0,92.0,0.0315,0.0036
+FIFA 14,XOne,Electronic Arts,Sports,2013,3.2,0.41,0.66,0.0,0.12,1.19,2200.0,8.0,52.0,13.0,92.0,0.0129,0.0036
+FIFA 14,PSV,Electronic Arts,Sports,2013,3.2,0.11,0.25,0.01,0.13,0.5,2200.0,8.0,52.0,13.0,92.0,0.0054,0.0036
+FIFA 14,PC,Electronic Arts,Sports,2013,3.2,0.01,0.36,0.0,0.06,0.43,2200.0,8.0,52.0,13.0,92.0,0.0047,0.0036
+FIFA 14,Wii,Electronic Arts,Sports,2013,3.2,0.0,0.38,0.0,0.05,0.43,2200.0,8.0,52.0,13.0,92.0,0.0047,0.0036
+FIFA 14,3DS,Electronic Arts,Sports,2013,3.2,0.0,0.23,0.0,0.03,0.25,2200.0,8.0,52.0,13.0,92.0,0.0027,0.0036
+FIFA 14,PSP,Electronic Arts,Sports,2013,3.2,0.0,0.16,0.0,0.07,0.23,2200.0,8.0,52.0,13.0,92.0,0.0025,0.0036
+The Warriors,PS2,Take-Two Interactive,Action,2005,3.9,0.44,0.02,0.0,0.07,0.53,927.0,10.0,274.0,191.0,182.0,0.0029,0.0108
+The Warriors,XB,Take-Two Interactive,Action,2005,3.9,0.21,0.06,0.0,0.01,0.28,927.0,10.0,274.0,191.0,182.0,0.0015,0.0108
+The Warriors,PSP,Take-Two Interactive,Action,2005,3.9,0.23,0.02,0.0,0.03,0.28,927.0,10.0,274.0,191.0,182.0,0.0015,0.0108
+Mega Man ZX Advent,DS,Capcom,Platform,2007,3.6,0.23,0.0,0.09,0.02,0.35,976.0,19.0,462.0,110.0,173.0,0.002,0.0195
+Twisted Metal,PS,Sony Computer Entertainment,Action,1995,3.1,1.32,0.19,0.0,0.05,1.56,986.0,1.0,148.0,81.0,117.0,0.0133,0.001
+Parasite Eve II,PS,SquareSoft,Role-Playing,1999,3.4,0.32,0.22,0.0,0.04,0.58,763.0,16.0,657.0,344.0,229.0,0.0025,0.021
+Tom Clancy's Splinter Cell: Pandora Tomorrow,XB,Ubisoft,Action,2004,3.4,0.82,0.59,0.0,0.07,1.48,1000.0,7.0,317.0,123.0,137.0,0.0108,0.007
+Tom Clancy's Splinter Cell: Pandora Tomorrow,PS2,Ubisoft,Action,2004,3.4,0.52,0.56,0.0,0.17,1.25,1000.0,7.0,317.0,123.0,137.0,0.0091,0.007
+Tom Clancy's Splinter Cell: Pandora Tomorrow,GC,Ubisoft,Action,2004,3.4,0.06,0.02,0.0,0.0,0.08,1000.0,7.0,317.0,123.0,137.0,0.0006,0.007
+Tom Clancy's Splinter Cell: Pandora Tomorrow,GBA,Ubisoft,Action,2004,3.4,0.05,0.02,0.0,0.0,0.06,1000.0,7.0,317.0,123.0,137.0,0.0004,0.007
+Kingdoms of Amalur: Reckoning,X360,Electronic Arts,Role-Playing,2012,3.2,0.55,0.25,0.01,0.07,0.89,1200.0,22.0,365.0,106.0,99.0,0.009,0.0183
+Kingdoms of Amalur: Reckoning,PS3,Electronic Arts,Role-Playing,2012,3.2,0.37,0.3,0.09,0.11,0.87,1200.0,22.0,365.0,106.0,99.0,0.0088,0.0183
+Kingdoms of Amalur: Reckoning,PC,Electronic Arts,Role-Playing,2012,3.2,0.14,0.13,0.0,0.04,0.31,1200.0,22.0,365.0,106.0,99.0,0.0031,0.0183
+Grand Theft Auto,PS,Take-Two Interactive,Action,1997,2.5,0.79,1.35,0.04,0.14,2.32,1600.0,4.0,225.0,109.0,181.0,0.0128,0.0025
+Grand Theft Auto,GBA,Take-Two Interactive,Action,1997,2.5,0.17,0.06,0.0,0.0,0.24,1600.0,4.0,225.0,109.0,181.0,0.0013,0.0025
+Sonic the Hedgehog 2,GEN,Sega,Platform,1992,2.8,4.47,1.2,0.16,0.19,6.03,1400.0,6.0,173.0,45.0,157.0,0.0384,0.0043
+Guitar Hero 5,Wii,Activision,Misc,2009,3.2,0.94,0.49,0.0,0.15,1.58,1100.0,0.0,65.0,22.0,63.0,0.0251,0.0
+Guitar Hero 5,X360,Activision,Misc,2009,3.2,0.65,0.37,0.0,0.11,1.14,1100.0,0.0,65.0,22.0,63.0,0.0181,0.0
+Guitar Hero 5,PS2,Activision,Misc,2009,3.2,0.28,0.3,0.0,0.54,1.12,1100.0,0.0,65.0,22.0,63.0,0.0178,0.0
+Guitar Hero 5,PS3,Activision,Misc,2009,3.2,0.53,0.4,0.0,0.17,1.1,1100.0,0.0,65.0,22.0,63.0,0.0175,0.0
+Silent Hill: Homecoming,X360,Konami Digital Entertainment,Action,2008,2.1,0.25,0.16,0.0,0.04,0.45,1300.0,18.0,382.0,227.0,206.0,0.0022,0.0138
+Silent Hill: Homecoming,PS3,Konami Digital Entertainment,Action,2008,2.1,0.18,0.15,0.0,0.06,0.4,1300.0,18.0,382.0,227.0,206.0,0.0019,0.0138
+Mighty No. 9,PS4,Deep Silver,Platform,2016,1.6,0.04,0.0,0.0,0.01,0.05,907.0,5.0,263.0,71.0,137.0,0.0004,0.0055
+Mighty No. 9,WiiU,Deep Silver,Platform,2016,1.6,0.01,0.01,0.0,0.0,0.02,907.0,5.0,263.0,71.0,137.0,0.0001,0.0055
+Mighty No. 9,XOne,Deep Silver,Platform,2016,1.6,0.01,0.0,0.0,0.0,0.01,907.0,5.0,263.0,71.0,137.0,0.0001,0.0055
+Dragon Ball GT: Final Bout,PS,Namco Bandai Games,Fighting,1997,1.8,0.02,0.02,0.22,0.02,0.27,1200.0,2.0,39.0,23.0,83.0,0.0033,0.0017
+Killzone 3,PS3,Sony Computer Entertainment,Shooter,2011,3.1,1.45,0.88,0.09,0.38,2.79,1300.0,6.0,249.0,91.0,155.0,0.018,0.0046
+The Godfather,PS2,Electronic Arts,Action,2006,3.6,0.89,0.03,0.01,0.15,1.09,1100.0,2.0,196.0,136.0,121.0,0.009,0.0018
+Billy Hatcher and the Giant Egg,GC,Sega,Platform,2003,3.1,0.19,0.05,0.0,0.01,0.25,797.0,12.0,322.0,212.0,133.0,0.0019,0.0151
+Tekken Tag Tournament 2,PS3,Namco Bandai Games,Fighting,2011,3.8,0.28,0.33,0.13,0.14,0.88,1700.0,7.0,140.0,95.0,211.0,0.0042,0.0041
+Tekken Tag Tournament 2,X360,Namco Bandai Games,Fighting,2011,3.8,0.19,0.12,0.01,0.03,0.35,1700.0,7.0,140.0,95.0,211.0,0.0017,0.0041
+Tekken Tag Tournament 2,WiiU,Namco Bandai Games,Fighting,2011,3.8,0.09,0.07,0.01,0.01,0.19,1700.0,7.0,140.0,95.0,211.0,0.0009,0.0041
+Back to the Future: The Game,PS4,Telltale Games,Adventure,2010,3.2,0.1,0.04,0.0,0.03,0.17,763.0,5.0,223.0,67.0,94.0,0.0018,0.0066
+Back to the Future: The Game,PS3,Telltale Games,Adventure,2010,3.2,0.07,0.01,0.0,0.01,0.09,763.0,5.0,223.0,67.0,94.0,0.001,0.0066
+Back to the Future: The Game,Wii,Telltale Games,Adventure,2010,3.2,0.05,0.0,0.0,0.0,0.06,763.0,5.0,223.0,67.0,94.0,0.0006,0.0066
+Back to the Future: The Game,X360,Telltale Games,Adventure,2010,3.2,0.02,0.01,0.0,0.0,0.03,763.0,5.0,223.0,67.0,94.0,0.0003,0.0066
+Back to the Future: The Game,XOne,Telltale Games,Adventure,2010,3.2,0.0,0.02,0.0,0.0,0.02,763.0,5.0,223.0,67.0,94.0,0.0002,0.0066
+Dragon's Dogma,PS3,Capcom,Role-Playing,2012,3.7,0.41,0.46,0.72,0.19,1.78,1100.0,45.0,487.0,206.0,210.0,0.0085,0.0409
+Dragon's Dogma,X360,Capcom,Role-Playing,2012,3.7,0.42,0.24,0.07,0.06,0.8,1100.0,45.0,487.0,206.0,210.0,0.0038,0.0409
+The LEGO Movie Videogame,X360,Warner Bros. Interactive Entertainment,Action,2014,2.8,0.69,0.52,0.0,0.11,1.32,1700.0,11.0,239.0,73.0,184.0,0.0072,0.0065
+The LEGO Movie Videogame,PS3,Warner Bros. Interactive Entertainment,Action,2014,2.8,0.33,0.48,0.02,0.18,1.01,1700.0,11.0,239.0,73.0,184.0,0.0055,0.0065
+The LEGO Movie Videogame,3DS,Warner Bros. Interactive Entertainment,Action,2014,2.8,0.28,0.31,0.05,0.05,0.69,1700.0,11.0,239.0,73.0,184.0,0.0038,0.0065
+The LEGO Movie Videogame,PS4,Warner Bros. Interactive Entertainment,Action,2014,2.8,0.24,0.31,0.01,0.11,0.67,1700.0,11.0,239.0,73.0,184.0,0.0036,0.0065
+The LEGO Movie Videogame,WiiU,Warner Bros. Interactive Entertainment,Action,2014,2.8,0.35,0.23,0.03,0.06,0.66,1700.0,11.0,239.0,73.0,184.0,0.0036,0.0065
+The LEGO Movie Videogame,XOne,Warner Bros. Interactive Entertainment,Action,2014,2.8,0.34,0.13,0.0,0.04,0.51,1700.0,11.0,239.0,73.0,184.0,0.0028,0.0065
+The LEGO Movie Videogame,PSV,Warner Bros. Interactive Entertainment,Action,2014,2.8,0.05,0.26,0.0,0.09,0.41,1700.0,11.0,239.0,73.0,184.0,0.0022,0.0065
+The LEGO Movie Videogame,PC,Warner Bros. Interactive Entertainment,Action,2014,2.8,0.02,0.04,0.0,0.01,0.06,1700.0,11.0,239.0,73.0,184.0,0.0003,0.0065
